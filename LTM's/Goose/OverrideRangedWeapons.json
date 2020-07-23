@@ -1,0 +1,3484 @@
+[
+  {
+    "Goose_Weapon_C": {
+      "Spread": {
+        "Position": 78,
+        "Value": 0.05
+      },
+      "SpreadDownsights": {
+        "Position": 107,
+        "Value": 1.0
+      },
+      "StandingStillSpreadMultiplier": {
+        "Position": 136,
+        "Value": 1.0
+      },
+      "AthenaCrouchingSpreadMultiplier": {
+        "Position": 165,
+        "Value": 1.0
+      },
+      "AthenaJumpingFallingSpreadMultiplier": {
+        "Position": 194,
+        "Value": 1.0
+      },
+      "AthenaSprintingSpreadMultiplier": {
+        "Position": 223,
+        "Value": 1.0
+      },
+      "MinSpeedForSpreadMultiplier": {
+        "Position": 252,
+        "Value": 90.0
+      },
+      "MaxSpeedForSpreadMultiplier": {
+        "Position": 281,
+        "Value": 100.0
+      },
+      "SpreadDownsightsAdditionalCooldownTime": {
+        "Position": 310,
+        "Value": 0.0
+      },
+      "HeatX1": {
+        "Position": 339,
+        "Value": 1.0
+      },
+      "HeatY1": {
+        "Position": 368,
+        "Value": 6.0
+      },
+      "HeatX2": {
+        "Position": 397,
+        "Value": 1.0
+      },
+      "HeatY2": {
+        "Position": 426,
+        "Value": 6.0
+      },
+      "HeatX3": {
+        "Position": 455,
+        "Value": 1.0
+      },
+      "HeatY3": {
+        "Position": 484,
+        "Value": 6.0
+      },
+      "HeatXScale": {
+        "Position": 513,
+        "Value": 0.0
+      },
+      "HeatYScale": {
+        "Position": 542,
+        "Value": 0.0
+      },
+      "CoolX1": {
+        "Position": 571,
+        "Value": 1.0
+      },
+      "CoolY1": {
+        "Position": 600,
+        "Value": 6.0
+      },
+      "CoolX2": {
+        "Position": 629,
+        "Value": 1.0
+      },
+      "CoolY2": {
+        "Position": 658,
+        "Value": 6.0
+      },
+      "CoolX3": {
+        "Position": 687,
+        "Value": 1.0
+      },
+      "CoolY3": {
+        "Position": 716,
+        "Value": 6.0
+      },
+      "CoolXScale": {
+        "Position": 745,
+        "Value": 0.0
+      },
+      "CoolYScale": {
+        "Position": 774,
+        "Value": 0.0
+      },
+      "PerfectAimCooldown": {
+        "Position": 803,
+        "Value": 0.0
+      },
+      "BulletsPerCartridge": {
+        "Position": 832,
+        "Value": 1
+      },
+      "FiringRate": {
+        "Position": 861,
+        "Value": 2.0
+      },
+      "ROFScale": {
+        "Position": 890,
+        "Value": 0.0
+      },
+      "BurstFiringRate": {
+        "Position": 919,
+        "Value": 5.0
+      },
+      "FiringRateDownsightsMultiplier": {
+        "Position": 948,
+        "Value": 1.0
+      },
+      "AutofireRange": {
+        "Position": 977,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionDelay": {
+        "Position": 1006,
+        "Value": 0.15
+      },
+      "AutofireDBNOAcquisitionDelay": {
+        "Position": 1035,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionRechargeTime": {
+        "Position": 1064,
+        "Value": 0.0
+      },
+      "AutofireReleaseTime": {
+        "Position": 1093,
+        "Value": 0.0
+      },
+      "AutofireCooldown": {
+        "Position": 1122,
+        "Value": 0.0
+      },
+      "RecoilVert": {
+        "Position": 1151,
+        "Value": 1.0
+      },
+      "RecoilVertScale": {
+        "Position": 1180,
+        "Value": 1.0
+      },
+      "RecoilVertScaleGamepad": {
+        "Position": 1209,
+        "Value": 0.75
+      },
+      "VertRecoilDownChance": {
+        "Position": 1238,
+        "Value": 0.0
+      },
+      "RecoilHoriz": {
+        "Position": 1267,
+        "Value": 1.0
+      },
+      "RecoilHorizScale": {
+        "Position": 1296,
+        "Value": 1.0
+      },
+      "RecoilHorizScaleGamepad": {
+        "Position": 1325,
+        "Value": 1.0
+      },
+      "RecoilInterpSpeed": {
+        "Position": 1354,
+        "Value": 12.0
+      },
+      "RecoilRecoveryInterpSpeed": {
+        "Position": 1383,
+        "Value": 6.0
+      },
+      "RecoilRecoveryDelay": {
+        "Position": 1412,
+        "Value": 0.0
+      },
+      "RecoilRecoveryFraction": {
+        "Position": 1441,
+        "Value": 1.0
+      },
+      "RecoilDownsightsMultiplier": {
+        "Position": 1470,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMin": {
+        "Position": 1499,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMax": {
+        "Position": 1528,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeScale": {
+        "Position": 1557,
+        "Value": 1.0
+      },
+      "AthenaRecoilAngleMin": {
+        "Position": 1586,
+        "Value": -25.0
+      },
+      "AthenaRecoilAngleMax": {
+        "Position": 1615,
+        "Value": 25.0
+      },
+      "AthenaRecoilRollMagnitudeMin": {
+        "Position": 1644,
+        "Value": 0.0
+      },
+      "AthenaRecoilRollMagnitudeMax": {
+        "Position": 1673,
+        "Value": 0.0
+      },
+      "AthenaRecoilInterpSpeed": {
+        "Position": 1702,
+        "Value": 12.0
+      },
+      "AthenaRecoilRecoveryInterpSpeed": {
+        "Position": 1731,
+        "Value": 6.0
+      },
+      "AthenaRecoilDownsightsMultiplier": {
+        "Position": 1760,
+        "Value": 1.0
+      },
+      "AthenaRecoilHipFireMultiplier": {
+        "Position": 1789,
+        "Value": 0.0
+      },
+      "AthenaAimAssistRange": {
+        "Position": 1818,
+        "Value": 35000.0
+      },
+      "ADSTransitionInTime": {
+        "Position": 1847,
+        "Value": 0.2
+      },
+      "ADSTransitionOutTime": {
+        "Position": 1876,
+        "Value": 0.2
+      },
+      "MaxSpareAmmo": {
+        "Position": 1905,
+        "Value": 100
+      },
+      "BulletsPerTracer": {
+        "Position": 1934,
+        "Value": 1
+      },
+      "AIDelayBeforeFiringMin": {
+        "Position": 1963,
+        "Value": 0.0
+      },
+      "AIDelayBeforeFiringMax": {
+        "Position": 1992,
+        "Value": 0.25
+      },
+      "AIFireDurationMin": {
+        "Position": 2021,
+        "Value": 0.0
+      },
+      "AIFireDurationMax": {
+        "Position": 2050,
+        "Value": 0.0
+      },
+      "AIMinSpreadDuration": {
+        "Position": 2079,
+        "Value": 2.0
+      },
+      "AIMaxSpreadDuration": {
+        "Position": 2108,
+        "Value": 10.0
+      },
+      "AIDurationSpreadMultiplier": {
+        "Position": 2137,
+        "Value": 5.0
+      },
+      "AIAdditionalSpreadForTargetMovingLaterally": {
+        "Position": 2166,
+        "Value": 5.0
+      },
+      "AIAthenaHearFiringNoiseRange": {
+        "Position": 2195,
+        "Value": 6000.0
+      },
+      "EQSDensity": {
+        "Position": 2224,
+        "Value": 128.0
+      },
+      "MinApproachRange": {
+        "Position": 2253,
+        "Value": 0.0
+      },
+      "MinActualRange": {
+        "Position": 2282,
+        "Value": 96.0
+      },
+      "MinPreferredRange": {
+        "Position": 2311,
+        "Value": 288.0
+      },
+      "MinPreferredRangeEQS": {
+        "Position": 2340,
+        "Value": 384.0
+      },
+      "MaxPreferredRangeEQS": {
+        "Position": 2369,
+        "Value": 2432.0
+      },
+      "MaxPreferredRange": {
+        "Position": 2398,
+        "Value": 2496.0
+      },
+      "MaxActualRange": {
+        "Position": 2427,
+        "Value": 3120.0
+      },
+      "MaxApproachRange": {
+        "Position": 2456,
+        "Value": 4096.0
+      },
+      "RangeToAutomaticallyAddEnemyPawnGoals": {
+        "Position": 2485,
+        "Value": 0.0
+      },
+      "SweepRadius": {
+        "Position": 2514,
+        "Value": 0.0
+      },
+      "AutoReloadDelayOverride": {
+        "Position": 2543,
+        "Value": -1.0
+      },
+      "OverheatingMaxValue": {
+        "Position": 2572,
+        "Value": 1000.0
+      },
+      "OverheatHeatingValue": {
+        "Position": 2601,
+        "Value": 1.0
+      },
+      "FullChargeOverheatHeatingValue": {
+        "Position": 2630,
+        "Value": 0.0
+      },
+      "OverheatingCoolingValue": {
+        "Position": 2659,
+        "Value": 50.0
+      },
+      "HeatingCooldownDelay": {
+        "Position": 2688,
+        "Value": 0.5
+      },
+      "OverheatedCooldownDelay": {
+        "Position": 2717,
+        "Value": 3.0
+      },
+      "bCoolOverheatWhileCharging": {
+        "Position": 2745,
+        "Value": true
+      },
+      "FortHomingTurnSpeedMin": {
+        "Position": 2772,
+        "Value": 0.0
+      },
+      "FortHomingTurnSpeedMax": {
+        "Position": 2801,
+        "Value": 0.0
+      },
+      "FortHomingTimeUntilMaxTurnSpeed": {
+        "Position": 2830,
+        "Value": 0.5
+      },
+      "BaseLevel": {
+        "Position": 2859,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 2888,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 2921,
+        "Value": 200.0
+      },
+      "DmgMid": {
+        "Position": 2950,
+        "Value": 200.0
+      },
+      "DmgLong": {
+        "Position": 2979,
+        "Value": 200.0
+      },
+      "DmgMaxRange": {
+        "Position": 3008,
+        "Value": 200.0
+      },
+      "EnvDmgPB": {
+        "Position": 3037,
+        "Value": 200.0
+      },
+      "EnvDmgMid": {
+        "Position": 3066,
+        "Value": 200.0
+      },
+      "EnvDmgLong": {
+        "Position": 3095,
+        "Value": 200.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 3124,
+        "Value": 200.0
+      },
+      "ImpactDmgPB": {
+        "Position": 3153,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 3182,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 3211,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 3240,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 3268,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 3295,
+        "Value": 50000.0
+      },
+      "RngMid": {
+        "Position": 3324,
+        "Value": 50000.0
+      },
+      "RngLong": {
+        "Position": 3353,
+        "Value": 50000.0
+      },
+      "RngMax": {
+        "Position": 3382,
+        "Value": 50000.0
+      },
+      "DmgScaleTable": {
+        "Position": 3411,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 3440,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 3473,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 3502,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 3531,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 3564,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 3593,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 3622,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 3655,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 3684,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 3717,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 3746,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 3775,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 3804,
+        "Value": 0.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 3833,
+        "Value": 300.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 3862,
+        "Value": 300.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 3891,
+        "Value": 300.0
+      },
+      "KnockbackZAngle": {
+        "Position": 3920,
+        "Value": 0.5
+      },
+      "StunTime": {
+        "Position": 3949,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 3978,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 4007,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 4036,
+        "Value": {
+          "String": "TrapDurability_Infinite"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 4069,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 4098,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 4127,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 4156,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 4185,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 4214,
+        "Value": 3.2
+      },
+      "ReloadScale": {
+        "Position": 4243,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 4280,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 4312,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 4338,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 4365,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 4394,
+        "Value": 1000000
+      },
+      "ClipScale": {
+        "Position": 4423,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 4452,
+        "Value": 1
+      },
+      "CartridgePerFire": {
+        "Position": 4481,
+        "Value": 1
+      },
+      "AmmoCostPerFire": {
+        "Position": 4510,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 4539,
+        "Value": 1
+      },
+      "MinChargeTime": {
+        "Position": 4568,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 4597,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 4626,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 4654,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 4681,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 4710,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 4739,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 4768,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 4797,
+        "Value": 1.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 4826,
+        "Value": 0.0
+      }
+    },
+    "Goose_Weapon_VR": {
+      "Spread": {
+        "Position": 4871,
+        "Value": 0.04
+      },
+      "SpreadDownsights": {
+        "Position": 4900,
+        "Value": 1.0
+      },
+      "StandingStillSpreadMultiplier": {
+        "Position": 4929,
+        "Value": 1.0
+      },
+      "AthenaCrouchingSpreadMultiplier": {
+        "Position": 4958,
+        "Value": 1.0
+      },
+      "AthenaJumpingFallingSpreadMultiplier": {
+        "Position": 4987,
+        "Value": 1.0
+      },
+      "AthenaSprintingSpreadMultiplier": {
+        "Position": 5016,
+        "Value": 1.0
+      },
+      "MinSpeedForSpreadMultiplier": {
+        "Position": 5045,
+        "Value": 90.0
+      },
+      "MaxSpeedForSpreadMultiplier": {
+        "Position": 5074,
+        "Value": 100.0
+      },
+      "SpreadDownsightsAdditionalCooldownTime": {
+        "Position": 5103,
+        "Value": 0.0
+      },
+      "HeatX1": {
+        "Position": 5132,
+        "Value": 1.0
+      },
+      "HeatY1": {
+        "Position": 5161,
+        "Value": 6.0
+      },
+      "HeatX2": {
+        "Position": 5190,
+        "Value": 1.0
+      },
+      "HeatY2": {
+        "Position": 5219,
+        "Value": 6.0
+      },
+      "HeatX3": {
+        "Position": 5248,
+        "Value": 1.0
+      },
+      "HeatY3": {
+        "Position": 5277,
+        "Value": 6.0
+      },
+      "HeatXScale": {
+        "Position": 5306,
+        "Value": 0.0
+      },
+      "HeatYScale": {
+        "Position": 5335,
+        "Value": 0.0
+      },
+      "CoolX1": {
+        "Position": 5364,
+        "Value": 1.0
+      },
+      "CoolY1": {
+        "Position": 5393,
+        "Value": 6.0
+      },
+      "CoolX2": {
+        "Position": 5422,
+        "Value": 1.0
+      },
+      "CoolY2": {
+        "Position": 5451,
+        "Value": 6.0
+      },
+      "CoolX3": {
+        "Position": 5480,
+        "Value": 1.0
+      },
+      "CoolY3": {
+        "Position": 5509,
+        "Value": 6.0
+      },
+      "CoolXScale": {
+        "Position": 5538,
+        "Value": 0.0
+      },
+      "CoolYScale": {
+        "Position": 5567,
+        "Value": 0.0
+      },
+      "PerfectAimCooldown": {
+        "Position": 5596,
+        "Value": 0.0
+      },
+      "BulletsPerCartridge": {
+        "Position": 5625,
+        "Value": 1
+      },
+      "FiringRate": {
+        "Position": 5654,
+        "Value": 1.5
+      },
+      "ROFScale": {
+        "Position": 5683,
+        "Value": 0.0
+      },
+      "BurstFiringRate": {
+        "Position": 5712,
+        "Value": 5.0
+      },
+      "FiringRateDownsightsMultiplier": {
+        "Position": 5741,
+        "Value": 1.0
+      },
+      "AutofireRange": {
+        "Position": 5770,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionDelay": {
+        "Position": 5799,
+        "Value": 0.15
+      },
+      "AutofireDBNOAcquisitionDelay": {
+        "Position": 5828,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionRechargeTime": {
+        "Position": 5857,
+        "Value": 0.0
+      },
+      "AutofireReleaseTime": {
+        "Position": 5886,
+        "Value": 0.0
+      },
+      "AutofireCooldown": {
+        "Position": 5915,
+        "Value": 0.0
+      },
+      "RecoilVert": {
+        "Position": 5944,
+        "Value": 1.0
+      },
+      "RecoilVertScale": {
+        "Position": 5973,
+        "Value": 1.0
+      },
+      "RecoilVertScaleGamepad": {
+        "Position": 6002,
+        "Value": 0.75
+      },
+      "VertRecoilDownChance": {
+        "Position": 6031,
+        "Value": 0.0
+      },
+      "RecoilHoriz": {
+        "Position": 6060,
+        "Value": 1.0
+      },
+      "RecoilHorizScale": {
+        "Position": 6089,
+        "Value": 1.0
+      },
+      "RecoilHorizScaleGamepad": {
+        "Position": 6118,
+        "Value": 1.0
+      },
+      "RecoilInterpSpeed": {
+        "Position": 6147,
+        "Value": 12.0
+      },
+      "RecoilRecoveryInterpSpeed": {
+        "Position": 6176,
+        "Value": 6.0
+      },
+      "RecoilRecoveryDelay": {
+        "Position": 6205,
+        "Value": 0.0
+      },
+      "RecoilRecoveryFraction": {
+        "Position": 6234,
+        "Value": 1.0
+      },
+      "RecoilDownsightsMultiplier": {
+        "Position": 6263,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMin": {
+        "Position": 6292,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMax": {
+        "Position": 6321,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeScale": {
+        "Position": 6350,
+        "Value": 1.0
+      },
+      "AthenaRecoilAngleMin": {
+        "Position": 6379,
+        "Value": -25.0
+      },
+      "AthenaRecoilAngleMax": {
+        "Position": 6408,
+        "Value": 25.0
+      },
+      "AthenaRecoilRollMagnitudeMin": {
+        "Position": 6437,
+        "Value": 0.0
+      },
+      "AthenaRecoilRollMagnitudeMax": {
+        "Position": 6466,
+        "Value": 0.0
+      },
+      "AthenaRecoilInterpSpeed": {
+        "Position": 6495,
+        "Value": 12.0
+      },
+      "AthenaRecoilRecoveryInterpSpeed": {
+        "Position": 6524,
+        "Value": 6.0
+      },
+      "AthenaRecoilDownsightsMultiplier": {
+        "Position": 6553,
+        "Value": 1.0
+      },
+      "AthenaRecoilHipFireMultiplier": {
+        "Position": 6582,
+        "Value": 0.0
+      },
+      "AthenaAimAssistRange": {
+        "Position": 6611,
+        "Value": 35000.0
+      },
+      "ADSTransitionInTime": {
+        "Position": 6640,
+        "Value": 0.2
+      },
+      "ADSTransitionOutTime": {
+        "Position": 6669,
+        "Value": 0.2
+      },
+      "MaxSpareAmmo": {
+        "Position": 6698,
+        "Value": 100
+      },
+      "BulletsPerTracer": {
+        "Position": 6727,
+        "Value": 1
+      },
+      "AIDelayBeforeFiringMin": {
+        "Position": 6756,
+        "Value": 0.0
+      },
+      "AIDelayBeforeFiringMax": {
+        "Position": 6785,
+        "Value": 0.25
+      },
+      "AIFireDurationMin": {
+        "Position": 6814,
+        "Value": 0.0
+      },
+      "AIFireDurationMax": {
+        "Position": 6843,
+        "Value": 0.0
+      },
+      "AIMinSpreadDuration": {
+        "Position": 6872,
+        "Value": 2.0
+      },
+      "AIMaxSpreadDuration": {
+        "Position": 6901,
+        "Value": 10.0
+      },
+      "AIDurationSpreadMultiplier": {
+        "Position": 6930,
+        "Value": 5.0
+      },
+      "AIAdditionalSpreadForTargetMovingLaterally": {
+        "Position": 6959,
+        "Value": 5.0
+      },
+      "AIAthenaHearFiringNoiseRange": {
+        "Position": 6988,
+        "Value": 6000.0
+      },
+      "EQSDensity": {
+        "Position": 7017,
+        "Value": 128.0
+      },
+      "MinApproachRange": {
+        "Position": 7046,
+        "Value": 0.0
+      },
+      "MinActualRange": {
+        "Position": 7075,
+        "Value": 96.0
+      },
+      "MinPreferredRange": {
+        "Position": 7104,
+        "Value": 288.0
+      },
+      "MinPreferredRangeEQS": {
+        "Position": 7133,
+        "Value": 384.0
+      },
+      "MaxPreferredRangeEQS": {
+        "Position": 7162,
+        "Value": 2432.0
+      },
+      "MaxPreferredRange": {
+        "Position": 7191,
+        "Value": 2496.0
+      },
+      "MaxActualRange": {
+        "Position": 7220,
+        "Value": 3120.0
+      },
+      "MaxApproachRange": {
+        "Position": 7249,
+        "Value": 4096.0
+      },
+      "RangeToAutomaticallyAddEnemyPawnGoals": {
+        "Position": 7278,
+        "Value": 0.0
+      },
+      "SweepRadius": {
+        "Position": 7307,
+        "Value": 0.0
+      },
+      "AutoReloadDelayOverride": {
+        "Position": 7336,
+        "Value": -1.0
+      },
+      "OverheatingMaxValue": {
+        "Position": 7365,
+        "Value": 1000.0
+      },
+      "OverheatHeatingValue": {
+        "Position": 7394,
+        "Value": 1.0
+      },
+      "FullChargeOverheatHeatingValue": {
+        "Position": 7423,
+        "Value": 0.0
+      },
+      "OverheatingCoolingValue": {
+        "Position": 7452,
+        "Value": 50.0
+      },
+      "HeatingCooldownDelay": {
+        "Position": 7481,
+        "Value": 0.5
+      },
+      "OverheatedCooldownDelay": {
+        "Position": 7510,
+        "Value": 3.0
+      },
+      "bCoolOverheatWhileCharging": {
+        "Position": 7538,
+        "Value": true
+      },
+      "FortHomingTurnSpeedMin": {
+        "Position": 7565,
+        "Value": 0.0
+      },
+      "FortHomingTurnSpeedMax": {
+        "Position": 7594,
+        "Value": 0.0
+      },
+      "FortHomingTimeUntilMaxTurnSpeed": {
+        "Position": 7623,
+        "Value": 0.5
+      },
+      "BaseLevel": {
+        "Position": 7652,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 7681,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 7714,
+        "Value": 300.0
+      },
+      "DmgMid": {
+        "Position": 7743,
+        "Value": 300.0
+      },
+      "DmgLong": {
+        "Position": 7772,
+        "Value": 300.0
+      },
+      "DmgMaxRange": {
+        "Position": 7801,
+        "Value": 300.0
+      },
+      "EnvDmgPB": {
+        "Position": 7830,
+        "Value": 300.0
+      },
+      "EnvDmgMid": {
+        "Position": 7859,
+        "Value": 300.0
+      },
+      "EnvDmgLong": {
+        "Position": 7888,
+        "Value": 300.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 7917,
+        "Value": 300.0
+      },
+      "ImpactDmgPB": {
+        "Position": 7946,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 7975,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 8004,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 8033,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 8061,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 8088,
+        "Value": 50000.0
+      },
+      "RngMid": {
+        "Position": 8117,
+        "Value": 50000.0
+      },
+      "RngLong": {
+        "Position": 8146,
+        "Value": 50000.0
+      },
+      "RngMax": {
+        "Position": 8175,
+        "Value": 50000.0
+      },
+      "DmgScaleTable": {
+        "Position": 8204,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 8233,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 8266,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 8295,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 8324,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 8357,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 8386,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 8415,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 8448,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 8477,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 8510,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 8539,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 8568,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 8597,
+        "Value": 0.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 8626,
+        "Value": 300.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 8655,
+        "Value": 300.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 8684,
+        "Value": 300.0
+      },
+      "KnockbackZAngle": {
+        "Position": 8713,
+        "Value": 0.5
+      },
+      "StunTime": {
+        "Position": 8742,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 8771,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 8800,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 8829,
+        "Value": {
+          "String": "TrapDurability_Infinite"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 8862,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 8891,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 8920,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 8949,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 8978,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 9007,
+        "Value": 3.2
+      },
+      "ReloadScale": {
+        "Position": 9036,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 9073,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 9105,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 9131,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 9158,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 9187,
+        "Value": 1000000
+      },
+      "ClipScale": {
+        "Position": 9216,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 9245,
+        "Value": 1
+      },
+      "CartridgePerFire": {
+        "Position": 9274,
+        "Value": 1
+      },
+      "AmmoCostPerFire": {
+        "Position": 9303,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 9332,
+        "Value": 1
+      },
+      "MinChargeTime": {
+        "Position": 9361,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 9390,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 9419,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 9447,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 9474,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 9503,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 9532,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 9561,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 9590,
+        "Value": 1.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 9619,
+        "Value": 0.0
+      }
+    },
+    "Goose_Weapon_UC": {
+      "Spread": {
+        "Position": 9664,
+        "Value": 0.03
+      },
+      "SpreadDownsights": {
+        "Position": 9693,
+        "Value": 1.0
+      },
+      "StandingStillSpreadMultiplier": {
+        "Position": 9722,
+        "Value": 1.0
+      },
+      "AthenaCrouchingSpreadMultiplier": {
+        "Position": 9751,
+        "Value": 1.0
+      },
+      "AthenaJumpingFallingSpreadMultiplier": {
+        "Position": 9780,
+        "Value": 1.0
+      },
+      "AthenaSprintingSpreadMultiplier": {
+        "Position": 9809,
+        "Value": 1.0
+      },
+      "MinSpeedForSpreadMultiplier": {
+        "Position": 9838,
+        "Value": 90.0
+      },
+      "MaxSpeedForSpreadMultiplier": {
+        "Position": 9867,
+        "Value": 100.0
+      },
+      "SpreadDownsightsAdditionalCooldownTime": {
+        "Position": 9896,
+        "Value": 0.0
+      },
+      "HeatX1": {
+        "Position": 9925,
+        "Value": 1.0
+      },
+      "HeatY1": {
+        "Position": 9954,
+        "Value": 6.0
+      },
+      "HeatX2": {
+        "Position": 9983,
+        "Value": 1.0
+      },
+      "HeatY2": {
+        "Position": 10012,
+        "Value": 6.0
+      },
+      "HeatX3": {
+        "Position": 10041,
+        "Value": 1.0
+      },
+      "HeatY3": {
+        "Position": 10070,
+        "Value": 6.0
+      },
+      "HeatXScale": {
+        "Position": 10099,
+        "Value": 0.0
+      },
+      "HeatYScale": {
+        "Position": 10128,
+        "Value": 0.0
+      },
+      "CoolX1": {
+        "Position": 10157,
+        "Value": 1.0
+      },
+      "CoolY1": {
+        "Position": 10186,
+        "Value": 6.0
+      },
+      "CoolX2": {
+        "Position": 10215,
+        "Value": 1.0
+      },
+      "CoolY2": {
+        "Position": 10244,
+        "Value": 6.0
+      },
+      "CoolX3": {
+        "Position": 10273,
+        "Value": 1.0
+      },
+      "CoolY3": {
+        "Position": 10302,
+        "Value": 6.0
+      },
+      "CoolXScale": {
+        "Position": 10331,
+        "Value": 0.0
+      },
+      "CoolYScale": {
+        "Position": 10360,
+        "Value": 0.0
+      },
+      "PerfectAimCooldown": {
+        "Position": 10389,
+        "Value": 0.0
+      },
+      "BulletsPerCartridge": {
+        "Position": 10418,
+        "Value": 1
+      },
+      "FiringRate": {
+        "Position": 10447,
+        "Value": 2.0
+      },
+      "ROFScale": {
+        "Position": 10476,
+        "Value": 0.0
+      },
+      "BurstFiringRate": {
+        "Position": 10505,
+        "Value": 5.0
+      },
+      "FiringRateDownsightsMultiplier": {
+        "Position": 10534,
+        "Value": 1.0
+      },
+      "AutofireRange": {
+        "Position": 10563,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionDelay": {
+        "Position": 10592,
+        "Value": 0.15
+      },
+      "AutofireDBNOAcquisitionDelay": {
+        "Position": 10621,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionRechargeTime": {
+        "Position": 10650,
+        "Value": 0.0
+      },
+      "AutofireReleaseTime": {
+        "Position": 10679,
+        "Value": 0.0
+      },
+      "AutofireCooldown": {
+        "Position": 10708,
+        "Value": 0.0
+      },
+      "RecoilVert": {
+        "Position": 10737,
+        "Value": 1.0
+      },
+      "RecoilVertScale": {
+        "Position": 10766,
+        "Value": 1.0
+      },
+      "RecoilVertScaleGamepad": {
+        "Position": 10795,
+        "Value": 0.75
+      },
+      "VertRecoilDownChance": {
+        "Position": 10824,
+        "Value": 0.0
+      },
+      "RecoilHoriz": {
+        "Position": 10853,
+        "Value": 1.0
+      },
+      "RecoilHorizScale": {
+        "Position": 10882,
+        "Value": 1.0
+      },
+      "RecoilHorizScaleGamepad": {
+        "Position": 10911,
+        "Value": 1.0
+      },
+      "RecoilInterpSpeed": {
+        "Position": 10940,
+        "Value": 12.0
+      },
+      "RecoilRecoveryInterpSpeed": {
+        "Position": 10969,
+        "Value": 6.0
+      },
+      "RecoilRecoveryDelay": {
+        "Position": 10998,
+        "Value": 0.0
+      },
+      "RecoilRecoveryFraction": {
+        "Position": 11027,
+        "Value": 1.0
+      },
+      "RecoilDownsightsMultiplier": {
+        "Position": 11056,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMin": {
+        "Position": 11085,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMax": {
+        "Position": 11114,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeScale": {
+        "Position": 11143,
+        "Value": 1.0
+      },
+      "AthenaRecoilAngleMin": {
+        "Position": 11172,
+        "Value": -25.0
+      },
+      "AthenaRecoilAngleMax": {
+        "Position": 11201,
+        "Value": 25.0
+      },
+      "AthenaRecoilRollMagnitudeMin": {
+        "Position": 11230,
+        "Value": 0.0
+      },
+      "AthenaRecoilRollMagnitudeMax": {
+        "Position": 11259,
+        "Value": 0.0
+      },
+      "AthenaRecoilInterpSpeed": {
+        "Position": 11288,
+        "Value": 12.0
+      },
+      "AthenaRecoilRecoveryInterpSpeed": {
+        "Position": 11317,
+        "Value": 6.0
+      },
+      "AthenaRecoilDownsightsMultiplier": {
+        "Position": 11346,
+        "Value": 1.0
+      },
+      "AthenaRecoilHipFireMultiplier": {
+        "Position": 11375,
+        "Value": 0.0
+      },
+      "AthenaAimAssistRange": {
+        "Position": 11404,
+        "Value": 35000.0
+      },
+      "ADSTransitionInTime": {
+        "Position": 11433,
+        "Value": 0.2
+      },
+      "ADSTransitionOutTime": {
+        "Position": 11462,
+        "Value": 0.2
+      },
+      "MaxSpareAmmo": {
+        "Position": 11491,
+        "Value": 100
+      },
+      "BulletsPerTracer": {
+        "Position": 11520,
+        "Value": 1
+      },
+      "AIDelayBeforeFiringMin": {
+        "Position": 11549,
+        "Value": 0.0
+      },
+      "AIDelayBeforeFiringMax": {
+        "Position": 11578,
+        "Value": 0.25
+      },
+      "AIFireDurationMin": {
+        "Position": 11607,
+        "Value": 0.0
+      },
+      "AIFireDurationMax": {
+        "Position": 11636,
+        "Value": 0.0
+      },
+      "AIMinSpreadDuration": {
+        "Position": 11665,
+        "Value": 2.0
+      },
+      "AIMaxSpreadDuration": {
+        "Position": 11694,
+        "Value": 10.0
+      },
+      "AIDurationSpreadMultiplier": {
+        "Position": 11723,
+        "Value": 5.0
+      },
+      "AIAdditionalSpreadForTargetMovingLaterally": {
+        "Position": 11752,
+        "Value": 5.0
+      },
+      "AIAthenaHearFiringNoiseRange": {
+        "Position": 11781,
+        "Value": 6000.0
+      },
+      "EQSDensity": {
+        "Position": 11810,
+        "Value": 128.0
+      },
+      "MinApproachRange": {
+        "Position": 11839,
+        "Value": 0.0
+      },
+      "MinActualRange": {
+        "Position": 11868,
+        "Value": 96.0
+      },
+      "MinPreferredRange": {
+        "Position": 11897,
+        "Value": 288.0
+      },
+      "MinPreferredRangeEQS": {
+        "Position": 11926,
+        "Value": 384.0
+      },
+      "MaxPreferredRangeEQS": {
+        "Position": 11955,
+        "Value": 2432.0
+      },
+      "MaxPreferredRange": {
+        "Position": 11984,
+        "Value": 2496.0
+      },
+      "MaxActualRange": {
+        "Position": 12013,
+        "Value": 3120.0
+      },
+      "MaxApproachRange": {
+        "Position": 12042,
+        "Value": 4096.0
+      },
+      "RangeToAutomaticallyAddEnemyPawnGoals": {
+        "Position": 12071,
+        "Value": 0.0
+      },
+      "SweepRadius": {
+        "Position": 12100,
+        "Value": 0.0
+      },
+      "AutoReloadDelayOverride": {
+        "Position": 12129,
+        "Value": -1.0
+      },
+      "OverheatingMaxValue": {
+        "Position": 12158,
+        "Value": 1000.0
+      },
+      "OverheatHeatingValue": {
+        "Position": 12187,
+        "Value": 1.0
+      },
+      "FullChargeOverheatHeatingValue": {
+        "Position": 12216,
+        "Value": 0.0
+      },
+      "OverheatingCoolingValue": {
+        "Position": 12245,
+        "Value": 50.0
+      },
+      "HeatingCooldownDelay": {
+        "Position": 12274,
+        "Value": 0.5
+      },
+      "OverheatedCooldownDelay": {
+        "Position": 12303,
+        "Value": 3.0
+      },
+      "bCoolOverheatWhileCharging": {
+        "Position": 12331,
+        "Value": true
+      },
+      "FortHomingTurnSpeedMin": {
+        "Position": 12358,
+        "Value": 0.0
+      },
+      "FortHomingTurnSpeedMax": {
+        "Position": 12387,
+        "Value": 0.0
+      },
+      "FortHomingTimeUntilMaxTurnSpeed": {
+        "Position": 12416,
+        "Value": 0.5
+      },
+      "BaseLevel": {
+        "Position": 12445,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 12474,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 12507,
+        "Value": 100.0
+      },
+      "DmgMid": {
+        "Position": 12536,
+        "Value": 100.0
+      },
+      "DmgLong": {
+        "Position": 12565,
+        "Value": 100.0
+      },
+      "DmgMaxRange": {
+        "Position": 12594,
+        "Value": 100.0
+      },
+      "EnvDmgPB": {
+        "Position": 12623,
+        "Value": 100.0
+      },
+      "EnvDmgMid": {
+        "Position": 12652,
+        "Value": 100.0
+      },
+      "EnvDmgLong": {
+        "Position": 12681,
+        "Value": 100.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 12710,
+        "Value": 100.0
+      },
+      "ImpactDmgPB": {
+        "Position": 12739,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 12768,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 12797,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 12826,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 12854,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 12881,
+        "Value": 50000.0
+      },
+      "RngMid": {
+        "Position": 12910,
+        "Value": 50000.0
+      },
+      "RngLong": {
+        "Position": 12939,
+        "Value": 50000.0
+      },
+      "RngMax": {
+        "Position": 12968,
+        "Value": 50000.0
+      },
+      "DmgScaleTable": {
+        "Position": 12997,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 13026,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 13059,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 13088,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 13117,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 13150,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 13179,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 13208,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 13241,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 13270,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 13303,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 13332,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 13361,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 13390,
+        "Value": 0.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 13419,
+        "Value": 300.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 13448,
+        "Value": 300.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 13477,
+        "Value": 300.0
+      },
+      "KnockbackZAngle": {
+        "Position": 13506,
+        "Value": 0.5
+      },
+      "StunTime": {
+        "Position": 13535,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 13564,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 13593,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 13622,
+        "Value": {
+          "String": "TrapDurability_Infinite"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 13655,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 13684,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 13713,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 13742,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 13771,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 13800,
+        "Value": 3.2
+      },
+      "ReloadScale": {
+        "Position": 13829,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 13866,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 13898,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 13924,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 13951,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 13980,
+        "Value": 1000000
+      },
+      "ClipScale": {
+        "Position": 14009,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 14038,
+        "Value": 1
+      },
+      "CartridgePerFire": {
+        "Position": 14067,
+        "Value": 1
+      },
+      "AmmoCostPerFire": {
+        "Position": 14096,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 14125,
+        "Value": 1
+      },
+      "MinChargeTime": {
+        "Position": 14154,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 14183,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 14212,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 14240,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 14267,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 14296,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 14325,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 14354,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 14383,
+        "Value": 1.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 14412,
+        "Value": 0.0
+      }
+    },
+    "Goose_Weapon_R": {
+      "Spread": {
+        "Position": 14457,
+        "Value": 0.04
+      },
+      "SpreadDownsights": {
+        "Position": 14486,
+        "Value": 1.0
+      },
+      "StandingStillSpreadMultiplier": {
+        "Position": 14515,
+        "Value": 1.0
+      },
+      "AthenaCrouchingSpreadMultiplier": {
+        "Position": 14544,
+        "Value": 1.0
+      },
+      "AthenaJumpingFallingSpreadMultiplier": {
+        "Position": 14573,
+        "Value": 1.0
+      },
+      "AthenaSprintingSpreadMultiplier": {
+        "Position": 14602,
+        "Value": 1.0
+      },
+      "MinSpeedForSpreadMultiplier": {
+        "Position": 14631,
+        "Value": 90.0
+      },
+      "MaxSpeedForSpreadMultiplier": {
+        "Position": 14660,
+        "Value": 100.0
+      },
+      "SpreadDownsightsAdditionalCooldownTime": {
+        "Position": 14689,
+        "Value": 0.0
+      },
+      "HeatX1": {
+        "Position": 14718,
+        "Value": 1.0
+      },
+      "HeatY1": {
+        "Position": 14747,
+        "Value": 6.0
+      },
+      "HeatX2": {
+        "Position": 14776,
+        "Value": 1.0
+      },
+      "HeatY2": {
+        "Position": 14805,
+        "Value": 6.0
+      },
+      "HeatX3": {
+        "Position": 14834,
+        "Value": 1.0
+      },
+      "HeatY3": {
+        "Position": 14863,
+        "Value": 6.0
+      },
+      "HeatXScale": {
+        "Position": 14892,
+        "Value": 0.0
+      },
+      "HeatYScale": {
+        "Position": 14921,
+        "Value": 0.0
+      },
+      "CoolX1": {
+        "Position": 14950,
+        "Value": 1.0
+      },
+      "CoolY1": {
+        "Position": 14979,
+        "Value": 6.0
+      },
+      "CoolX2": {
+        "Position": 15008,
+        "Value": 1.0
+      },
+      "CoolY2": {
+        "Position": 15037,
+        "Value": 6.0
+      },
+      "CoolX3": {
+        "Position": 15066,
+        "Value": 1.0
+      },
+      "CoolY3": {
+        "Position": 15095,
+        "Value": 6.0
+      },
+      "CoolXScale": {
+        "Position": 15124,
+        "Value": 0.0
+      },
+      "CoolYScale": {
+        "Position": 15153,
+        "Value": 0.0
+      },
+      "PerfectAimCooldown": {
+        "Position": 15182,
+        "Value": 0.0
+      },
+      "BulletsPerCartridge": {
+        "Position": 15211,
+        "Value": 1
+      },
+      "FiringRate": {
+        "Position": 15240,
+        "Value": 2.0
+      },
+      "ROFScale": {
+        "Position": 15269,
+        "Value": 0.0
+      },
+      "BurstFiringRate": {
+        "Position": 15298,
+        "Value": 5.0
+      },
+      "FiringRateDownsightsMultiplier": {
+        "Position": 15327,
+        "Value": 1.0
+      },
+      "AutofireRange": {
+        "Position": 15356,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionDelay": {
+        "Position": 15385,
+        "Value": 0.15
+      },
+      "AutofireDBNOAcquisitionDelay": {
+        "Position": 15414,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionRechargeTime": {
+        "Position": 15443,
+        "Value": 0.0
+      },
+      "AutofireReleaseTime": {
+        "Position": 15472,
+        "Value": 0.0
+      },
+      "AutofireCooldown": {
+        "Position": 15501,
+        "Value": 0.0
+      },
+      "RecoilVert": {
+        "Position": 15530,
+        "Value": 1.0
+      },
+      "RecoilVertScale": {
+        "Position": 15559,
+        "Value": 1.0
+      },
+      "RecoilVertScaleGamepad": {
+        "Position": 15588,
+        "Value": 0.75
+      },
+      "VertRecoilDownChance": {
+        "Position": 15617,
+        "Value": 0.0
+      },
+      "RecoilHoriz": {
+        "Position": 15646,
+        "Value": 1.0
+      },
+      "RecoilHorizScale": {
+        "Position": 15675,
+        "Value": 1.0
+      },
+      "RecoilHorizScaleGamepad": {
+        "Position": 15704,
+        "Value": 1.0
+      },
+      "RecoilInterpSpeed": {
+        "Position": 15733,
+        "Value": 12.0
+      },
+      "RecoilRecoveryInterpSpeed": {
+        "Position": 15762,
+        "Value": 6.0
+      },
+      "RecoilRecoveryDelay": {
+        "Position": 15791,
+        "Value": 0.0
+      },
+      "RecoilRecoveryFraction": {
+        "Position": 15820,
+        "Value": 1.0
+      },
+      "RecoilDownsightsMultiplier": {
+        "Position": 15849,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMin": {
+        "Position": 15878,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMax": {
+        "Position": 15907,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeScale": {
+        "Position": 15936,
+        "Value": 1.0
+      },
+      "AthenaRecoilAngleMin": {
+        "Position": 15965,
+        "Value": -25.0
+      },
+      "AthenaRecoilAngleMax": {
+        "Position": 15994,
+        "Value": 25.0
+      },
+      "AthenaRecoilRollMagnitudeMin": {
+        "Position": 16023,
+        "Value": 0.0
+      },
+      "AthenaRecoilRollMagnitudeMax": {
+        "Position": 16052,
+        "Value": 0.0
+      },
+      "AthenaRecoilInterpSpeed": {
+        "Position": 16081,
+        "Value": 12.0
+      },
+      "AthenaRecoilRecoveryInterpSpeed": {
+        "Position": 16110,
+        "Value": 6.0
+      },
+      "AthenaRecoilDownsightsMultiplier": {
+        "Position": 16139,
+        "Value": 1.0
+      },
+      "AthenaRecoilHipFireMultiplier": {
+        "Position": 16168,
+        "Value": 0.0
+      },
+      "AthenaAimAssistRange": {
+        "Position": 16197,
+        "Value": 35000.0
+      },
+      "ADSTransitionInTime": {
+        "Position": 16226,
+        "Value": 0.2
+      },
+      "ADSTransitionOutTime": {
+        "Position": 16255,
+        "Value": 0.2
+      },
+      "MaxSpareAmmo": {
+        "Position": 16284,
+        "Value": 100
+      },
+      "BulletsPerTracer": {
+        "Position": 16313,
+        "Value": 1
+      },
+      "AIDelayBeforeFiringMin": {
+        "Position": 16342,
+        "Value": 0.0
+      },
+      "AIDelayBeforeFiringMax": {
+        "Position": 16371,
+        "Value": 0.25
+      },
+      "AIFireDurationMin": {
+        "Position": 16400,
+        "Value": 0.0
+      },
+      "AIFireDurationMax": {
+        "Position": 16429,
+        "Value": 0.0
+      },
+      "AIMinSpreadDuration": {
+        "Position": 16458,
+        "Value": 2.0
+      },
+      "AIMaxSpreadDuration": {
+        "Position": 16487,
+        "Value": 10.0
+      },
+      "AIDurationSpreadMultiplier": {
+        "Position": 16516,
+        "Value": 5.0
+      },
+      "AIAdditionalSpreadForTargetMovingLaterally": {
+        "Position": 16545,
+        "Value": 5.0
+      },
+      "AIAthenaHearFiringNoiseRange": {
+        "Position": 16574,
+        "Value": 6000.0
+      },
+      "EQSDensity": {
+        "Position": 16603,
+        "Value": 128.0
+      },
+      "MinApproachRange": {
+        "Position": 16632,
+        "Value": 0.0
+      },
+      "MinActualRange": {
+        "Position": 16661,
+        "Value": 96.0
+      },
+      "MinPreferredRange": {
+        "Position": 16690,
+        "Value": 288.0
+      },
+      "MinPreferredRangeEQS": {
+        "Position": 16719,
+        "Value": 384.0
+      },
+      "MaxPreferredRangeEQS": {
+        "Position": 16748,
+        "Value": 2432.0
+      },
+      "MaxPreferredRange": {
+        "Position": 16777,
+        "Value": 2496.0
+      },
+      "MaxActualRange": {
+        "Position": 16806,
+        "Value": 3120.0
+      },
+      "MaxApproachRange": {
+        "Position": 16835,
+        "Value": 4096.0
+      },
+      "RangeToAutomaticallyAddEnemyPawnGoals": {
+        "Position": 16864,
+        "Value": 0.0
+      },
+      "SweepRadius": {
+        "Position": 16893,
+        "Value": 0.0
+      },
+      "AutoReloadDelayOverride": {
+        "Position": 16922,
+        "Value": -1.0
+      },
+      "OverheatingMaxValue": {
+        "Position": 16951,
+        "Value": 1000.0
+      },
+      "OverheatHeatingValue": {
+        "Position": 16980,
+        "Value": 1.0
+      },
+      "FullChargeOverheatHeatingValue": {
+        "Position": 17009,
+        "Value": 0.0
+      },
+      "OverheatingCoolingValue": {
+        "Position": 17038,
+        "Value": 50.0
+      },
+      "HeatingCooldownDelay": {
+        "Position": 17067,
+        "Value": 0.5
+      },
+      "OverheatedCooldownDelay": {
+        "Position": 17096,
+        "Value": 3.0
+      },
+      "bCoolOverheatWhileCharging": {
+        "Position": 17124,
+        "Value": true
+      },
+      "FortHomingTurnSpeedMin": {
+        "Position": 17151,
+        "Value": 0.0
+      },
+      "FortHomingTurnSpeedMax": {
+        "Position": 17180,
+        "Value": 0.0
+      },
+      "FortHomingTimeUntilMaxTurnSpeed": {
+        "Position": 17209,
+        "Value": 0.5
+      },
+      "BaseLevel": {
+        "Position": 17238,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 17267,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 17300,
+        "Value": 125.0
+      },
+      "DmgMid": {
+        "Position": 17329,
+        "Value": 125.0
+      },
+      "DmgLong": {
+        "Position": 17358,
+        "Value": 125.0
+      },
+      "DmgMaxRange": {
+        "Position": 17387,
+        "Value": 125.0
+      },
+      "EnvDmgPB": {
+        "Position": 17416,
+        "Value": 125.0
+      },
+      "EnvDmgMid": {
+        "Position": 17445,
+        "Value": 125.0
+      },
+      "EnvDmgLong": {
+        "Position": 17474,
+        "Value": 125.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 17503,
+        "Value": 125.0
+      },
+      "ImpactDmgPB": {
+        "Position": 17532,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 17561,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 17590,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 17619,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 17647,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 17674,
+        "Value": 50000.0
+      },
+      "RngMid": {
+        "Position": 17703,
+        "Value": 50000.0
+      },
+      "RngLong": {
+        "Position": 17732,
+        "Value": 50000.0
+      },
+      "RngMax": {
+        "Position": 17761,
+        "Value": 50000.0
+      },
+      "DmgScaleTable": {
+        "Position": 17790,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 17819,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 17852,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 17881,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 17910,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 17943,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 17972,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 18001,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 18034,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 18063,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 18096,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 18125,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 18154,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 18183,
+        "Value": 0.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 18212,
+        "Value": 300.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 18241,
+        "Value": 300.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 18270,
+        "Value": 300.0
+      },
+      "KnockbackZAngle": {
+        "Position": 18299,
+        "Value": 0.5
+      },
+      "StunTime": {
+        "Position": 18328,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 18357,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 18386,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 18415,
+        "Value": {
+          "String": "TrapDurability_Infinite"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 18448,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 18477,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 18506,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 18535,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 18564,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 18593,
+        "Value": 3.2
+      },
+      "ReloadScale": {
+        "Position": 18622,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 18659,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 18691,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 18717,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 18744,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 18773,
+        "Value": 1000000
+      },
+      "ClipScale": {
+        "Position": 18802,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 18831,
+        "Value": 1
+      },
+      "CartridgePerFire": {
+        "Position": 18860,
+        "Value": 1
+      },
+      "AmmoCostPerFire": {
+        "Position": 18889,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 18918,
+        "Value": 1
+      },
+      "MinChargeTime": {
+        "Position": 18947,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 18976,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 19005,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 19033,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 19060,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 19089,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 19118,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 19147,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 19176,
+        "Value": 1.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 19205,
+        "Value": 0.0
+      }
+    },
+    "Goose_Weapon_SR": {
+      "Spread": {
+        "Position": 19250,
+        "Value": 0.01
+      },
+      "SpreadDownsights": {
+        "Position": 19279,
+        "Value": 1.0
+      },
+      "StandingStillSpreadMultiplier": {
+        "Position": 19308,
+        "Value": 1.0
+      },
+      "AthenaCrouchingSpreadMultiplier": {
+        "Position": 19337,
+        "Value": 1.0
+      },
+      "AthenaJumpingFallingSpreadMultiplier": {
+        "Position": 19366,
+        "Value": 1.0
+      },
+      "AthenaSprintingSpreadMultiplier": {
+        "Position": 19395,
+        "Value": 1.0
+      },
+      "MinSpeedForSpreadMultiplier": {
+        "Position": 19424,
+        "Value": 90.0
+      },
+      "MaxSpeedForSpreadMultiplier": {
+        "Position": 19453,
+        "Value": 100.0
+      },
+      "SpreadDownsightsAdditionalCooldownTime": {
+        "Position": 19482,
+        "Value": 0.0
+      },
+      "HeatX1": {
+        "Position": 19511,
+        "Value": 1.0
+      },
+      "HeatY1": {
+        "Position": 19540,
+        "Value": 6.0
+      },
+      "HeatX2": {
+        "Position": 19569,
+        "Value": 1.0
+      },
+      "HeatY2": {
+        "Position": 19598,
+        "Value": 6.0
+      },
+      "HeatX3": {
+        "Position": 19627,
+        "Value": 1.0
+      },
+      "HeatY3": {
+        "Position": 19656,
+        "Value": 6.0
+      },
+      "HeatXScale": {
+        "Position": 19685,
+        "Value": 0.0
+      },
+      "HeatYScale": {
+        "Position": 19714,
+        "Value": 0.0
+      },
+      "CoolX1": {
+        "Position": 19743,
+        "Value": 1.0
+      },
+      "CoolY1": {
+        "Position": 19772,
+        "Value": 6.0
+      },
+      "CoolX2": {
+        "Position": 19801,
+        "Value": 1.0
+      },
+      "CoolY2": {
+        "Position": 19830,
+        "Value": 6.0
+      },
+      "CoolX3": {
+        "Position": 19859,
+        "Value": 1.0
+      },
+      "CoolY3": {
+        "Position": 19888,
+        "Value": 6.0
+      },
+      "CoolXScale": {
+        "Position": 19917,
+        "Value": 0.0
+      },
+      "CoolYScale": {
+        "Position": 19946,
+        "Value": 0.0
+      },
+      "PerfectAimCooldown": {
+        "Position": 19975,
+        "Value": 0.0
+      },
+      "BulletsPerCartridge": {
+        "Position": 20004,
+        "Value": 1
+      },
+      "FiringRate": {
+        "Position": 20033,
+        "Value": 3.0
+      },
+      "ROFScale": {
+        "Position": 20062,
+        "Value": 0.0
+      },
+      "BurstFiringRate": {
+        "Position": 20091,
+        "Value": 5.0
+      },
+      "FiringRateDownsightsMultiplier": {
+        "Position": 20120,
+        "Value": 1.0
+      },
+      "AutofireRange": {
+        "Position": 20149,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionDelay": {
+        "Position": 20178,
+        "Value": 0.15
+      },
+      "AutofireDBNOAcquisitionDelay": {
+        "Position": 20207,
+        "Value": 0.0
+      },
+      "AutofireAcquisitionRechargeTime": {
+        "Position": 20236,
+        "Value": 0.0
+      },
+      "AutofireReleaseTime": {
+        "Position": 20265,
+        "Value": 0.0
+      },
+      "AutofireCooldown": {
+        "Position": 20294,
+        "Value": 0.0
+      },
+      "RecoilVert": {
+        "Position": 20323,
+        "Value": 1.0
+      },
+      "RecoilVertScale": {
+        "Position": 20352,
+        "Value": 1.0
+      },
+      "RecoilVertScaleGamepad": {
+        "Position": 20381,
+        "Value": 0.75
+      },
+      "VertRecoilDownChance": {
+        "Position": 20410,
+        "Value": 0.0
+      },
+      "RecoilHoriz": {
+        "Position": 20439,
+        "Value": 1.0
+      },
+      "RecoilHorizScale": {
+        "Position": 20468,
+        "Value": 1.0
+      },
+      "RecoilHorizScaleGamepad": {
+        "Position": 20497,
+        "Value": 1.0
+      },
+      "RecoilInterpSpeed": {
+        "Position": 20526,
+        "Value": 12.0
+      },
+      "RecoilRecoveryInterpSpeed": {
+        "Position": 20555,
+        "Value": 6.0
+      },
+      "RecoilRecoveryDelay": {
+        "Position": 20584,
+        "Value": 0.0
+      },
+      "RecoilRecoveryFraction": {
+        "Position": 20613,
+        "Value": 1.0
+      },
+      "RecoilDownsightsMultiplier": {
+        "Position": 20642,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMin": {
+        "Position": 20671,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeMax": {
+        "Position": 20700,
+        "Value": 1.0
+      },
+      "AthenaRecoilMagnitudeScale": {
+        "Position": 20729,
+        "Value": 1.0
+      },
+      "AthenaRecoilAngleMin": {
+        "Position": 20758,
+        "Value": -25.0
+      },
+      "AthenaRecoilAngleMax": {
+        "Position": 20787,
+        "Value": 25.0
+      },
+      "AthenaRecoilRollMagnitudeMin": {
+        "Position": 20816,
+        "Value": 0.0
+      },
+      "AthenaRecoilRollMagnitudeMax": {
+        "Position": 20845,
+        "Value": 0.0
+      },
+      "AthenaRecoilInterpSpeed": {
+        "Position": 20874,
+        "Value": 12.0
+      },
+      "AthenaRecoilRecoveryInterpSpeed": {
+        "Position": 20903,
+        "Value": 6.0
+      },
+      "AthenaRecoilDownsightsMultiplier": {
+        "Position": 20932,
+        "Value": 1.0
+      },
+      "AthenaRecoilHipFireMultiplier": {
+        "Position": 20961,
+        "Value": 0.0
+      },
+      "AthenaAimAssistRange": {
+        "Position": 20990,
+        "Value": 35000.0
+      },
+      "ADSTransitionInTime": {
+        "Position": 21019,
+        "Value": 0.2
+      },
+      "ADSTransitionOutTime": {
+        "Position": 21048,
+        "Value": 0.2
+      },
+      "MaxSpareAmmo": {
+        "Position": 21077,
+        "Value": 100
+      },
+      "BulletsPerTracer": {
+        "Position": 21106,
+        "Value": 1
+      },
+      "AIDelayBeforeFiringMin": {
+        "Position": 21135,
+        "Value": 0.0
+      },
+      "AIDelayBeforeFiringMax": {
+        "Position": 21164,
+        "Value": 0.25
+      },
+      "AIFireDurationMin": {
+        "Position": 21193,
+        "Value": 0.0
+      },
+      "AIFireDurationMax": {
+        "Position": 21222,
+        "Value": 0.0
+      },
+      "AIMinSpreadDuration": {
+        "Position": 21251,
+        "Value": 2.0
+      },
+      "AIMaxSpreadDuration": {
+        "Position": 21280,
+        "Value": 10.0
+      },
+      "AIDurationSpreadMultiplier": {
+        "Position": 21309,
+        "Value": 5.0
+      },
+      "AIAdditionalSpreadForTargetMovingLaterally": {
+        "Position": 21338,
+        "Value": 5.0
+      },
+      "AIAthenaHearFiringNoiseRange": {
+        "Position": 21367,
+        "Value": 6000.0
+      },
+      "EQSDensity": {
+        "Position": 21396,
+        "Value": 128.0
+      },
+      "MinApproachRange": {
+        "Position": 21425,
+        "Value": 0.0
+      },
+      "MinActualRange": {
+        "Position": 21454,
+        "Value": 96.0
+      },
+      "MinPreferredRange": {
+        "Position": 21483,
+        "Value": 288.0
+      },
+      "MinPreferredRangeEQS": {
+        "Position": 21512,
+        "Value": 384.0
+      },
+      "MaxPreferredRangeEQS": {
+        "Position": 21541,
+        "Value": 2432.0
+      },
+      "MaxPreferredRange": {
+        "Position": 21570,
+        "Value": 2496.0
+      },
+      "MaxActualRange": {
+        "Position": 21599,
+        "Value": 3120.0
+      },
+      "MaxApproachRange": {
+        "Position": 21628,
+        "Value": 4096.0
+      },
+      "RangeToAutomaticallyAddEnemyPawnGoals": {
+        "Position": 21657,
+        "Value": 0.0
+      },
+      "SweepRadius": {
+        "Position": 21686,
+        "Value": 0.0
+      },
+      "AutoReloadDelayOverride": {
+        "Position": 21715,
+        "Value": -1.0
+      },
+      "OverheatingMaxValue": {
+        "Position": 21744,
+        "Value": 1000.0
+      },
+      "OverheatHeatingValue": {
+        "Position": 21773,
+        "Value": 1.0
+      },
+      "FullChargeOverheatHeatingValue": {
+        "Position": 21802,
+        "Value": 0.0
+      },
+      "OverheatingCoolingValue": {
+        "Position": 21831,
+        "Value": 50.0
+      },
+      "HeatingCooldownDelay": {
+        "Position": 21860,
+        "Value": 0.5
+      },
+      "OverheatedCooldownDelay": {
+        "Position": 21889,
+        "Value": 3.0
+      },
+      "bCoolOverheatWhileCharging": {
+        "Position": 21917,
+        "Value": true
+      },
+      "FortHomingTurnSpeedMin": {
+        "Position": 21944,
+        "Value": 0.0
+      },
+      "FortHomingTurnSpeedMax": {
+        "Position": 21973,
+        "Value": 0.0
+      },
+      "FortHomingTimeUntilMaxTurnSpeed": {
+        "Position": 22002,
+        "Value": 0.5
+      },
+      "BaseLevel": {
+        "Position": 22031,
+        "Value": 1
+      },
+      "NamedWeightRow": {
+        "Position": 22060,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgPB": {
+        "Position": 22093,
+        "Value": 200.0
+      },
+      "DmgMid": {
+        "Position": 22122,
+        "Value": 200.0
+      },
+      "DmgLong": {
+        "Position": 22151,
+        "Value": 200.0
+      },
+      "DmgMaxRange": {
+        "Position": 22180,
+        "Value": 200.0
+      },
+      "EnvDmgPB": {
+        "Position": 22209,
+        "Value": 200.0
+      },
+      "EnvDmgMid": {
+        "Position": 22238,
+        "Value": 200.0
+      },
+      "EnvDmgLong": {
+        "Position": 22267,
+        "Value": 200.0
+      },
+      "EnvDmgMaxRange": {
+        "Position": 22296,
+        "Value": 200.0
+      },
+      "ImpactDmgPB": {
+        "Position": 22325,
+        "Value": 750.0
+      },
+      "ImpactDmgMid": {
+        "Position": 22354,
+        "Value": 750.0
+      },
+      "ImpactDmgLong": {
+        "Position": 22383,
+        "Value": 750.0
+      },
+      "ImpactDmgMaxRange": {
+        "Position": 22412,
+        "Value": 750.0
+      },
+      "bForceControl": {
+        "Position": 22440,
+        "Value": false
+      },
+      "RngPB": {
+        "Position": 22467,
+        "Value": 50000.0
+      },
+      "RngMid": {
+        "Position": 22496,
+        "Value": 50000.0
+      },
+      "RngLong": {
+        "Position": 22525,
+        "Value": 50000.0
+      },
+      "RngMax": {
+        "Position": 22554,
+        "Value": 50000.0
+      },
+      "DmgScaleTable": {
+        "Position": 22583,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "DmgScaleTableRow": {
+        "Position": 22612,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "DmgScale": {
+        "Position": 22645,
+        "Value": 0.0
+      },
+      "EnvDmgScaleTable": {
+        "Position": 22674,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EnvDmgScaleTableRow": {
+        "Position": 22703,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "EnvDmgScale": {
+        "Position": 22736,
+        "Value": 0.0
+      },
+      "ImpactDmgScaleTable": {
+        "Position": 22765,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "ImpactDmgScaleTableRow": {
+        "Position": 22794,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "ImpactDmgScale": {
+        "Position": 22827,
+        "Value": 0.0
+      },
+      "SurfaceRatioRowName": {
+        "Position": 22856,
+        "Value": {
+          "String": "AllWithFriendlyFire"
+        }
+      },
+      "DamageZone_Light": {
+        "Position": 22889,
+        "Value": 1.0
+      },
+      "DamageZone_Normal": {
+        "Position": 22918,
+        "Value": 1.0
+      },
+      "DamageZone_Critical": {
+        "Position": 22947,
+        "Value": 1.0
+      },
+      "DamageZone_Vulnerability": {
+        "Position": 22976,
+        "Value": 0.0
+      },
+      "KnockbackMagnitude": {
+        "Position": 23005,
+        "Value": 300.0
+      },
+      "MidRangeKnockbackMagnitude": {
+        "Position": 23034,
+        "Value": 300.0
+      },
+      "LongRangeKnockbackMagnitude": {
+        "Position": 23063,
+        "Value": 300.0
+      },
+      "KnockbackZAngle": {
+        "Position": 23092,
+        "Value": 0.5
+      },
+      "StunTime": {
+        "Position": 23121,
+        "Value": 0.0
+      },
+      "StunScale": {
+        "Position": 23150,
+        "Value": 0.0
+      },
+      "Durability": {
+        "Position": 23179,
+        "Value": {
+          "Resource": {
+            "ObjectName": {
+              "String": "WeaponDurabilityRarity"
+            },
+            "OuterIndex": {
+              "Resource": {
+                "ObjectName": {
+                  "String": "/Game/Items/Datatables/WeaponDurabilityRarity"
+                },
+                "OuterIndex": {
+                  "Resource": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "DurabilityRowName": {
+        "Position": 23208,
+        "Value": {
+          "String": "TrapDurability_Infinite"
+        }
+      },
+      "DurabilityScale": {
+        "Position": 23241,
+        "Value": 0.0
+      },
+      "DurabilityPerUse": {
+        "Position": 23270,
+        "Value": 0.0
+      },
+      "FullChargeDurabilityPerUse": {
+        "Position": 23299,
+        "Value": 0.0
+      },
+      "DiceCritChance": {
+        "Position": 23328,
+        "Value": 0.0
+      },
+      "DiceCritDamageMultiplier": {
+        "Position": 23357,
+        "Value": 0.0
+      },
+      "ReloadTime": {
+        "Position": 23386,
+        "Value": 3.2
+      },
+      "ReloadScale": {
+        "Position": 23415,
+        "Value": 0.0
+      },
+      "ReloadType": {
+        "Position": 23452,
+        "Value": {
+          "String": "EFortWeaponReloadType::ReloadWholeClip"
+        }
+      },
+      "bAllowReloadInterrupt": {
+        "Position": 23484,
+        "Value": false
+      },
+      "bReloadInterruptIsImmediate": {
+        "Position": 23510,
+        "Value": false
+      },
+      "NumIndividualBulletsToReload": {
+        "Position": 23537,
+        "Value": 0
+      },
+      "ClipSize": {
+        "Position": 23566,
+        "Value": 1000000
+      },
+      "ClipScale": {
+        "Position": 23595,
+        "Value": 0.0
+      },
+      "InitialClips": {
+        "Position": 23624,
+        "Value": 1
+      },
+      "CartridgePerFire": {
+        "Position": 23653,
+        "Value": 1
+      },
+      "AmmoCostPerFire": {
+        "Position": 23682,
+        "Value": 0
+      },
+      "MaxAmmoCostPerFire": {
+        "Position": 23711,
+        "Value": 1
+      },
+      "MinChargeTime": {
+        "Position": 23740,
+        "Value": 0.0
+      },
+      "MaxChargeTime": {
+        "Position": 23769,
+        "Value": 0.0
+      },
+      "ChargeDownTime": {
+        "Position": 23798,
+        "Value": 0.0
+      },
+      "bAutoDischarge": {
+        "Position": 23826,
+        "Value": false
+      },
+      "MaxChargeTimeUntilDischarge": {
+        "Position": 23853,
+        "Value": 0.0
+      },
+      "MinChargeDamageMultiplier": {
+        "Position": 23882,
+        "Value": 1.0
+      },
+      "MaxChargeDamageMultiplier": {
+        "Position": 23911,
+        "Value": 1.0
+      },
+      "ChargeDamageMultiplierCurve": {
+        "Position": 23940,
+        "Value": {
+          "Resource": null
+        }
+      },
+      "EquipAnimRate": {
+        "Position": 23969,
+        "Value": 1.0
+      },
+      "QuickBarSlotCooldownDuration": {
+        "Position": 23998,
+        "Value": 0.0
+      }
+    }
+  }
+]

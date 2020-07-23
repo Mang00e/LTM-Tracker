@@ -1,0 +1,604 @@
+[
+  {
+    "WorldList.AthenaSharkLoot.Low.22": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 383,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/MolotovCocktail/WID_Athena_Grenade_Molotov.WID_Athena_Grenade_Molotov"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 420,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 449,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 478,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 506,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 533,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:Consumable.MolotovGrenade"
+      }
+    },
+    "WorldList.Gibson.Type03.Consumables.03": {
+      "LootPackageID": {
+        "Position": 648,
+        "Value": {
+          "String": "WorldList.Gibson.Type03.Consumables"
+        }
+      },
+      "Weight": {
+        "Position": 681,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 710,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 751,
+        "Value": []
+      },
+      "Count": {
+        "Position": 780,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 809,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 862,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 891,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 924,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 953,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/MolotovCocktail/WID_Athena_Grenade_Molotov.WID_Athena_Grenade_Molotov"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 990,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1019,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1048,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1076,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1103,
+        "Value": ";List:WorldList.Gibson.Type03.Consumables.C0;Item:Consumable.MolotovGrenade"
+      }
+    },
+    "WorldList.AthenaHighConsumables.67": {
+      "LootPackageID": {
+        "Position": 1224,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 1257,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1286,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1327,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1356,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1385,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1438,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1467,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1500,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1529,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1566,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1595,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1624,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1652,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1679,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.57": {
+      "LootPackageID": {
+        "Position": 1790,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 1823,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1852,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1893,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1922,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1951,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2004,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2033,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2066,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2095,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2132,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2161,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2190,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2218,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2245,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaConsumables.57": {
+      "LootPackageID": {
+        "Position": 2362,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 2395,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2424,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2465,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2494,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2523,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2576,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2605,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2638,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2667,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2704,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2733,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2762,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2790,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2817,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaHighConsumables.56": {
+      "LootPackageID": {
+        "Position": 2924,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 2957,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2986,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3027,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3056,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3085,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3138,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3167,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3200,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3229,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3266,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3295,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3324,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3352,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3379,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.Wumba"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.42": {
+      "LootPackageID": {
+        "Position": 3487,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 3520,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3549,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3590,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3619,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3648,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3701,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3730,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3763,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3792,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3829,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3858,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3887,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3915,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3942,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.Wumba"
+      }
+    },
+    "WorldList.AthenaConsumables.46": {
+      "LootPackageID": {
+        "Position": 4056,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 4089,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 4118,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4159,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4188,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4217,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4270,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4299,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4332,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4361,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4398,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4427,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4456,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4484,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4511,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.Wumba"
+      }
+    }
+  }
+]

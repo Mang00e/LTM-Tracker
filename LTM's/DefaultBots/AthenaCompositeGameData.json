@@ -1,0 +1,49 @@
+[
+  {
+    "ParentTables": {
+      "Position": 33,
+      "Value": [
+        {
+          "Position": 37,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaGameData"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 41,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "OverrideGameData"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/DefaultBots/OverrideGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

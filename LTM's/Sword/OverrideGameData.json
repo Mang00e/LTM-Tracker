@@ -1,0 +1,245 @@
+[
+  {
+    "Default.SafeZone.WaitTime": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 180.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 90.0
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 90.0
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 200,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 208,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 241,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 278,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 319,
+        "Value": 24
+      }
+    },
+    "Default.VendingMachine.RarityWeights": {
+      "InterpMode": {
+        "Position": 376,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 417,
+        "Value": [
+          {
+            "Position": 470,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 478,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 486,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 519,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 556,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 597,
+        "Value": 24
+      }
+    },
+    "Default.GoldenPoi.Percents": {
+      "InterpMode": {
+        "Position": 654,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 695,
+        "Value": [
+          {
+            "Position": 748,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 756,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 764,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 797,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 834,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 875,
+        "Value": 24
+      }
+    },
+    "Default.BGASpawn.Ostrich.MinNumberToSpawn": {
+      "InterpMode": {
+        "Position": 932,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 973,
+        "Value": [
+          {
+            "Position": 1026,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1034,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1067,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1104,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1145,
+        "Value": 24
+      }
+    },
+    "Default.BGASpawn.Ostrich.MaxNumberToSpawn": {
+      "InterpMode": {
+        "Position": 1202,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 1243,
+        "Value": [
+          {
+            "Position": 1296,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1304,
+            "Value": {
+              "KeyTime": 25.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1337,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1374,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1415,
+        "Value": 24
+      }
+    }
+  }
+]

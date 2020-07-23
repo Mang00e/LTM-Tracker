@@ -1,0 +1,3379 @@
+[
+  {
+    "WorldPKG.AthenaLoot.SkyChest_C_AR.01": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_AR"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Common.AR"
+      },
+      "ItemDefinition": {
+        "Position": 425,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 462,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 491,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 520,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 548,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 575,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_AR.C0;Call:WorldList.AthenaSkyChest.Weapon.Common.AR"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_C_AR.02": {
+      "LootPackageID": {
+        "Position": 709,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_AR"
+        }
+      },
+      "Weight": {
+        "Position": 742,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 771,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 812,
+        "Value": []
+      },
+      "Count": {
+        "Position": 841,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 870,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 923,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 952,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 985,
+        "Value": "WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "ItemDefinition": {
+        "Position": 1047,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1084,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1113,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1142,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1170,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1197,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_AR.C1;Call:WorldList.AthenaLoot.Ammo.Medium"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_C_Pistol.01": {
+      "LootPackageID": {
+        "Position": 1322,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 1355,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 1384,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1425,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1454,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1483,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1536,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1565,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1598,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Common.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 1673,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1710,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1739,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1768,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1796,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1823,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_Pistol.C0;Call:WorldList.AthenaSkyChest.Weapon.Common.Pistol"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_C_Pistol.02": {
+      "LootPackageID": {
+        "Position": 1965,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 1998,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 2027,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2068,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2097,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2126,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 2179,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2208,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2241,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 2302,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2339,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2368,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2397,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2425,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2452,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_Pistol.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_C_SMG.01": {
+      "LootPackageID": {
+        "Position": 2580,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 2613,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 2642,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2683,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2712,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2741,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2794,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2823,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2856,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Common.SMG"
+      },
+      "ItemDefinition": {
+        "Position": 2928,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2965,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2994,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3023,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3051,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3078,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_SMG.C0;Call:WorldList.AthenaSkyChest.Weapon.Common.SMG"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_C_SMG.02": {
+      "LootPackageID": {
+        "Position": 3214,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_C_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 3247,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 3276,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3317,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3346,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3375,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 3428,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3457,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3490,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 3551,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3588,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3617,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3646,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3674,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3701,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_C_SMG.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_AR.01": {
+      "LootPackageID": {
+        "Position": 3826,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_AR"
+        }
+      },
+      "Weight": {
+        "Position": 3859,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 3888,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3929,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3958,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3987,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4040,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4069,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4102,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Uncommon.AR"
+      },
+      "ItemDefinition": {
+        "Position": 4175,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4212,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4241,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4270,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4298,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4325,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_AR.C0;Call:WorldList.AthenaSkyChest.Weapon.Uncommon.AR"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_AR.02": {
+      "LootPackageID": {
+        "Position": 4462,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_AR"
+        }
+      },
+      "Weight": {
+        "Position": 4495,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 4524,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4565,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4594,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4623,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 4676,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4705,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4738,
+        "Value": "WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "ItemDefinition": {
+        "Position": 4800,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4837,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4866,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4895,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4923,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4950,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_AR.C1;Call:WorldList.AthenaLoot.Ammo.Medium"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_Pistol.01": {
+      "LootPackageID": {
+        "Position": 5076,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 5109,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 5138,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5179,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5208,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5237,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5290,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5319,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5352,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Uncommon.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 5429,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5466,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5495,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5524,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5552,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5579,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_Pistol.C0;Call:WorldList.AthenaSkyChest.Weapon.Uncommon.Pistol"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_Pistol.02": {
+      "LootPackageID": {
+        "Position": 5724,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 5757,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 5786,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5827,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5856,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5885,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 5938,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5967,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6000,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 6061,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6098,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6127,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6156,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6184,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6211,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_Pistol.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_SMG.01": {
+      "LootPackageID": {
+        "Position": 6340,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 6373,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 6402,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6443,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6472,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 6501,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6554,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6583,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6616,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Uncommon.SMG"
+      },
+      "ItemDefinition": {
+        "Position": 6690,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6727,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6756,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6785,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6813,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6840,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_SMG.C0;Call:WorldList.AthenaSkyChest.Weapon.Uncommon.SMG"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_UC_SMG.02": {
+      "LootPackageID": {
+        "Position": 6979,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_UC_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 7012,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 7041,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7082,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7111,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7140,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 7193,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7222,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7255,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 7316,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7353,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 7382,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 7411,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 7439,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7466,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_UC_SMG.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_AR.01": {
+      "LootPackageID": {
+        "Position": 7592,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_AR"
+        }
+      },
+      "Weight": {
+        "Position": 7625,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 7654,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7695,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7724,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7753,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7806,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7835,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7868,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Rare.AR"
+      },
+      "ItemDefinition": {
+        "Position": 7937,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7974,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8003,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8032,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8060,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8087,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_AR.C0;Call:WorldList.AthenaSkyChest.Weapon.Rare.AR"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_AR.02": {
+      "LootPackageID": {
+        "Position": 8219,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_AR"
+        }
+      },
+      "Weight": {
+        "Position": 8252,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 8281,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8322,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8351,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8380,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 8433,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 8462,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8495,
+        "Value": "WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "ItemDefinition": {
+        "Position": 8557,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8594,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8623,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8652,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8680,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8707,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_AR.C1;Call:WorldList.AthenaLoot.Ammo.Medium"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_Pistol.01": {
+      "LootPackageID": {
+        "Position": 8832,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 8865,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 8894,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8935,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8964,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8993,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9046,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9075,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9108,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Rare.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 9181,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9218,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9247,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9276,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9304,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9331,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_Pistol.C0;Call:WorldList.AthenaSkyChest.Weapon.Rare.Pistol"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_Pistol.02": {
+      "LootPackageID": {
+        "Position": 9471,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 9504,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 9533,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9574,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9603,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9632,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 9685,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9714,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9747,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 9808,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9845,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9874,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9903,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9931,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9958,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_Pistol.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_SMG.01": {
+      "LootPackageID": {
+        "Position": 10086,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 10119,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 10148,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10189,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10218,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10247,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 10300,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10329,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10362,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Rare.SMG"
+      },
+      "ItemDefinition": {
+        "Position": 10432,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 10469,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 10498,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10527,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 10555,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10582,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_SMG.C0;Call:WorldList.AthenaSkyChest.Weapon.Rare.SMG"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_R_SMG.02": {
+      "LootPackageID": {
+        "Position": 10716,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_R_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 10749,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 10778,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10819,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10848,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10877,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 10930,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10959,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10992,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 11053,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11090,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11119,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11148,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11176,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11203,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_R_SMG.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_AR.01": {
+      "LootPackageID": {
+        "Position": 11328,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_AR"
+        }
+      },
+      "Weight": {
+        "Position": 11361,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 11390,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 11431,
+        "Value": []
+      },
+      "Count": {
+        "Position": 11460,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 11489,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 11542,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 11571,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11604,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Epic.AR"
+      },
+      "ItemDefinition": {
+        "Position": 11673,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11710,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11739,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11768,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11796,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11823,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_AR.C0;Call:WorldList.AthenaSkyChest.Weapon.Epic.AR"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_AR.02": {
+      "LootPackageID": {
+        "Position": 11956,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_AR"
+        }
+      },
+      "Weight": {
+        "Position": 11989,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 12018,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12059,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12088,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12117,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 12170,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12199,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12232,
+        "Value": "WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "ItemDefinition": {
+        "Position": 12294,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12331,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12360,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12389,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12417,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12444,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_AR.C1;Call:WorldList.AthenaLoot.Ammo.Medium"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_Pistol.01": {
+      "LootPackageID": {
+        "Position": 12570,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 12603,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 12632,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12673,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12702,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12731,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12784,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12813,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12846,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Epic.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 12919,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12956,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12985,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13014,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13042,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13069,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_Pistol.C0;Call:WorldList.AthenaSkyChest.Weapon.Epic.Pistol"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_Pistol.02": {
+      "LootPackageID": {
+        "Position": 13210,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 13243,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 13272,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13313,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13342,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 13371,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 13424,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13453,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13486,
+        "Value": "WorldList.AthenaLoot.Ammo.Heavy"
+      },
+      "ItemDefinition": {
+        "Position": 13547,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13584,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13613,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13642,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13670,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13697,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_Pistol.C1;Call:WorldList.AthenaLoot.Ammo.Heavy"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_SMG.01": {
+      "LootPackageID": {
+        "Position": 13826,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 13859,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 13888,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13929,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13958,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 13987,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14040,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14069,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14102,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Epic.SMG"
+      },
+      "ItemDefinition": {
+        "Position": 14172,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14209,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14238,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14267,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14295,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14322,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_SMG.C0;Call:WorldList.AthenaSkyChest.Weapon.Epic.SMG"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_VR_SMG.02": {
+      "LootPackageID": {
+        "Position": 14457,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_VR_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 14490,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 14519,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14560,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14589,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14618,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 14671,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14700,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14733,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 14794,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14831,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14860,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14889,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14917,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14944,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_VR_SMG.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_AR.01": {
+      "LootPackageID": {
+        "Position": 15070,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_AR"
+        }
+      },
+      "Weight": {
+        "Position": 15103,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 15132,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15173,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15202,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15231,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 15284,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15313,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15346,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Legendary.AR"
+      },
+      "ItemDefinition": {
+        "Position": 15420,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15457,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15486,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15515,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15543,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15570,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_AR.C0;Call:WorldList.AthenaSkyChest.Weapon.Legendary.AR"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_AR.02": {
+      "LootPackageID": {
+        "Position": 15708,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_AR"
+        }
+      },
+      "Weight": {
+        "Position": 15741,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 15770,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15811,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15840,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15869,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 15922,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15951,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15984,
+        "Value": "WorldList.AthenaLoot.Ammo.Medium"
+      },
+      "ItemDefinition": {
+        "Position": 16046,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16083,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16112,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16141,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16169,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16196,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_AR.C1;Call:WorldList.AthenaLoot.Ammo.Medium"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_Pistol.01": {
+      "LootPackageID": {
+        "Position": 16322,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 16355,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 16384,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16425,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16454,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16483,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16536,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16565,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16598,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Legendary.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 16676,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16713,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16742,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16771,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16799,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16826,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_Pistol.C0;Call:WorldList.AthenaSkyChest.Weapon.Legendary.Pistol"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_Pistol.02": {
+      "LootPackageID": {
+        "Position": 16972,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 17005,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 17034,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17075,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17104,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17133,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 17186,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17215,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17248,
+        "Value": "WorldList.AthenaLoot.Ammo.Heavy"
+      },
+      "ItemDefinition": {
+        "Position": 17309,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17346,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17375,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17404,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17432,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17459,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_Pistol.C1;Call:WorldList.AthenaLoot.Ammo.Heavy"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_SMG.01": {
+      "LootPackageID": {
+        "Position": 17588,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 17621,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 17650,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17691,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17720,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17749,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17802,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17831,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17864,
+        "Value": "WorldList.AthenaSkyChest.Weapon.Legendary.SMG"
+      },
+      "ItemDefinition": {
+        "Position": 17939,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17976,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18005,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18034,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18062,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18089,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_SMG.C0;Call:WorldList.AthenaSkyChest.Weapon.Legendary.SMG"
+      }
+    },
+    "WorldPKG.AthenaLoot.SkyChest_SR_SMG.02": {
+      "LootPackageID": {
+        "Position": 18229,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.SkyChest_SR_SMG"
+        }
+      },
+      "Weight": {
+        "Position": 18262,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 18291,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18332,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18361,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18390,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 18443,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18472,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18505,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 18566,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18603,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18632,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18661,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18689,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18716,
+        "Value": ";Def:WorldPKG.AthenaLoot.SkyChest_SR_SMG.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Common.AR.01": {
+      "LootPackageID": {
+        "Position": 18842,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Common.AR"
+        }
+      },
+      "Weight": {
+        "Position": 18875,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 18904,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18945,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18974,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19003,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19056,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19085,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19118,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19147,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19184,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19213,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19242,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19270,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19297,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Assault.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Common.Pistol.01": {
+      "LootPackageID": {
+        "Position": 19434,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Common.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 19467,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 19496,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19537,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19566,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19595,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19648,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19677,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19710,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19739,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19776,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19805,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19834,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19862,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19889,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Common.Pistol.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Common.SMG.01": {
+      "LootPackageID": {
+        "Position": 20031,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Common.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 20064,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 20093,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20134,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20163,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20192,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20245,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20274,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20307,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20336,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_C_Ore_T02.WID_Pistol_AutoHeavySuppressed_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20373,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20402,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20431,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20459,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20486,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Common.SMG.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Uncommon.AR.01": {
+      "LootPackageID": {
+        "Position": 20636,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Uncommon.AR"
+        }
+      },
+      "Weight": {
+        "Position": 20669,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 20698,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20739,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20768,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20797,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20850,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20879,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20912,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20941,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_UC_Ore_T03.WID_Assault_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20978,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21007,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21036,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21064,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21091,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Assault.C0;Item:WID.Assault.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Uncommon.Pistol.01": {
+      "LootPackageID": {
+        "Position": 21229,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Uncommon.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 21262,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 21291,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21332,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21361,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21390,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21443,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21472,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21505,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21534,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21571,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21600,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21629,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21657,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21684,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Uncommon.Pistol.C0;Item:WID.Pistol.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Uncommon.SMG.01": {
+      "LootPackageID": {
+        "Position": 21829,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Uncommon.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 21862,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 21891,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21932,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21961,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21990,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22043,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22072,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22105,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22134,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_UC_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22171,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22200,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22229,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22257,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22284,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Uncommon.SMG.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Rare.AR.01": {
+      "LootPackageID": {
+        "Position": 22437,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Rare.AR"
+        }
+      },
+      "Weight": {
+        "Position": 22470,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 22499,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22540,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22569,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22598,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22651,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22680,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22713,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22742,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Infantry_Athena_R.WID_Assault_Infantry_Athena_R"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22779,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22808,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22837,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22865,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22892,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Rare.AR.C0;Item:WID.Assault.Auto.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Rare.Pistol.01": {
+      "LootPackageID": {
+        "Position": 23025,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Rare.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 23058,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 23087,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23128,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23157,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23186,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23239,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23268,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23301,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23330,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_R_Ore_T03.WID_Pistol_SemiAuto_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23367,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23396,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23425,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23453,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23480,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Rare.Pistol.C0;Item:WID.Pistol.SemiAuto.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Rare.SMG.01": {
+      "LootPackageID": {
+        "Position": 23620,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Rare.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 23653,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 23682,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23723,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23752,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23781,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23834,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23863,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23896,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23925,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03.WID_Pistol_AutoHeavySuppressed_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23962,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23991,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24020,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24048,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24075,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Rare.SMG.C0;Item:WID.Pistol.AutoHeavySuppressed.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Epic.AR.01": {
+      "LootPackageID": {
+        "Position": 24223,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Epic.AR"
+        }
+      },
+      "Weight": {
+        "Position": 24256,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 24285,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24326,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24355,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24384,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24437,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24466,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24499,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24528,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Infantry_Athena_VR.WID_Assault_Infantry_Athena_VR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24565,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 24594,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24623,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24651,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24678,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Epic.AR.C0;Item:WID.Assault.AutoHigh.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Epic.Pistol.01": {
+      "LootPackageID": {
+        "Position": 24816,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Epic.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 24849,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 24878,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24919,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24948,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24977,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25030,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25059,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25092,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25121,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_VR_Ore_T03.WID_Pistol_HandCannon_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25158,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25187,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25216,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25244,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25271,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Epic.Pistol.C0;Item:WID.Pistol.HandCannon.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Epic.SMG.01": {
+      "LootPackageID": {
+        "Position": 25414,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Epic.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 25447,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 25476,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25517,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25546,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25575,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25628,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25657,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25690,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25719,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_LMG_Athena_VR_Ore_T03.WID_Assault_LMG_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25756,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25785,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25814,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25842,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25869,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Epic.SMG.C0;Item:WID.Assault.LMG.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Legendary.AR.01": {
+      "LootPackageID": {
+        "Position": 26003,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Legendary.AR"
+        }
+      },
+      "Weight": {
+        "Position": 26036,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 26065,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26106,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26135,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 26164,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26217,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26246,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26279,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26308,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Infantry_Athena_SR.WID_Assault_Infantry_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26345,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26374,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26403,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26431,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26458,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Legendary.AR.C0;Item:WID.Assault.AutoHigh.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Legendary.Pistol.01": {
+      "LootPackageID": {
+        "Position": 26601,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Legendary.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 26634,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 26663,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26704,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26733,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 26762,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26815,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26844,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26877,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26906,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_HandCannon_Athena_SR_Ore_T03.WID_Pistol_HandCannon_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26943,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26972,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27001,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27029,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27056,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Legendary.Pistol.C0;Item:WID.Pistol.HandCannon.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSkyChest.Weapon.Legendary.SMG.01": {
+      "LootPackageID": {
+        "Position": 27204,
+        "Value": {
+          "String": "WorldList.AthenaSkyChest.Weapon.Legendary.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 27237,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 27266,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27307,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27336,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27365,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27418,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27447,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27480,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27509,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_LMG_Athena_SR_Ore_T03.WID_Assault_LMG_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27546,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27575,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27604,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27632,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27659,
+        "Value": ";List:WorldList.AthenaSkyChest.Weapon.Legendary.SMG.C0;Item:WID.Assault.LMG.Athena.SR.Ore.T03"
+      }
+    }
+  }
+]

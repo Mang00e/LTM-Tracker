@@ -1,0 +1,69 @@
+[
+  {
+    "ParentTables": {
+      "Position": 33,
+      "Value": [
+        {
+          "Position": 37,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaGameData"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 41,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaGameData_Deimos_Override"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/Deimos/AthenaGameData_Deimos_Override"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 45,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "OverrideGameData"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/Showdown/OverrideGameData"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

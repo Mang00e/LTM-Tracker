@@ -1,0 +1,203 @@
+[
+  {
+    "Default.VendingMachine.RarityWeights": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 201,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 238,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 279,
+        "Value": 24
+      }
+    },
+    "Default.AmmoBox.GoldenPoi.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 336,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 377,
+        "Value": [
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 438,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 471,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 508,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 549,
+        "Value": 24
+      }
+    },
+    "Default.AmmoBox.GoldenPoi.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 606,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 647,
+        "Value": [
+          {
+            "Position": 700,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 708,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 741,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 778,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 819,
+        "Value": 24
+      }
+    },
+    "Default.SkyTube.DisablePhase": {
+      "InterpMode": {
+        "Position": 876,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 917,
+        "Value": [
+          {
+            "Position": 970,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 978,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 986,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1019,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1056,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1097,
+        "Value": 24
+      }
+    },
+    "Default.PinkOatmeal.Moss.Enabled": {
+      "InterpMode": {
+        "Position": 1154,
+        "Value": 25
+      },
+      "Keys": {
+        "Position": 1195,
+        "Value": [
+          {
+            "Position": 1248,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1256,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1289,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1326,
+        "Value": 24
+      },
+      "PostInfinityExtrap": {
+        "Position": 1367,
+        "Value": 24
+      }
+    }
+  }
+]

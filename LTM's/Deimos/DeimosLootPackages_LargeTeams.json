@@ -1,0 +1,89 @@
+[
+  {
+    "ParentTables": {
+      "Position": 33,
+      "Value": [
+        {
+          "Position": 37,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaLootPackages_Client"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Items/Datatables/AthenaLootPackages_Client"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 41,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaLootPackages_DeimosOverride"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/Deimos/AthenaLootPackages_DeimosOverride"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 45,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "DeimosLootPackages_LargeTeams2"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/Deimos/DeimosLootPackages_LargeTeams2"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "RowStruct": {
+      "Position": 74,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "FortLootPackageData"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Script/FortniteGame"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+]
