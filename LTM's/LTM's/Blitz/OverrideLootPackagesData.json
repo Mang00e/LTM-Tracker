@@ -1,0 +1,4900 @@
+[
+  {
+    "WorldList.AthenaLoot.Weapon.Shotgun.27": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "GE.L"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": [
+          {
+            "Position": 185,
+            "Value": {
+              "String": "GE.L"
+            }
+          }
+        ]
+      },
+      "Count": {
+        "Position": 218,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 247,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 300,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 329,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 362,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 391,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Rocket.WID_Athena_Galileo_Lobster_Rocket"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 428,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 457,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 486,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 514,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 541,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Lobster.Blue"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.SMG.28": {
+      "LootPackageID": {
+        "Position": 653,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 686,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 715,
+        "Value": {
+          "String": "GE.B"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 756,
+        "Value": [
+          {
+            "Position": 760,
+            "Value": {
+              "String": "GE.B"
+            }
+          }
+        ]
+      },
+      "Count": {
+        "Position": 793,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 822,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 875,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 904,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 937,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 966,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1003,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1032,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1061,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1089,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1116,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.SMG.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSMG.13": {
+      "LootPackageID": {
+        "Position": 1219,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSMG"
+        }
+      },
+      "Weight": {
+        "Position": 1252,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1281,
+        "Value": {
+          "String": "GE.B"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1322,
+        "Value": [
+          {
+            "Position": 1326,
+            "Value": {
+              "String": "GE.B"
+            }
+          }
+        ]
+      },
+      "Count": {
+        "Position": 1359,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1388,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1441,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1470,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1503,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1532,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1569,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1598,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1627,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1655,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1682,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSMG.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldPKG.ApolloLoot.LTI.01": {
+      "LootPackageID": {
+        "Position": 1789,
+        "Value": {
+          "String": "WorldPKG.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 1822,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1851,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1892,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1921,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1950,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2003,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2032,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2065,
+        "Value": "WorldList.ApolloLoot.LTI"
+      },
+      "ItemDefinition": {
+        "Position": 2119,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2156,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2185,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2214,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2242,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2269,
+        "Value": ";Def:WorldPKG.ApolloLoot.LTI.C0;Call:WorldList.ApolloLoot.LTI"
+      }
+    },
+    "WorldPKG.ApolloLoot.LTI.02": {
+      "LootPackageID": {
+        "Position": 2376,
+        "Value": {
+          "String": "WorldPKG.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 2409,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2438,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2479,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2508,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2537,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 2590,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2619,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2652,
+        "Value": "WorldList.AthenaSupplyDropConsumables"
+      },
+      "ItemDefinition": {
+        "Position": 2719,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2756,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2785,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2814,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2842,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2869,
+        "Value": ";Def:WorldPKG.ApolloLoot.LTI.C1;Call:WorldList.AthenaSupplyDropConsumables"
+      }
+    },
+    "WorldPKG.ApolloLoot.LTI.03": {
+      "LootPackageID": {
+        "Position": 2989,
+        "Value": {
+          "String": "WorldPKG.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 3022,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3051,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3092,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3121,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3150,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 3203,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3232,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3265,
+        "Value": "WorldList.AthenaLoot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 3325,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3362,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3391,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3420,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3448,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3475,
+        "Value": ";Def:WorldPKG.ApolloLoot.LTI.C2;Call:WorldList.AthenaLoot.Resources"
+      }
+    },
+    "WorldList.AthenaLoot.LTI.01": {
+      "LootPackageID": {
+        "Position": 3588,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 3621,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3650,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3691,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3720,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3749,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3802,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3831,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3864,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3893,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3930,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3959,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3988,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4016,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4043,
+        "Value": ";List:WorldList.AthenaLoot.LTI.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldList.AthenaLoot.LTI.02": {
+      "LootPackageID": {
+        "Position": 4139,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 4172,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 4201,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4242,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4271,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4300,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4353,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4382,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4415,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4444,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Kayak.WID_Athena_Galileo_Lobster_Kayak"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4481,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4510,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4539,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4567,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4594,
+        "Value": ";List:WorldList.AthenaLoot.LTI.C0;Item:WID.Lobster.Red"
+      }
+    },
+    "WorldList.AthenaLoot.LTI.03": {
+      "LootPackageID": {
+        "Position": 4694,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 4727,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 4756,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4797,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4826,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4855,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4908,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4937,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4970,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4999,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Limo.WID_Athena_Galileo_Lobster_Limo"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5036,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5065,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5094,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5122,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5149,
+        "Value": ";List:WorldList.AthenaLoot.LTI.C0;Item:WID.Lobster.Green"
+      }
+    },
+    "WorldList.AthenaLoot.LTI.04": {
+      "LootPackageID": {
+        "Position": 5251,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 5284,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 5313,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5354,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5383,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5412,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5465,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5494,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5527,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 5556,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Moped.WID_Athena_Galileo_Lobster_Moped"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5593,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5622,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5651,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5679,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5706,
+        "Value": ";List:WorldList.AthenaLoot.LTI.C0;Item:WID.Lobster.Purple"
+      }
+    },
+    "WorldList.AthenaLoot.LTI.05": {
+      "LootPackageID": {
+        "Position": 5809,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 5842,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 5871,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5912,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5941,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5970,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6023,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6052,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6085,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6114,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Rocket.WID_Athena_Galileo_Lobster_Rocket"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6151,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6180,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6209,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6237,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6264,
+        "Value": ";List:WorldList.AthenaLoot.LTI.C0;Item:WID.Lobster.Blue"
+      }
+    },
+    "WorldList.AthenaLoot.LTIHigh.01": {
+      "LootPackageID": {
+        "Position": 6365,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTIHigh"
+        }
+      },
+      "Weight": {
+        "Position": 6398,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 6427,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6468,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6497,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 6526,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6579,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6608,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6641,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6670,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6707,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6736,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6765,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6793,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6820,
+        "Value": ";List:WorldList.AthenaLoot.LTIHigh.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldList.AthenaLoot.LTIHigh.02": {
+      "LootPackageID": {
+        "Position": 6920,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTIHigh"
+        }
+      },
+      "Weight": {
+        "Position": 6953,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 6982,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7023,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7052,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7081,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7134,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7163,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7196,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 7225,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Kayak.WID_Athena_Galileo_Lobster_Kayak"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7262,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 7291,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 7320,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 7348,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7375,
+        "Value": ";List:WorldList.AthenaLoot.LTIHigh.C0;Item:WID.Lobster.Red"
+      }
+    },
+    "WorldList.AthenaLoot.LTIHigh.03": {
+      "LootPackageID": {
+        "Position": 7479,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTIHigh"
+        }
+      },
+      "Weight": {
+        "Position": 7512,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 7541,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7582,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7611,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7640,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7693,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7722,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7755,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 7784,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Limo.WID_Athena_Galileo_Lobster_Limo"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7821,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 7850,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 7879,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 7907,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7934,
+        "Value": ";List:WorldList.AthenaLoot.LTIHigh.C0;Item:WID.Lobster.Green"
+      }
+    },
+    "WorldList.AthenaLoot.LTIHigh.04": {
+      "LootPackageID": {
+        "Position": 8040,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTIHigh"
+        }
+      },
+      "Weight": {
+        "Position": 8073,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 8102,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8143,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8172,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8201,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 8254,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 8283,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8316,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 8345,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Moped.WID_Athena_Galileo_Lobster_Moped"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8382,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8411,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8440,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8468,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8495,
+        "Value": ";List:WorldList.AthenaLoot.LTIHigh.C0;Item:WID.Lobster.Purple"
+      }
+    },
+    "WorldList.AthenaLoot.LTIHigh.05": {
+      "LootPackageID": {
+        "Position": 8602,
+        "Value": {
+          "String": "WorldList.AthenaLoot.LTIHigh"
+        }
+      },
+      "Weight": {
+        "Position": 8635,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 8664,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8705,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8734,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8763,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 8816,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 8845,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8878,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 8907,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Rocket.WID_Athena_Galileo_Lobster_Rocket"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8944,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8973,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9002,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9030,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9057,
+        "Value": ";List:WorldList.AthenaLoot.LTIHigh.C0;Item:WID.Lobster.Blue"
+      }
+    },
+    "WorldList.ApolloLoot.LTI.01": {
+      "LootPackageID": {
+        "Position": 9162,
+        "Value": {
+          "String": "WorldList.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 9195,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 9224,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9265,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9294,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9323,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9376,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9405,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9438,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 9467,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9504,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9533,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9562,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9590,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9617,
+        "Value": ";List:WorldList.ApolloLoot.LTI.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldList.ApolloLoot.LTI.02": {
+      "LootPackageID": {
+        "Position": 9713,
+        "Value": {
+          "String": "WorldList.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 9746,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 9775,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9816,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9845,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9874,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9927,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9956,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9989,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 10018,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Kayak.WID_Athena_Galileo_Lobster_Kayak"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 10055,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 10084,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10113,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 10141,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10168,
+        "Value": ";List:WorldList.ApolloLoot.LTI.C0;Item:WID.Lobster.Red"
+      }
+    },
+    "WorldList.ApolloLoot.LTI.03": {
+      "LootPackageID": {
+        "Position": 10268,
+        "Value": {
+          "String": "WorldList.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 10301,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 10330,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10371,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10400,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10429,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 10482,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10511,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10544,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 10573,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Limo.WID_Athena_Galileo_Lobster_Limo"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 10610,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 10639,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10668,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 10696,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10723,
+        "Value": ";List:WorldList.ApolloLoot.LTI.C0;Item:WID.Lobster.Green"
+      }
+    },
+    "WorldList.ApolloLoot.LTI.04": {
+      "LootPackageID": {
+        "Position": 10825,
+        "Value": {
+          "String": "WorldList.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 10858,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 10887,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10928,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10957,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10986,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 11039,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 11068,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11101,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 11130,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Moped.WID_Athena_Galileo_Lobster_Moped"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11167,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11196,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11225,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11253,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11280,
+        "Value": ";List:WorldList.ApolloLoot.LTI.C0;Item:WID.Lobster.Purple"
+      }
+    },
+    "WorldList.ApolloLoot.LTI.05": {
+      "LootPackageID": {
+        "Position": 11383,
+        "Value": {
+          "String": "WorldList.ApolloLoot.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 11416,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 11445,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 11486,
+        "Value": []
+      },
+      "Count": {
+        "Position": 11515,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 11544,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 11597,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 11626,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11659,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 11688,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Rocket.WID_Athena_Galileo_Lobster_Rocket"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11725,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11754,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11783,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11811,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11838,
+        "Value": ";List:WorldList.ApolloLoot.LTI.C0;Item:WID.Lobster.Blue"
+      }
+    },
+    "WorldList.AthenaSupplyDrop.LTI.01": {
+      "LootPackageID": {
+        "Position": 11939,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDrop.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 11972,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 12001,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12042,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12071,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12100,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12153,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12182,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12215,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 12244,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/Galileo_Bun/WID_Galileo_Bun_Athena_UC.WID_Galileo_Bun_Athena_UC"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12281,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12310,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12339,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12367,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12394,
+        "Value": ";List:WorldList.AthenaSupplyDrop.LTI.C0;Item:WID.Blaster"
+      }
+    },
+    "WorldList.AthenaSupplyDrop.LTI.02": {
+      "LootPackageID": {
+        "Position": 12496,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDrop.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 12529,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 12558,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12599,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12628,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12657,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12710,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12739,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12772,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 12801,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Kayak.WID_Athena_Galileo_Lobster_Kayak"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12838,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12867,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12896,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12924,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12951,
+        "Value": ";List:WorldList.AthenaSupplyDrop.LTI.C0;Item:WID.Lobster.Red"
+      }
+    },
+    "WorldList.AthenaSupplyDrop.LTI.03": {
+      "LootPackageID": {
+        "Position": 13057,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDrop.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 13090,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 13119,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13160,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13189,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 13218,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 13271,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13300,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13333,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 13362,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Limo.WID_Athena_Galileo_Lobster_Limo"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13399,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13428,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13457,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13485,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13512,
+        "Value": ";List:WorldList.AthenaSupplyDrop.LTI.C0;Item:WID.Lobster.Green"
+      }
+    },
+    "WorldList.AthenaSupplyDrop.LTI.04": {
+      "LootPackageID": {
+        "Position": 13620,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDrop.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 13653,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 13682,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13723,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13752,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 13781,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 13834,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13863,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13896,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 13925,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Moped.WID_Athena_Galileo_Lobster_Moped"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13962,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13991,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14020,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14048,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14075,
+        "Value": ";List:WorldList.AthenaSupplyDrop.LTI.C0;Item:WID.Lobster.Purple"
+      }
+    },
+    "WorldList.AthenaSupplyDrop.LTI.05": {
+      "LootPackageID": {
+        "Position": 14184,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDrop.LTI"
+        }
+      },
+      "Weight": {
+        "Position": 14217,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 14246,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14287,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14316,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14345,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14398,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14427,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14460,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 14489,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/GalileoLobster/WID_Athena_Galileo_Lobster_Rocket.WID_Athena_Galileo_Lobster_Rocket"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14526,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14555,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14584,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14612,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14639,
+        "Value": ";List:WorldList.AthenaSupplyDrop.LTI.C0;Item:WID.Lobster.Blue"
+      }
+    },
+    "WorldList.AthenaHighConsumables.67": {
+      "LootPackageID": {
+        "Position": 14746,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 14779,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 14808,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14849,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14878,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14907,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14960,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14989,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15022,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15051,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15088,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15117,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15146,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15174,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15201,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaConsumables.57": {
+      "LootPackageID": {
+        "Position": 15312,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 15345,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 15374,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15415,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15444,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15473,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 15526,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15555,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15588,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15617,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15654,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15683,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15712,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15740,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15767,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaHighConsumables.68": {
+      "LootPackageID": {
+        "Position": 15874,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 15907,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 15936,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15977,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16006,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16035,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16088,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16117,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16150,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 16179,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16216,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16245,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16274,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16302,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16329,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaHighConsumables.56": {
+      "LootPackageID": {
+        "Position": 16440,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 16473,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 16502,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16543,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16572,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16601,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16654,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16683,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16716,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 16745,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16782,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16811,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16840,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16868,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16895,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.Wumba"
+      }
+    },
+    "WorldList.AthenaConsumables.46": {
+      "LootPackageID": {
+        "Position": 17003,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 17036,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 17065,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17106,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17135,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17164,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17217,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17246,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17279,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17308,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17345,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17374,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17403,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17431,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17458,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.Wumba"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.42": {
+      "LootPackageID": {
+        "Position": 17562,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 17595,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 17624,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17665,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17694,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17723,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17776,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17805,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17838,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17867,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/Wumba/AGID_Wumba.AGID_Wumba"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17904,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17933,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17962,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17990,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18017,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.Wumba"
+      }
+    },
+    "WorldList.AthenaConsumables.56": {
+      "LootPackageID": {
+        "Position": 18131,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 18164,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 18193,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18234,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18263,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18292,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 18345,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18374,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18407,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 18436,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/MolotovCocktail/WID_Athena_Grenade_Molotov.WID_Athena_Grenade_Molotov"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18473,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18502,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18531,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18559,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18586,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.MolotovGrenade"
+      }
+    },
+    "WorldList.AthenaHighConsumables.66": {
+      "LootPackageID": {
+        "Position": 18699,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 18732,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 18761,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18802,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18831,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18860,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 18913,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18942,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18975,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19004,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/MolotovCocktail/WID_Athena_Grenade_Molotov.WID_Athena_Grenade_Molotov"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19041,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19070,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19099,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19127,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19154,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.MolotovGrenade"
+      }
+    },
+    "WorldList.AthenaConsumables.42": {
+      "LootPackageID": {
+        "Position": 19271,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 19304,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 19333,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19374,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19403,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19432,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19485,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19514,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19547,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19576,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/FloppingRabbit/WID_Athena_FloppingRabbit.WID_Athena_FloppingRabbit"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19613,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19642,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19671,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19699,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19726,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.Rod"
+      }
+    },
+    "WorldList.AthenaHighConsumables.62": {
+      "LootPackageID": {
+        "Position": 19828,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 19861,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 19890,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19931,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19960,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19989,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20042,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20071,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20104,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20133,
+        "Value": {
+          "AssetPathName": {
+            "String": "/game/athena/items/consumables/applesun/WID_Athena_AppleSun.WID_Athena_AppleSun"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20170,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20199,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20228,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20256,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20283,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.AppleSun"
+      }
+    },
+    "WorldList.AthenaConsumables.52": {
+      "LootPackageID": {
+        "Position": 20394,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 20427,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 20456,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20497,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20526,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20555,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20608,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20637,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20670,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20699,
+        "Value": {
+          "AssetPathName": {
+            "String": "/game/athena/items/consumables/applesun/WID_Athena_AppleSun.WID_Athena_AppleSun"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20736,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20765,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20794,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20822,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20849,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.AppleSun"
+      }
+    },
+    "WorldList.AthenaHighConsumables.64": {
+      "LootPackageID": {
+        "Position": 20956,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 20989,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 21018,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21059,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21088,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21117,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21170,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21199,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21232,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21261,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21298,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21327,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21356,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21384,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21411,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.DangerGrape"
+      }
+    },
+    "WorldList.AthenaConsumables.54": {
+      "LootPackageID": {
+        "Position": 21525,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 21558,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 21587,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21628,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21657,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21686,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21739,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21768,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21801,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21830,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21867,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21896,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21925,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21953,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21980,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.DangerGrape"
+      }
+    },
+    "WorldList.AthenaHighConsumables.33": {
+      "LootPackageID": {
+        "Position": 22090,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 22123,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 22152,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22193,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22222,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22251,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22304,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22333,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22366,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22395,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.WID_Athena_ChillBronco"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22432,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22461,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22490,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22518,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22545,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.ChillBronco"
+      }
+    },
+    "WorldList.AthenaConsumables.28": {
+      "LootPackageID": {
+        "Position": 22659,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 22692,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 22721,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22762,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22791,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22820,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22873,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22902,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22935,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22964,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.WID_Athena_ChillBronco"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23001,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23030,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23059,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23087,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23114,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.ChillBronco"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.26": {
+      "LootPackageID": {
+        "Position": 23224,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 23257,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 23286,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23327,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23356,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23385,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23438,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23467,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23500,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23529,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23566,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23595,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23624,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23652,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23679,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.AthenaChugBomb"
+      }
+    },
+    "WorldList.Gibson.Type03.Consumables.02": {
+      "LootPackageID": {
+        "Position": 23802,
+        "Value": {
+          "String": "WorldList.Gibson.Type03.Consumables"
+        }
+      },
+      "Weight": {
+        "Position": 23835,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 23864,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23905,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23934,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23963,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24016,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24045,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24078,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24107,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24144,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 24173,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24202,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24230,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24257,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.AthenaChugBomb"
+      }
+    },
+    "WorldList.ForagedItems.Fireflies.01": {
+      "LootPackageID": {
+        "Position": 24380,
+        "Value": {
+          "String": "WorldList.ForagedItems.Fireflies"
+        }
+      },
+      "Weight": {
+        "Position": 24413,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 24442,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24483,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24512,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24541,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24594,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24623,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24656,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24685,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/ForagedItems/MolotovFireflies/Athena_Foraged_MolotovFireflies.Athena_Foraged_MolotovFireflies"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24722,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 24751,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24780,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24808,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24835,
+        "Value": ";List:WorldList.ForagedItems.Fireflies.C0;Item:Consumable.ForagedItem.Fireflies"
+      }
+    },
+    "WorldList.Gibson.Type03.Consumables.03": {
+      "LootPackageID": {
+        "Position": 24960,
+        "Value": {
+          "String": "WorldList.Gibson.Type03.Consumables"
+        }
+      },
+      "Weight": {
+        "Position": 24993,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 25022,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25063,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25092,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25121,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25174,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25203,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25236,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25265,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/MolotovCocktail/WID_Athena_Grenade_Molotov.WID_Athena_Grenade_Molotov"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25302,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25331,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25360,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25388,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25415,
+        "Value": ";List:WorldList.Gibson.Type02.Consumables.C0;Item:Consumable.MolotovGrenade"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.57": {
+      "LootPackageID": {
+        "Position": 25536,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 25569,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 25598,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25639,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25668,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25697,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25750,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25779,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25812,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25841,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/Prototype/WID_FringePlank_Athena_Prototype.WID_FringePlank_Athena_Prototype"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25878,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25907,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25936,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25964,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25991,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.FlareGun"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.55": {
+      "LootPackageID": {
+        "Position": 26108,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 26141,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 26170,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26211,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26240,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 26269,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26322,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26351,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26384,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26413,
+        "Value": {
+          "AssetPathName": {
+            "String": "/game/athena/items/consumables/applesun/WID_Athena_AppleSun.WID_Athena_AppleSun"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26450,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26479,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26508,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26536,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26563,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.AppleSun"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.53": {
+      "LootPackageID": {
+        "Position": 26680,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 26713,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 26742,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26783,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26812,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 26841,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26894,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26923,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26956,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26985,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27022,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27051,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27080,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27108,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27135,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.DangerGrape"
+      }
+    },
+    "WorldList.AthenaSharkLoot.Low.13": {
+      "LootPackageID": {
+        "Position": 27255,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 27288,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 27317,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27358,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27387,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27416,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27469,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27498,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27531,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27560,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27597,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27626,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27655,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27683,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27710,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.01": {
+      "LootPackageID": {
+        "Position": 27833,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 27866,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 27895,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27936,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27965,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27994,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 28047,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 28076,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 28109,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 28138,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 28175,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 28204,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28233,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28261,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28288,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FlopperDefault.Medium.01": {
+      "LootPackageID": {
+        "Position": 28421,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 28454,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 28483,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 28524,
+        "Value": []
+      },
+      "Count": {
+        "Position": 28553,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 28582,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 28635,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 28664,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 28697,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 28726,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 28763,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 28792,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28821,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28849,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28876,
+        "Value": ";List:WorldList.FlopperDefault.Medium.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSCM.Pistol.01": {
+      "LootPackageID": {
+        "Position": 29001,
+        "Value": {
+          "String": "WorldList.AthenaSCM.Pistol"
+        }
+      },
+      "Weight": {
+        "Position": 29034,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 29063,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 29104,
+        "Value": []
+      },
+      "Count": {
+        "Position": 29133,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 29162,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29215,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29244,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29277,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29306,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29343,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29372,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29401,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 29429,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 29456,
+        "Value": ";List:WorldList.AthenaSCM.Pistol.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSharkLoot.Low.16": {
+      "LootPackageID": {
+        "Position": 29579,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 29612,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 29641,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 29682,
+        "Value": []
+      },
+      "Count": {
+        "Position": 29711,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 29740,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29793,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29822,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29855,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29884,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29921,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29950,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29979,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30007,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 30034,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSharkLoot.Low.07": {
+      "LootPackageID": {
+        "Position": 30161,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 30194,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 30223,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30264,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30293,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 30322,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30375,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30404,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 30437,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 30466,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 30503,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 30532,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 30561,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30589,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 30616,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.06": {
+      "LootPackageID": {
+        "Position": 30742,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 30775,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 30804,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30845,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30874,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 30903,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30956,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30985,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31018,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 31047,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 31084,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 31113,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 31142,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 31170,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 31197,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Handgun.01": {
+      "LootPackageID": {
+        "Position": 31334,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Handgun"
+        }
+      },
+      "Weight": {
+        "Position": 31367,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 31396,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 31437,
+        "Value": []
+      },
+      "Count": {
+        "Position": 31466,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 31495,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 31548,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 31577,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31610,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 31639,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 31676,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 31705,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 31734,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 31762,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 31789,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Handgun.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FlopperDefault.Light.01": {
+      "LootPackageID": {
+        "Position": 31921,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Light"
+        }
+      },
+      "Weight": {
+        "Position": 31954,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 31983,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 32024,
+        "Value": []
+      },
+      "Count": {
+        "Position": 32053,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 32082,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 32135,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 32164,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 32197,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 32226,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 32263,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 32292,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 32321,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32349,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32376,
+        "Value": ";List:WorldList.FlopperDefault.Light.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaSharkLoot.Low.02": {
+      "LootPackageID": {
+        "Position": 32503,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 32536,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 32565,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 32606,
+        "Value": []
+      },
+      "Count": {
+        "Position": 32635,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 32664,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 32717,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 32746,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 32779,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 32808,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 32845,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 32874,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 32903,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32931,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32958,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.07": {
+      "LootPackageID": {
+        "Position": 33086,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 33119,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 33148,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 33189,
+        "Value": []
+      },
+      "Count": {
+        "Position": 33218,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 33247,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 33300,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 33329,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 33362,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 33391,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 33428,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 33457,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 33486,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 33514,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 33541,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FlopperDefault.Shell.01": {
+      "LootPackageID": {
+        "Position": 33675,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Shell"
+        }
+      },
+      "Weight": {
+        "Position": 33708,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 33737,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 33778,
+        "Value": []
+      },
+      "Count": {
+        "Position": 33807,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 33836,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 33889,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 33918,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 33951,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 33980,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 34017,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 34046,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 34075,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 34103,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 34130,
+        "Value": ";List:WorldList.FlopperDefault.Shell.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSharkLoot.Low.10": {
+      "LootPackageID": {
+        "Position": 34259,
+        "Value": {
+          "String": "WorldList.AthenaSharkLoot.Low"
+        }
+      },
+      "Weight": {
+        "Position": 34292,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 34321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 34362,
+        "Value": []
+      },
+      "Count": {
+        "Position": 34391,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 34420,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 34473,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 34502,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 34535,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 34564,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 34601,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 34630,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 34659,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 34687,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 34714,
+        "Value": ";List:WorldList.AthenaSharkLoot.Low.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.SMG.10": {
+      "LootPackageID": {
+        "Position": 34844,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 34877,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 34906,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 34947,
+        "Value": []
+      },
+      "Count": {
+        "Position": 34976,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 35005,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 35058,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 35087,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 35120,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 35149,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 35186,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 35215,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 35244,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 35272,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 35299,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.SMG.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.C.Ore.T03"
+      }
+    },
+    "WorldPKG.AthenaSCM.01": {
+      "LootPackageID": {
+        "Position": 35431,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 35464,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 35493,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 35534,
+        "Value": []
+      },
+      "Count": {
+        "Position": 35563,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 35592,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 35645,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 35674,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 35707,
+        "Value": "WorldList.AthenaSCM.Pistol"
+      },
+      "ItemDefinition": {
+        "Position": 35763,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 35800,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 35829,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 35858,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 35886,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 35913,
+        "Value": ";Def:WorldPKG.AthenaSCM.C0;Call:WorldList.AthenaSCM.Pistol"
+      }
+    },
+    "WorldPKG.AthenaSCM.02": {
+      "LootPackageID": {
+        "Position": 36017,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 36050,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 36079,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 36120,
+        "Value": []
+      },
+      "Count": {
+        "Position": 36149,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 36178,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 36231,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 36260,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 36293,
+        "Value": "WorldList.AthenaLoot.Ammo.Light"
+      },
+      "ItemDefinition": {
+        "Position": 36354,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 36391,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 36420,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 36449,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 36477,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 36504,
+        "Value": ";Def:WorldPKG.AthenaSCM.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaSCM.03": {
+      "LootPackageID": {
+        "Position": 36613,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 36646,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 36675,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 36716,
+        "Value": []
+      },
+      "Count": {
+        "Position": 36745,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 36774,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 36827,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 36856,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 36889,
+        "Value": "WorldList.AthenaSCM.Wood"
+      },
+      "ItemDefinition": {
+        "Position": 36943,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 36980,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 37009,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 37038,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 37066,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 37093,
+        "Value": ";Def:WorldPKG.AthenaSCM.C2;Call:WorldList.AthenaSCM.Wood"
+      }
+    }
+  }
+]

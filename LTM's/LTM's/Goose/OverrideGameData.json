@@ -1,0 +1,4646 @@
+[
+  {
+    "Default.SafeZone.Radius": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150000.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 70000.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 30000.0
+            }
+          },
+          {
+            "Position": 176,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 29995.0
+            }
+          },
+          {
+            "Position": 184,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 192,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 200,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 233,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 270,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 311,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.RejectOuterDistance": {
+      "InterpMode": {
+        "Position": 368,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 409,
+        "Value": [
+          {
+            "Position": 462,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50000.0
+            }
+          },
+          {
+            "Position": 470,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 15000.0
+            }
+          },
+          {
+            "Position": 478,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 486,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 4000.0
+            }
+          },
+          {
+            "Position": 494,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 502,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 535,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 572,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 613,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.WaitTime": {
+      "InterpMode": {
+        "Position": 670,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 711,
+        "Value": [
+          {
+            "Position": 764,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 772,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 780,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 788,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 90.0
+            }
+          },
+          {
+            "Position": 796,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 90.0
+            }
+          },
+          {
+            "Position": 804,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 22.0
+            }
+          },
+          {
+            "Position": 812,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 820,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 853,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 890,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 931,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.ShrinkTime": {
+      "InterpMode": {
+        "Position": 988,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 1029,
+        "Value": [
+          {
+            "Position": 1082,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1090,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 120.0
+            }
+          },
+          {
+            "Position": 1098,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 120.0
+            }
+          },
+          {
+            "Position": 1106,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 1114,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 1122,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1130,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1200,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 1241,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.SupplyDropMinCount": {
+      "InterpMode": {
+        "Position": 1298,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 1339,
+        "Value": [
+          {
+            "Position": 1392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 1400,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1408,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1441,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1478,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 1519,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.SupplyDropMaxCount": {
+      "InterpMode": {
+        "Position": 1576,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 1617,
+        "Value": [
+          {
+            "Position": 1670,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 1678,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1686,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1719,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1756,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 1797,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.ForceDistanceMin": {
+      "InterpMode": {
+        "Position": 1854,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 1895,
+        "Value": [
+          {
+            "Position": 1948,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1956,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1964,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 70000.0
+            }
+          },
+          {
+            "Position": 1972,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 90000.0
+            }
+          },
+          {
+            "Position": 1980,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 90000.0
+            }
+          },
+          {
+            "Position": 1988,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 100000.0
+            }
+          },
+          {
+            "Position": 1996,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 100000.0
+            }
+          },
+          {
+            "Position": 2004,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 120000.0
+            }
+          },
+          {
+            "Position": 2012,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2020,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2053,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2090,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 2131,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.ForceDistanceMax": {
+      "InterpMode": {
+        "Position": 2188,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 2229,
+        "Value": [
+          {
+            "Position": 2282,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2290,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2298,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 70000.0
+            }
+          },
+          {
+            "Position": 2306,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 90000.0
+            }
+          },
+          {
+            "Position": 2314,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 90000.0
+            }
+          },
+          {
+            "Position": 2322,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 100000.0
+            }
+          },
+          {
+            "Position": 2330,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 100000.0
+            }
+          },
+          {
+            "Position": 2338,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 120000.0
+            }
+          },
+          {
+            "Position": 2346,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2354,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2387,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2424,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 2465,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.StartDelay": {
+      "InterpMode": {
+        "Position": 2522,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 2563,
+        "Value": [
+          {
+            "Position": 2616,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2624,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2657,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2694,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 2735,
+        "Value": 107
+      }
+    },
+    "Default.AmmoBox.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 2792,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 2833,
+        "Value": [
+          {
+            "Position": 2886,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2894,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2927,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2964,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 3005,
+        "Value": 107
+      }
+    },
+    "Default.AmmoBox.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 3062,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 3103,
+        "Value": [
+          {
+            "Position": 3156,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3164,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3197,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3234,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 3275,
+        "Value": 107
+      }
+    },
+    "Default.TreasureChest.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 3332,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 3373,
+        "Value": [
+          {
+            "Position": 3426,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3434,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3467,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3504,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 3545,
+        "Value": 107
+      }
+    },
+    "Default.TreasureChest.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 3602,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 3643,
+        "Value": [
+          {
+            "Position": 3696,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3704,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3737,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3774,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 3815,
+        "Value": 107
+      }
+    },
+    "Default.VendingMachine.RarityWeights": {
+      "InterpMode": {
+        "Position": 3872,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 3913,
+        "Value": [
+          {
+            "Position": 3966,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 3974,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3982,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4015,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4052,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 4093,
+        "Value": 107
+      }
+    },
+    "Default.Siphon.Enabled": {
+      "InterpMode": {
+        "Position": 4150,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 4191,
+        "Value": [
+          {
+            "Position": 4244,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4252,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4285,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4322,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 4363,
+        "Value": 107
+      }
+    },
+    "Default.ZipLine.AttachLinesToPoles": {
+      "InterpMode": {
+        "Position": 4420,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 4461,
+        "Value": [
+          {
+            "Position": 4514,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4522,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4555,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4592,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 4633,
+        "Value": 107
+      }
+    },
+    "Default.Vents.Disabled": {
+      "InterpMode": {
+        "Position": 4690,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 4731,
+        "Value": [
+          {
+            "Position": 4784,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 4792,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4800,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4833,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4870,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 4911,
+        "Value": 107
+      }
+    },
+    "Goose.PlanePickup.Timer": {
+      "InterpMode": {
+        "Position": 4968,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 5009,
+        "Value": [
+          {
+            "Position": 5062,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 5070,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5078,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5111,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5148,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 5189,
+        "Value": 107
+      }
+    },
+    "Goose.MaxNumAlivePickups": {
+      "InterpMode": {
+        "Position": 5246,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 5287,
+        "Value": [
+          {
+            "Position": 5340,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5348,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 24.0
+            }
+          },
+          {
+            "Position": 5356,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 12.0
+            }
+          },
+          {
+            "Position": 5364,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 5372,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5380,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5413,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5450,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 5491,
+        "Value": 107
+      }
+    },
+    "Goose.PickupSpawnHeight": {
+      "InterpMode": {
+        "Position": 5548,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 5589,
+        "Value": [
+          {
+            "Position": 5642,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40000.0
+            }
+          },
+          {
+            "Position": 5650,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 30000.0
+            }
+          },
+          {
+            "Position": 5658,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 20000.0
+            }
+          },
+          {
+            "Position": 5666,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 20000.0
+            }
+          },
+          {
+            "Position": 5674,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5682,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5715,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5752,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 5793,
+        "Value": 107
+      }
+    },
+    "Goose.PickupSpawnPerFrame": {
+      "InterpMode": {
+        "Position": 5850,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 5891,
+        "Value": [
+          {
+            "Position": 5944,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 5952,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5960,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5993,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6030,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 6071,
+        "Value": 107
+      }
+    },
+    "Goose.WeaponsRelativeWeight": {
+      "InterpMode": {
+        "Position": 6128,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 6169,
+        "Value": [
+          {
+            "Position": 6222,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 6230,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 6238,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6246,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6279,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6316,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 6357,
+        "Value": 107
+      }
+    },
+    "Goose.MedKitsRelativeWeight": {
+      "InterpMode": {
+        "Position": 6414,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 6455,
+        "Value": [
+          {
+            "Position": 6508,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.25
+            }
+          },
+          {
+            "Position": 6516,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 0.25
+            }
+          },
+          {
+            "Position": 6524,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6532,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6565,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6602,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 6643,
+        "Value": 107
+      }
+    },
+    "Goose.MedKits.MinHeight": {
+      "InterpMode": {
+        "Position": 6700,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 6741,
+        "Value": [
+          {
+            "Position": 6794,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 6802,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 6810,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 6818,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 6826,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6834,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6867,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6904,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 6945,
+        "Value": 107
+      }
+    },
+    "Goose.MedKits.MaxHeight": {
+      "InterpMode": {
+        "Position": 7002,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 7043,
+        "Value": [
+          {
+            "Position": 7096,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 7104,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 7112,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 7120,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 7128,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7136,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7169,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7206,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 7247,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.Min": {
+      "InterpMode": {
+        "Position": 7304,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 7345,
+        "Value": [
+          {
+            "Position": 7398,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 7406,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 7414,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7422,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7455,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7492,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 7533,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.Max": {
+      "InterpMode": {
+        "Position": 7590,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 7631,
+        "Value": [
+          {
+            "Position": 7684,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 7692,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 3000.0
+            }
+          },
+          {
+            "Position": 7700,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7708,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7741,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7778,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 7819,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.C": {
+      "InterpMode": {
+        "Position": 7876,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 7917,
+        "Value": [
+          {
+            "Position": 7970,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 7978,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 7986,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 7994,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 8002,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8010,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8043,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8080,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 8121,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.UC": {
+      "InterpMode": {
+        "Position": 8178,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 8219,
+        "Value": [
+          {
+            "Position": 8272,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 8280,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 8288,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 8296,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 8304,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8312,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8345,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8382,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 8423,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.R": {
+      "InterpMode": {
+        "Position": 8480,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 8521,
+        "Value": [
+          {
+            "Position": 8574,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 8582,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 8590,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 8598,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 8606,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8614,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8647,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8684,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 8725,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.E": {
+      "InterpMode": {
+        "Position": 8782,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 8823,
+        "Value": [
+          {
+            "Position": 8876,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 8884,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 8892,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8900,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8933,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8970,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 9011,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range1.L": {
+      "InterpMode": {
+        "Position": 9068,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 9109,
+        "Value": [
+          {
+            "Position": 9162,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 9170,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 9178,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9186,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9219,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9256,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 9297,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.Min": {
+      "InterpMode": {
+        "Position": 9354,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 9395,
+        "Value": [
+          {
+            "Position": 9448,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 9456,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 9464,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9472,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9505,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9542,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 9583,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.Max": {
+      "InterpMode": {
+        "Position": 9640,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 9681,
+        "Value": [
+          {
+            "Position": 9734,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 9742,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 9750,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9758,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9791,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9828,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 9869,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.C": {
+      "InterpMode": {
+        "Position": 9926,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 9967,
+        "Value": [
+          {
+            "Position": 10020,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 10028,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 10036,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 10044,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 10052,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10060,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10093,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10130,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 10171,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.UC": {
+      "InterpMode": {
+        "Position": 10228,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 10269,
+        "Value": [
+          {
+            "Position": 10322,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 10330,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 10338,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 10346,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 10354,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10362,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10395,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10432,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 10473,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.R": {
+      "InterpMode": {
+        "Position": 10530,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 10571,
+        "Value": [
+          {
+            "Position": 10624,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 10632,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 10640,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10648,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10681,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10718,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 10759,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.E": {
+      "InterpMode": {
+        "Position": 10816,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 10857,
+        "Value": [
+          {
+            "Position": 10910,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 10918,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 10926,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10934,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10967,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11004,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 11045,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range2.L": {
+      "InterpMode": {
+        "Position": 11102,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 11143,
+        "Value": [
+          {
+            "Position": 11196,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 11204,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 11212,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11220,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11253,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11290,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 11331,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.Min": {
+      "InterpMode": {
+        "Position": 11388,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 11429,
+        "Value": [
+          {
+            "Position": 11482,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1500.0
+            }
+          },
+          {
+            "Position": 11490,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 1500.0
+            }
+          },
+          {
+            "Position": 11498,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11506,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11539,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11576,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 11617,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.Max": {
+      "InterpMode": {
+        "Position": 11674,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 11715,
+        "Value": [
+          {
+            "Position": 11768,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 11776,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 2000.0
+            }
+          },
+          {
+            "Position": 11784,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11792,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11825,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11862,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 11903,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.C": {
+      "InterpMode": {
+        "Position": 11960,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 12001,
+        "Value": [
+          {
+            "Position": 12054,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 12062,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 12070,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 12078,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 12086,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12094,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12127,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12164,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 12205,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.UC": {
+      "InterpMode": {
+        "Position": 12262,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 12303,
+        "Value": [
+          {
+            "Position": 12356,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 12364,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 12372,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 12380,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 12388,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12396,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12429,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12466,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 12507,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.R": {
+      "InterpMode": {
+        "Position": 12564,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 12605,
+        "Value": [
+          {
+            "Position": 12658,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 12666,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 12674,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 12682,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 12690,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12698,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12731,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12768,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 12809,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.E": {
+      "InterpMode": {
+        "Position": 12866,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 12907,
+        "Value": [
+          {
+            "Position": 12960,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 12968,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 12976,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 13.0
+            }
+          },
+          {
+            "Position": 12984,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 13.0
+            }
+          },
+          {
+            "Position": 12992,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13000,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13033,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13070,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 13111,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range3.L": {
+      "InterpMode": {
+        "Position": 13168,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 13209,
+        "Value": [
+          {
+            "Position": 13262,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 13270,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 13278,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 7.0
+            }
+          },
+          {
+            "Position": 13286,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 7.0
+            }
+          },
+          {
+            "Position": 13294,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13302,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13335,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13372,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 13413,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.Min": {
+      "InterpMode": {
+        "Position": 13470,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 13511,
+        "Value": [
+          {
+            "Position": 13564,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 13572,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 13580,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13588,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13621,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13658,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 13699,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.Max": {
+      "InterpMode": {
+        "Position": 13756,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 13797,
+        "Value": [
+          {
+            "Position": 13850,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1500.0
+            }
+          },
+          {
+            "Position": 13858,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 1500.0
+            }
+          },
+          {
+            "Position": 13866,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13874,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13907,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13944,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 13985,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.C": {
+      "InterpMode": {
+        "Position": 14042,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 14083,
+        "Value": [
+          {
+            "Position": 14136,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 14144,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 14152,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 14160,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 14168,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14176,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14209,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14246,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 14287,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.UC": {
+      "InterpMode": {
+        "Position": 14344,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 14385,
+        "Value": [
+          {
+            "Position": 14438,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 14446,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 14454,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 14462,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 14470,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14478,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14511,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14548,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 14589,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.R": {
+      "InterpMode": {
+        "Position": 14646,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 14687,
+        "Value": [
+          {
+            "Position": 14740,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 14748,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 14756,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 14764,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 14772,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14780,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14813,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14850,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 14891,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.E": {
+      "InterpMode": {
+        "Position": 14948,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 14989,
+        "Value": [
+          {
+            "Position": 15042,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 15050,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 15.0
+            }
+          },
+          {
+            "Position": 15058,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 15066,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 20.0
+            }
+          },
+          {
+            "Position": 15074,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15082,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15115,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15152,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 15193,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range4.L": {
+      "InterpMode": {
+        "Position": 15250,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 15291,
+        "Value": [
+          {
+            "Position": 15344,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15352,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15360,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 15368,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 15376,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15384,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15417,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15454,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 15495,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.Min": {
+      "InterpMode": {
+        "Position": 15552,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 15593,
+        "Value": [
+          {
+            "Position": 15646,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 15654,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 15662,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15670,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15703,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15740,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 15781,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.Max": {
+      "InterpMode": {
+        "Position": 15838,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 15879,
+        "Value": [
+          {
+            "Position": 15932,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 15940,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 15948,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15956,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15989,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16026,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 16067,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.C": {
+      "InterpMode": {
+        "Position": 16124,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 16165,
+        "Value": [
+          {
+            "Position": 16218,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16226,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16259,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16296,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 16337,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.UC": {
+      "InterpMode": {
+        "Position": 16394,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 16435,
+        "Value": [
+          {
+            "Position": 16488,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 16496,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 16504,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 16512,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 16520,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16528,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16561,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16598,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 16639,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.R": {
+      "InterpMode": {
+        "Position": 16696,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 16737,
+        "Value": [
+          {
+            "Position": 16790,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 16798,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 35.0
+            }
+          },
+          {
+            "Position": 16806,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16814,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16847,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16884,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 16925,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.E": {
+      "InterpMode": {
+        "Position": 16982,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 17023,
+        "Value": [
+          {
+            "Position": 17076,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 17084,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 25.0
+            }
+          },
+          {
+            "Position": 17092,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 17100,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 17108,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17116,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17149,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17186,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 17227,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.Range5.L": {
+      "InterpMode": {
+        "Position": 17284,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 17325,
+        "Value": [
+          {
+            "Position": 17378,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 17386,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 17394,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17402,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17435,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17472,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 17513,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.DeployedLifetime": {
+      "InterpMode": {
+        "Position": 17570,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 17611,
+        "Value": [
+          {
+            "Position": 17664,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 120.0
+            }
+          },
+          {
+            "Position": 17672,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17680,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17713,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17750,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 17791,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.DespawnWarningTime": {
+      "InterpMode": {
+        "Position": 17848,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 17889,
+        "Value": [
+          {
+            "Position": 17942,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 17950,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17958,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17991,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18028,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 18069,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.InStormLifetime": {
+      "InterpMode": {
+        "Position": 18126,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 18167,
+        "Value": [
+          {
+            "Position": 18220,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 18228,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18236,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18269,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18306,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 18347,
+        "Value": 107
+      }
+    },
+    "Goose.Pickups.DropGravityScale": {
+      "InterpMode": {
+        "Position": 18404,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 18445,
+        "Value": [
+          {
+            "Position": 18498,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 18506,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18514,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18547,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18584,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 18625,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.InitialRadius": {
+      "InterpMode": {
+        "Position": 18682,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 18723,
+        "Value": [
+          {
+            "Position": 18776,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50000.0
+            }
+          },
+          {
+            "Position": 18784,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18792,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18825,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18862,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 18903,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.SpawnHeight": {
+      "InterpMode": {
+        "Position": 18960,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 19001,
+        "Value": [
+          {
+            "Position": 19054,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 80000.0
+            }
+          },
+          {
+            "Position": 19062,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19070,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19103,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19140,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 19181,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.SkyCapOffset": {
+      "InterpMode": {
+        "Position": 19238,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 19279,
+        "Value": [
+          {
+            "Position": 19332,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": -384.0
+            }
+          },
+          {
+            "Position": 19340,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19348,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19381,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19418,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 19459,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.SpawnPitch": {
+      "InterpMode": {
+        "Position": 19516,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 19557,
+        "Value": [
+          {
+            "Position": 19610,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19618,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19651,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19688,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 19729,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.SpawnStormMult": {
+      "InterpMode": {
+        "Position": 19786,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 19827,
+        "Value": [
+          {
+            "Position": 19880,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 19888,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19896,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19929,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19966,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 20007,
+        "Value": 107
+      }
+    },
+    "Goose.Planes.LivesPerSquad": {
+      "InterpMode": {
+        "Position": 20064,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 20105,
+        "Value": [
+          {
+            "Position": 20158,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 20166,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 20174,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20207,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20244,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 20285,
+        "Value": 107
+      }
+    },
+    "Goose.SkyCap.SpawnHeight": {
+      "InterpMode": {
+        "Position": 20342,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 20383,
+        "Value": [
+          {
+            "Position": 20436,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 80000.0
+            }
+          },
+          {
+            "Position": 20444,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 20452,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20485,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20522,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 20563,
+        "Value": 107
+      }
+    },
+    "Goose.SkyCap.Delay": {
+      "InterpMode": {
+        "Position": 20620,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 20661,
+        "Value": [
+          {
+            "Position": 20714,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 20722,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 20730,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 20763,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 20800,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 20841,
+        "Value": 107
+      }
+    },
+    "Goose.SkyCap.MoveTime": {
+      "InterpMode": {
+        "Position": 20898,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 20939,
+        "Value": [
+          {
+            "Position": 20992,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 300.0
+            }
+          },
+          {
+            "Position": 21000,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 21008,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21041,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21078,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 21119,
+        "Value": 107
+      }
+    },
+    "Goose.SkyCap.DestHeight": {
+      "InterpMode": {
+        "Position": 21176,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 21217,
+        "Value": [
+          {
+            "Position": 21270,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 7500.0
+            }
+          },
+          {
+            "Position": 21278,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 21286,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21319,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21356,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 21397,
+        "Value": 107
+      }
+    },
+    "Goose.PickupHeal.Plane": {
+      "InterpMode": {
+        "Position": 21454,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 21495,
+        "Value": [
+          {
+            "Position": 21548,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1000.0
+            }
+          },
+          {
+            "Position": 21556,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 21564,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21597,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21634,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 21675,
+        "Value": 107
+      }
+    },
+    "Goose.PickupHeal.Player": {
+      "InterpMode": {
+        "Position": 21732,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 21773,
+        "Value": [
+          {
+            "Position": 21826,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 21834,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 21842,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 21875,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 21912,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 21953,
+        "Value": 107
+      }
+    },
+    "Goose.PickupShield.Player": {
+      "InterpMode": {
+        "Position": 22010,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 22051,
+        "Value": [
+          {
+            "Position": 22104,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 22112,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 22120,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 22153,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 22190,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 22231,
+        "Value": 107
+      }
+    },
+    "Default.SafeZone.Damage": {
+      "InterpMode": {
+        "Position": 22288,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 22329,
+        "Value": [
+          {
+            "Position": 22382,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.01
+            }
+          },
+          {
+            "Position": 22390,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.01
+            }
+          },
+          {
+            "Position": 22398,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 0.02
+            }
+          },
+          {
+            "Position": 22406,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.05
+            }
+          },
+          {
+            "Position": 22414,
+            "Value": {
+              "KeyTime": 5.0,
+              "KeyValue": 0.08
+            }
+          },
+          {
+            "Position": 22422,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 22430,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 22438,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 22446,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 0.5
+            }
+          },
+          {
+            "Position": 22454,
+            "Value": {
+              "KeyTime": 10.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 22462,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 22495,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 22532,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 22573,
+        "Value": 107
+      }
+    },
+    "Goose.IgnoreStormDamage.Players": {
+      "InterpMode": {
+        "Position": 22630,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 22671,
+        "Value": [
+          {
+            "Position": 22724,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 22732,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 22740,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 22773,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 22810,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 22851,
+        "Value": 107
+      }
+    },
+    "Goose.SlowValue": {
+      "InterpMode": {
+        "Position": 22908,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 22949,
+        "Value": [
+          {
+            "Position": 23002,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.01
+            }
+          },
+          {
+            "Position": 23010,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 23018,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23051,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23088,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 23129,
+        "Value": 107
+      }
+    },
+    "Goose.Slow.Duration": {
+      "InterpMode": {
+        "Position": 23186,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 23227,
+        "Value": [
+          {
+            "Position": 23280,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 7.0
+            }
+          },
+          {
+            "Position": 23288,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 23296,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23329,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23366,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 23407,
+        "Value": 107
+      }
+    },
+    "Goose.DOT.Damage": {
+      "InterpMode": {
+        "Position": 23464,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 23505,
+        "Value": [
+          {
+            "Position": 23558,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 50.0
+            }
+          },
+          {
+            "Position": 23566,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 23574,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23607,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23644,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 23685,
+        "Value": 107
+      }
+    },
+    "Goose.DOT.ticktime": {
+      "InterpMode": {
+        "Position": 23742,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 23783,
+        "Value": [
+          {
+            "Position": 23836,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 23844,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 23852,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 23885,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 23922,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 23963,
+        "Value": 107
+      }
+    },
+    "Goose.DOT.duration": {
+      "InterpMode": {
+        "Position": 24020,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 24061,
+        "Value": [
+          {
+            "Position": 24114,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 10.0
+            }
+          },
+          {
+            "Position": 24122,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 24130,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24200,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 24241,
+        "Value": 107
+      }
+    },
+    "Default.SCMachine.HotfixOn": {
+      "InterpMode": {
+        "Position": 24298,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 24339,
+        "Value": [
+          {
+            "Position": 24392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 24400,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24433,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24470,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 24511,
+        "Value": 107
+      }
+    },
+    "Goose.EmptyPlaneTime": {
+      "InterpMode": {
+        "Position": 24568,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 24609,
+        "Value": [
+          {
+            "Position": 24662,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 7.0
+            }
+          },
+          {
+            "Position": 24670,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 24678,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24711,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 24748,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 24789,
+        "Value": 107
+      }
+    },
+    "Goose.Siphon.Amount": {
+      "InterpMode": {
+        "Position": 24846,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 24887,
+        "Value": [
+          {
+            "Position": 24940,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 500.0
+            }
+          },
+          {
+            "Position": 24948,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 24956,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 24989,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 25026,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 25067,
+        "Value": 107
+      }
+    },
+    "Goose.Widget.Enabled": {
+      "InterpMode": {
+        "Position": 25124,
+        "Value": 108
+      },
+      "Keys": {
+        "Position": 25165,
+        "Value": [
+          {
+            "Position": 25218,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 25226,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 25234,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 25267,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 25304,
+        "Value": 107
+      },
+      "PostInfinityExtrap": {
+        "Position": 25345,
+        "Value": 107
+      }
+    }
+  }
+]

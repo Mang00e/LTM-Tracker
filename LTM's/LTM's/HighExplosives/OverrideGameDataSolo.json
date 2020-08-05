@@ -1,0 +1,371 @@
+[
+  {
+    "ExportType": "CurveTable",
+    "ExportValue": {
+      "Default.VendingMachine.RarityWeights": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.SafeZone.WaitTime": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 120.0
+          },
+          {
+            "KeyTime": 2.0,
+            "KeyValue": 120.0
+          },
+          {
+            "KeyTime": 3.0,
+            "KeyValue": 60.0
+          },
+          {
+            "KeyTime": 4.0,
+            "KeyValue": 60.0
+          },
+          {
+            "KeyTime": 5.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 6.0,
+            "KeyValue": 30.0
+          },
+          {
+            "KeyTime": 7.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "GroundGame.MaxStack.Ammo.Rocket": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 120.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Ammo.Rocket": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 3.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 4.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Ammo.RareChest": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 3.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 4.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Ammo.SupplyDrop": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 3.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 4.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.SCMachine.SpawnInterval": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.SCMachine.HotfixOn": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Phoebe.Enable": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Gibson.Enable": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Choppa.MaxSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Choppa.MinSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Valet.MinSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Valet.MaxSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Valet.MinPercentWithGas": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.Valet.MaxPercentWithGas": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.SpyBaseChoppa.MinSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      },
+      "Default.SpyBaseChoppa.MaxSpawnPercent": {
+        "InterpMode": 38,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 37,
+        "PostInfinityExtrap": 37
+      }
+    }
+  }
+]

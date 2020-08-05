@@ -1,0 +1,995 @@
+[
+  {
+    "ExportType": "CurveTable",
+    "ExportValue": {
+      "Default.SafeZone.PlayerCap.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.MatchStats": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 5.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.WonMatch": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 100.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.StartMatch": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.1
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.SpawnedInfo": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.Teleport": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.EndPhase": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.Death": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.Down": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.Revive": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Analytics.Percent.Phoebe.StartZone": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 100.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Phoebe.Enable": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.ShouldSpawn": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.HealthMultiplier": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.HealthMultiplierBoss": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.BaseShield": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.BaseShieldBoss": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 350.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Music.ShouldPlay": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.LightAmmoCount": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 18.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.MediumAmmoCount": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 10.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.HeavyAmmoCount": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 6.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Mang.Spawner.MiniGunAmmoCount": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 36.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Sentry.Alarm.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Sentry.Turret.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Sentry.Generator.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Lock.Scanner.InteractEnabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Lock.Scanner.DoNotLockActor": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.HidingProp.PhoneBooth.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 2.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.HidingProp.Teleport.Enabled": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 2.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.FactionTreasure.MinSpawnPercent": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 100.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.FactionTreasure.MaxSpawnPercent": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 100.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Lager.Enable": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 1.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Gibson.Enable": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BasicCar": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BasicCar": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BasicCar.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BasicCar.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BasicTruck": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BasicTruck": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BasicTruck.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BasicTruck.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BigRig": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BigRig": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.BigRig.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.BigRig.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.TaxiCab": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.TaxiCab": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 50.0
+          },
+          {
+            "KeyTime": 1.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.SportsCar": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.SportsCar": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MinPercentInoperable.SportsCar.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      },
+      "Default.Valet.MaxPercentInoperable.SportsCar.Upgrade": {
+        "InterpMode": 71,
+        "Keys": [
+          {
+            "KeyTime": 0.0,
+            "KeyValue": 0.0
+          },
+          {
+            "KeyTime": 20.0,
+            "KeyValue": 0.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": 70,
+        "PostInfinityExtrap": 70
+      }
+    }
+  }
+]

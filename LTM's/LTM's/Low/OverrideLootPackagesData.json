@@ -1,0 +1,6529 @@
+[
+  {
+    "WorldPKG.OneShot.Weapon.MediumBullets.Floor.01": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": "WorldList.OneShot.Weapon.MediumBullets.Floor"
+      },
+      "ItemDefinition": {
+        "Position": 428,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 465,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 494,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 523,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 551,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 578,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Floor.C0;Call:WorldList.OneShot.Weapon.MediumBullets.Floor"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Floor.02": {
+      "LootPackageID": {
+        "Position": 725,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 758,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 787,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 828,
+        "Value": []
+      },
+      "Count": {
+        "Position": 857,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 886,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 939,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 968,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1001,
+        "Value": "WorldList.OneShot.Ammo.MediumBullets"
+      },
+      "ItemDefinition": {
+        "Position": 1067,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1104,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1133,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1162,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1190,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1217,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Floor.C1;Call:WorldList.OneShot.Ammo.MediumBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Floor.03": {
+      "LootPackageID": {
+        "Position": 1356,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 1389,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 1418,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1459,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1488,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1517,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 1570,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1599,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1632,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 1689,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1726,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1755,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1784,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1812,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1839,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Floor.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Floor.01": {
+      "LootPackageID": {
+        "Position": 1969,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 2002,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 2031,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2072,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2101,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2130,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2183,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2212,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2245,
+        "Value": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+      },
+      "ItemDefinition": {
+        "Position": 2318,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2355,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2384,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2413,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2441,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2468,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Floor.C0;Call:WorldList.OneShot.Weapon.HeavyBullets.Floor"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Floor.02": {
+      "LootPackageID": {
+        "Position": 2613,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 2646,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 2675,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2716,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2745,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2774,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 2827,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2856,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2889,
+        "Value": "WorldList.OneShot.Ammo.HeavyBullets"
+      },
+      "ItemDefinition": {
+        "Position": 2954,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2991,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3020,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3049,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3077,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3104,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Floor.C1;Call:WorldList.OneShot.Ammo.HeavyBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Floor.03": {
+      "LootPackageID": {
+        "Position": 3241,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 3274,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 3303,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3344,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3373,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3402,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 3455,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3484,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3517,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 3574,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3611,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3640,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3669,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3697,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3724,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Floor.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.Special.Floor.01": {
+      "LootPackageID": {
+        "Position": 3853,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.Special.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 3886,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 3915,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3956,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3985,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4014,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4067,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4096,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4129,
+        "Value": "WorldList.OneShot.Weapon.Special.Floor"
+      },
+      "ItemDefinition": {
+        "Position": 4197,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4234,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4263,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4292,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4320,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4347,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.Special.Floor.C0;Call:WorldList.OneShot.Weapon.Special.Floor"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.Special.Floor.02": {
+      "LootPackageID": {
+        "Position": 4482,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.Special.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 4515,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 4544,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4585,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4614,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4643,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 4696,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4725,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4758,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 4815,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4852,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4881,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4910,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4938,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4965,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.Special.Floor.C1;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Chest.01": {
+      "LootPackageID": {
+        "Position": 5089,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 5122,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 5151,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5192,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5221,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5250,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5303,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5332,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5365,
+        "Value": "WorldList.OneShot.Weapon.MediumBullets.Chest"
+      },
+      "ItemDefinition": {
+        "Position": 5439,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5476,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5505,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5534,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5562,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5589,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Chest.C0;Call:WorldList.OneShot.Weapon.MediumBullets.Chest"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Chest.02": {
+      "LootPackageID": {
+        "Position": 5736,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 5769,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 5798,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5839,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5868,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5897,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 5950,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5979,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6012,
+        "Value": "WorldList.OneShot.Ammo.MediumBullets"
+      },
+      "ItemDefinition": {
+        "Position": 6078,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6115,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6144,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6173,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6201,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6228,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Chest.C1;Call:WorldList.OneShot.Ammo.MediumBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Chest.03": {
+      "LootPackageID": {
+        "Position": 6367,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 6400,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 6429,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6470,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6499,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 6528,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 6581,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6610,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6643,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 6700,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6737,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6766,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6795,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6823,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6850,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Chest.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Chest.01": {
+      "LootPackageID": {
+        "Position": 6980,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 7013,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 7042,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7083,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7112,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7141,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7194,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7223,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7256,
+        "Value": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+      },
+      "ItemDefinition": {
+        "Position": 7329,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7366,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 7395,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 7424,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 7452,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7479,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Chest.C0;Call:WorldList.OneShot.Weapon.HeavyBullets.Chest"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Chest.02": {
+      "LootPackageID": {
+        "Position": 7624,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 7657,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 7686,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7727,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7756,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7785,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 7838,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7867,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7900,
+        "Value": "WorldList.OneShot.Ammo.HeavyBullets"
+      },
+      "ItemDefinition": {
+        "Position": 7965,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8002,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8031,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8060,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8088,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8115,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Chest.C1;Call:WorldList.OneShot.Ammo.HeavyBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Chest.03": {
+      "LootPackageID": {
+        "Position": 8252,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 8285,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 8314,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8355,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8384,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8413,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 8466,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 8495,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8528,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 8585,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8622,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8651,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8680,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8708,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8735,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Chest.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.Special.Chest.01": {
+      "LootPackageID": {
+        "Position": 8864,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.Special.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 8897,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 8926,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8967,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8996,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9025,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9078,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9107,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9140,
+        "Value": "WorldList.OneShot.Weapon.Special.Chest"
+      },
+      "ItemDefinition": {
+        "Position": 9208,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9245,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9274,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9303,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9331,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9358,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.Special.Chest.C0;Call:WorldList.OneShot.Weapon.Special.Chest"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.Special.Chest.02": {
+      "LootPackageID": {
+        "Position": 9493,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.Special.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 9526,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 9555,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9596,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9625,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9654,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 9707,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9736,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9769,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 9826,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9863,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9892,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9921,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9949,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9976,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.Special.Chest.C1;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Rare.01": {
+      "LootPackageID": {
+        "Position": 10100,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 10133,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 10162,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10203,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10232,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10261,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 10314,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10343,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10376,
+        "Value": "WorldList.OneShot.Weapon.MediumBullets.Rare"
+      },
+      "ItemDefinition": {
+        "Position": 10449,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 10486,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 10515,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10544,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 10572,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10599,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Rare.C0;Call:WorldList.OneShot.Weapon.MediumBullets.Rare"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Rare.02": {
+      "LootPackageID": {
+        "Position": 10744,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 10777,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 10806,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10847,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10876,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10905,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 10958,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10987,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11020,
+        "Value": "WorldList.OneShot.Ammo.MediumBullets"
+      },
+      "ItemDefinition": {
+        "Position": 11086,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11123,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11152,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11181,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11209,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11236,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Rare.C1;Call:WorldList.OneShot.Ammo.MediumBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.MediumBullets.Rare.03": {
+      "LootPackageID": {
+        "Position": 11374,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.MediumBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 11407,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 11436,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 11477,
+        "Value": []
+      },
+      "Count": {
+        "Position": 11506,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 11535,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 11588,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 11617,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11650,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 11707,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11744,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11773,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11802,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11830,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11857,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.MediumBullets.Rare.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Rare.01": {
+      "LootPackageID": {
+        "Position": 11986,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 12019,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 12048,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12089,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12118,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12147,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12200,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12229,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12262,
+        "Value": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+      },
+      "ItemDefinition": {
+        "Position": 12334,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12371,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12400,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12429,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12457,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12484,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Rare.C0;Call:WorldList.OneShot.Weapon.HeavyBullets.Rare"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Rare.02": {
+      "LootPackageID": {
+        "Position": 12627,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 12660,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 12689,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12730,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12759,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12788,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 12841,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12870,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12903,
+        "Value": "WorldList.OneShot.Ammo.HeavyBullets"
+      },
+      "ItemDefinition": {
+        "Position": 12968,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13005,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13034,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13063,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13091,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13118,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Rare.C1;Call:WorldList.OneShot.Ammo.HeavyBullets"
+      }
+    },
+    "WorldPKG.OneShot.Weapon.HeavyBullets.Rare.03": {
+      "LootPackageID": {
+        "Position": 13254,
+        "Value": {
+          "String": "WorldPKG.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 13287,
+        "Value": 33.0
+      },
+      "NamedWeightMult": {
+        "Position": 13316,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13357,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13386,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 13415,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 13468,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13497,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13530,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 13587,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13624,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13653,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13682,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13710,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13737,
+        "Value": ";Def:WorldPKG.OneShot.Weapon.HeavyBullets.Rare.C2;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldPKG.OneShot.Ammo.01": {
+      "LootPackageID": {
+        "Position": 13865,
+        "Value": {
+          "String": "WorldPKG.OneShot.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 13898,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 13927,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13968,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13997,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14026,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14079,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14108,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14141,
+        "Value": "WorldList.OneShot.Ammo"
+      },
+      "ItemDefinition": {
+        "Position": 14193,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14230,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14259,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14288,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14316,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14343,
+        "Value": ";Def:WorldPKG.OneShot.Ammo.C0;Call:WorldList.OneShot.Ammo"
+      }
+    },
+    "WorldPKG.OneShot.Resources.01": {
+      "LootPackageID": {
+        "Position": 14446,
+        "Value": {
+          "String": "WorldPKG.OneShot.Resources"
+        }
+      },
+      "Weight": {
+        "Position": 14479,
+        "Value": 100.0
+      },
+      "NamedWeightMult": {
+        "Position": 14508,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14549,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14578,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14607,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14660,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14689,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14722,
+        "Value": "WorldList.OneShot.Resources"
+      },
+      "ItemDefinition": {
+        "Position": 14779,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14816,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14845,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14874,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14902,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14929,
+        "Value": ";Def:WorldPKG.OneShot.Resources.C0;Call:WorldList.OneShot.Resources"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Floor.01": {
+      "LootPackageID": {
+        "Position": 15042,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 15075,
+        "Value": 96.0
+      },
+      "NamedWeightMult": {
+        "Position": 15104,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15145,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15174,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15203,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 15256,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15285,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15318,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15347,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_R.WID_Sniper_Auto_Suppressed_Scope_Athena_R"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15384,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15413,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15442,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15470,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15497,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Floor.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.R"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Floor.02": {
+      "LootPackageID": {
+        "Position": 15643,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 15676,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 15705,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15746,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15775,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15804,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 15857,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15886,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15919,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15948,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_VR.WID_Sniper_Auto_Suppressed_Scope_Athena_VR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15985,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16014,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16043,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16071,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16098,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Floor.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.VR"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Floor.03": {
+      "LootPackageID": {
+        "Position": 16245,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 16278,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 16307,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16348,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16377,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16406,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16459,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16488,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16521,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 16550,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_SR.WID_Sniper_Auto_Suppressed_Scope_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16587,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16616,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16645,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16673,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16700,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Floor.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.01": {
+      "LootPackageID": {
+        "Position": 16847,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 16880,
+        "Value": 39.0
+      },
+      "NamedWeightMult": {
+        "Position": 16909,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16950,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16979,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17008,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17061,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17090,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17123,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17152,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_UC_Ore_T03.WID_Sniper_NoScope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17189,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17218,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17247,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17275,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17302,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.NoScope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.02": {
+      "LootPackageID": {
+        "Position": 17442,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 17475,
+        "Value": 39.0
+      },
+      "NamedWeightMult": {
+        "Position": 17504,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17545,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17574,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17603,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17656,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17685,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17718,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17747,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_VR_Ore_T03.WID_Sniper_Standard_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17784,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17813,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17842,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17870,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17897,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Standard.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.03": {
+      "LootPackageID": {
+        "Position": 18044,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 18077,
+        "Value": 6.0
+      },
+      "NamedWeightMult": {
+        "Position": 18106,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18147,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18176,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18205,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 18258,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18287,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18320,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 18349,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18386,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18415,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18444,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18472,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18499,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.BoltAction.Scope.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.04": {
+      "LootPackageID": {
+        "Position": 18647,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 18680,
+        "Value": 6.0
+      },
+      "NamedWeightMult": {
+        "Position": 18709,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18750,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18779,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18808,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 18861,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18890,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18923,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 18952,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_R_Ore_T03.WID_Sniper_NoScope_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18989,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19018,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19047,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19075,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19102,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.NoScope.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.05": {
+      "LootPackageID": {
+        "Position": 19241,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 19274,
+        "Value": 6.0
+      },
+      "NamedWeightMult": {
+        "Position": 19303,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19344,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19373,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19402,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19455,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19484,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19517,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19546,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19583,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19612,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19641,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19669,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19696,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Standard.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.06": {
+      "LootPackageID": {
+        "Position": 19843,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 19876,
+        "Value": 0.5
+      },
+      "NamedWeightMult": {
+        "Position": 19905,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19946,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19975,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20004,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20057,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20086,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20119,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20148,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20185,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20214,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20243,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20271,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20298,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.BoltAction.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.07": {
+      "LootPackageID": {
+        "Position": 20447,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 20480,
+        "Value": 0.5
+      },
+      "NamedWeightMult": {
+        "Position": 20509,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20550,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20579,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20608,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20661,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20690,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20723,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20752,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_VR_Ore_T03.WID_Sniper_Heavy_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20789,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20818,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20847,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20875,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20902,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Heavy.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.08": {
+      "LootPackageID": {
+        "Position": 21040,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 21073,
+        "Value": 0.5
+      },
+      "NamedWeightMult": {
+        "Position": 21102,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21143,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21172,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21201,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21254,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21283,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21316,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21345,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/LTM/WID_Sniper_NoScope_Athena_VR_Ore_T03.WID_Sniper_NoScope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21382,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21411,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21440,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21468,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21495,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.NoScope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.09": {
+      "LootPackageID": {
+        "Position": 21635,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 21668,
+        "Value": 0.5
+      },
+      "NamedWeightMult": {
+        "Position": 21697,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21738,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21767,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21796,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21849,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21878,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21911,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21940,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Weather_Athena_VR.WID_Sniper_Weather_Athena_VR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21977,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22006,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22035,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22063,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22090,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Weather.Athena.VR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.10": {
+      "LootPackageID": {
+        "Position": 22222,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 22255,
+        "Value": 0.5
+      },
+      "NamedWeightMult": {
+        "Position": 22284,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22325,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22354,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22383,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22436,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22465,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22498,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22527,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22564,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22593,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22622,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22650,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22677,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.11": {
+      "LootPackageID": {
+        "Position": 22826,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 22859,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 22888,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22929,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22958,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22987,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23040,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23069,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23102,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23131,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Thermal_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Thermal_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23168,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23197,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23226,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23254,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23281,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.BoltAction.Scope.Thermal.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.12": {
+      "LootPackageID": {
+        "Position": 23438,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 23471,
+        "Value": 0.16
+      },
+      "NamedWeightMult": {
+        "Position": 23500,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23541,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23570,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23599,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23652,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23681,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23714,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23743,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23780,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23809,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23838,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23866,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23893,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.BoltAction.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.13": {
+      "LootPackageID": {
+        "Position": 24042,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 24075,
+        "Value": 0.17
+      },
+      "NamedWeightMult": {
+        "Position": 24104,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24145,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24174,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24203,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24256,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24285,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24318,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24347,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24384,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 24413,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24442,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24470,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24497,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Heavy.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.14": {
+      "LootPackageID": {
+        "Position": 24635,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 24668,
+        "Value": 0.16
+      },
+      "NamedWeightMult": {
+        "Position": 24697,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24738,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24767,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24796,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24849,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24878,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24911,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24940,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/LTM/WID_Sniper_NoScope_Athena_SR_Ore_T03.WID_Sniper_NoScope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24977,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25006,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25035,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25063,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25090,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.NoScope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.15": {
+      "LootPackageID": {
+        "Position": 25230,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 25263,
+        "Value": 0.17
+      },
+      "NamedWeightMult": {
+        "Position": 25292,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25333,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25362,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25391,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25444,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25473,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25506,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25535,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Weather_Athena_SR.WID_Sniper_Weather_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25572,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25601,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25630,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25658,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25685,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Weather.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.16": {
+      "LootPackageID": {
+        "Position": 25817,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 25850,
+        "Value": 0.17
+      },
+      "NamedWeightMult": {
+        "Position": 25879,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25920,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25949,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25978,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26031,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26060,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26093,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26122,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26159,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26188,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26217,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26245,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26272,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Floor.17": {
+      "LootPackageID": {
+        "Position": 26421,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 26454,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 26483,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26524,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26553,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 26582,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26635,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26664,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26697,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26726,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26763,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26792,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26821,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26849,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26876,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Floor.C0;Item:WID.Sniper.BoltAction.Scope.Thermal.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.Special.Floor.01": {
+      "LootPackageID": {
+        "Position": 27033,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.Special.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 27066,
+        "Value": 63.0
+      },
+      "NamedWeightMult": {
+        "Position": 27095,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27136,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27165,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27194,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27247,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27276,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27309,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27338,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Crossbow_Athena_R_Ore_T03.WID_Sniper_Crossbow_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27375,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27404,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27433,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27461,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27488,
+        "Value": ";List:WorldList.OneShot.Weapon.Special.Floor.C0;Item:WID.Sniper.Crossbow.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.Special.Floor.02": {
+      "LootPackageID": {
+        "Position": 27623,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.Special.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 27656,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 27685,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27726,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27755,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27784,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27837,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27866,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27899,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27928,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Crossbow_Athena_VR_Ore_T03.WID_Sniper_Crossbow_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27965,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27994,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28023,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28051,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28078,
+        "Value": ";List:WorldList.OneShot.Weapon.Special.Floor.C0;Item:WID.Sniper.Crossbow.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.Special.Floor.03": {
+      "LootPackageID": {
+        "Position": 28214,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.Special.Floor"
+        }
+      },
+      "Weight": {
+        "Position": 28247,
+        "Value": 34.0
+      },
+      "NamedWeightMult": {
+        "Position": 28276,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 28317,
+        "Value": []
+      },
+      "Count": {
+        "Position": 28346,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 28375,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 28428,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 28457,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 28490,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 28519,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bucket/WID_Athena_Bucket_Old.WID_Athena_Bucket_Old"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 28556,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 28585,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28614,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28642,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28669,
+        "Value": ";List:WorldList.OneShot.Weapon.Special.Floor.C0;Item:Consumable.AthenaOldBoot"
+      }
+    },
+    "WorldList.OneShot.Ammo.MediumBullets.01": {
+      "LootPackageID": {
+        "Position": 28792,
+        "Value": {
+          "String": "WorldList.OneShot.Ammo.MediumBullets"
+        }
+      },
+      "Weight": {
+        "Position": 28825,
+        "Value": 100.0
+      },
+      "NamedWeightMult": {
+        "Position": 28854,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 28895,
+        "Value": []
+      },
+      "Count": {
+        "Position": 28924,
+        "Value": 18
+      },
+      "LootPackageCategory": {
+        "Position": 28953,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29006,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29035,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29068,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29097,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29134,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29163,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29192,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 29220,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 29247,
+        "Value": ";List:WorldList.OneShot.Ammo.MediumBullets.C0;Item:Ammo.AthenaMedium"
+      }
+    },
+    "WorldList.OneShot.Ammo.HeavyBullets.01": {
+      "LootPackageID": {
+        "Position": 29361,
+        "Value": {
+          "String": "WorldList.OneShot.Ammo.HeavyBullets"
+        }
+      },
+      "Weight": {
+        "Position": 29394,
+        "Value": 100.0
+      },
+      "NamedWeightMult": {
+        "Position": 29423,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 29464,
+        "Value": []
+      },
+      "Count": {
+        "Position": 29493,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 29522,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29575,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29604,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29637,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29666,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29703,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29732,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29761,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 29789,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 29816,
+        "Value": ";List:WorldList.OneShot.Ammo.HeavyBullets.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.OneShot.Resources.01": {
+      "LootPackageID": {
+        "Position": 29928,
+        "Value": {
+          "String": "WorldList.OneShot.Resources"
+        }
+      },
+      "Weight": {
+        "Position": 29961,
+        "Value": 18.0
+      },
+      "NamedWeightMult": {
+        "Position": 29990,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30031,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30060,
+        "Value": 30
+      },
+      "LootPackageCategory": {
+        "Position": 30089,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30142,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30171,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 30204,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 30233,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/ResourcePickups/MetalItemData.MetalItemData"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 30270,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 30299,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 30328,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30356,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 30383,
+        "Value": ";List:WorldList.OneShot.Resources.C0;Item:Resource.Metal"
+      }
+    },
+    "WorldList.OneShot.Resources.02": {
+      "LootPackageID": {
+        "Position": 30485,
+        "Value": {
+          "String": "WorldList.OneShot.Resources"
+        }
+      },
+      "Weight": {
+        "Position": 30518,
+        "Value": 36.0
+      },
+      "NamedWeightMult": {
+        "Position": 30547,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30588,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30617,
+        "Value": 30
+      },
+      "LootPackageCategory": {
+        "Position": 30646,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30699,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30728,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 30761,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 30790,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/ResourcePickups/StoneItemData.StoneItemData"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 30827,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 30856,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 30885,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30913,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 30940,
+        "Value": ";List:WorldList.OneShot.Resources.C0;Item:Resource.Stone"
+      }
+    },
+    "WorldList.OneShot.Resources.03": {
+      "LootPackageID": {
+        "Position": 31042,
+        "Value": {
+          "String": "WorldList.OneShot.Resources"
+        }
+      },
+      "Weight": {
+        "Position": 31075,
+        "Value": 46.0
+      },
+      "NamedWeightMult": {
+        "Position": 31104,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 31145,
+        "Value": []
+      },
+      "Count": {
+        "Position": 31174,
+        "Value": 30
+      },
+      "LootPackageCategory": {
+        "Position": 31203,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 31256,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 31285,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31318,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 31347,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/ResourcePickups/WoodItemData.WoodItemData"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 31384,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 31413,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 31442,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 31470,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 31497,
+        "Value": ";List:WorldList.OneShot.Resources.C0;Item:Resource.Wood"
+      }
+    },
+    "WorldList.OneShot.Ammo.01": {
+      "LootPackageID": {
+        "Position": 31598,
+        "Value": {
+          "String": "WorldList.OneShot.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 31631,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 31660,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 31701,
+        "Value": []
+      },
+      "Count": {
+        "Position": 31730,
+        "Value": 18
+      },
+      "LootPackageCategory": {
+        "Position": 31759,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 31812,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 31841,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31874,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 31903,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 31940,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 31969,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 31998,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32026,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32053,
+        "Value": ";List:WorldList.OneShot.Ammo.C0;Item:Ammo.AthenaMedium"
+      }
+    },
+    "WorldList.OneShot.Ammo.02": {
+      "LootPackageID": {
+        "Position": 32153,
+        "Value": {
+          "String": "WorldList.OneShot.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 32186,
+        "Value": 100.0
+      },
+      "NamedWeightMult": {
+        "Position": 32215,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 32256,
+        "Value": []
+      },
+      "Count": {
+        "Position": 32285,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 32314,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 32367,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 32396,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 32429,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 32458,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 32495,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 32524,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 32553,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32581,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32608,
+        "Value": ";List:WorldList.OneShot.Ammo.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Chest.01": {
+      "LootPackageID": {
+        "Position": 32707,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 32740,
+        "Value": 75.0
+      },
+      "NamedWeightMult": {
+        "Position": 32769,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 32810,
+        "Value": []
+      },
+      "Count": {
+        "Position": 32839,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 32868,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 32921,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 32950,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 32983,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 33012,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_R.WID_Sniper_Auto_Suppressed_Scope_Athena_R"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 33049,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 33078,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 33107,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 33135,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 33162,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Chest.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.R"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Chest.02": {
+      "LootPackageID": {
+        "Position": 33308,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 33341,
+        "Value": 24.0
+      },
+      "NamedWeightMult": {
+        "Position": 33370,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 33411,
+        "Value": []
+      },
+      "Count": {
+        "Position": 33440,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 33469,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 33522,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 33551,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 33584,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 33613,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_VR.WID_Sniper_Auto_Suppressed_Scope_Athena_VR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 33650,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 33679,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 33708,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 33736,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 33763,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Chest.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.VR"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Chest.03": {
+      "LootPackageID": {
+        "Position": 33910,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 33943,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 33972,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 34013,
+        "Value": []
+      },
+      "Count": {
+        "Position": 34042,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 34071,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 34124,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 34153,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 34186,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 34215,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_SR.WID_Sniper_Auto_Suppressed_Scope_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 34252,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 34281,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 34310,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 34338,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 34365,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Chest.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.01": {
+      "LootPackageID": {
+        "Position": 34512,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 34545,
+        "Value": 26.0
+      },
+      "NamedWeightMult": {
+        "Position": 34574,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 34615,
+        "Value": []
+      },
+      "Count": {
+        "Position": 34644,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 34673,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 34726,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 34755,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 34788,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 34817,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 34854,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 34883,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 34912,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 34940,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 34967,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.BoltAction.Scope.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.02": {
+      "LootPackageID": {
+        "Position": 35115,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 35148,
+        "Value": 25.0
+      },
+      "NamedWeightMult": {
+        "Position": 35177,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 35218,
+        "Value": []
+      },
+      "Count": {
+        "Position": 35247,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 35276,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 35329,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 35358,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 35391,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 35420,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_R_Ore_T03.WID_Sniper_NoScope_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 35457,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 35486,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 35515,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 35543,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 35570,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.NoScope.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.03": {
+      "LootPackageID": {
+        "Position": 35709,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 35742,
+        "Value": 25.0
+      },
+      "NamedWeightMult": {
+        "Position": 35771,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 35812,
+        "Value": []
+      },
+      "Count": {
+        "Position": 35841,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 35870,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 35923,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 35952,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 35985,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 36014,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Standard_Scope_Athena_SR_Ore_T03.WID_Sniper_Standard_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 36051,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 36080,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 36109,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 36137,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 36164,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Standard.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.04": {
+      "LootPackageID": {
+        "Position": 36311,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 36344,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 36373,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 36414,
+        "Value": []
+      },
+      "Count": {
+        "Position": 36443,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 36472,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 36525,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 36554,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 36587,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 36616,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 36653,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 36682,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 36711,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 36739,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 36766,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.BoltAction.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.05": {
+      "LootPackageID": {
+        "Position": 36915,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 36948,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 36977,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 37018,
+        "Value": []
+      },
+      "Count": {
+        "Position": 37047,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 37076,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 37129,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 37158,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 37191,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 37220,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_VR_Ore_T03.WID_Sniper_Heavy_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 37257,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 37286,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 37315,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 37343,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 37370,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Heavy.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.06": {
+      "LootPackageID": {
+        "Position": 37508,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 37541,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 37570,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 37611,
+        "Value": []
+      },
+      "Count": {
+        "Position": 37640,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 37669,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 37722,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 37751,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 37784,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 37813,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/LTM/WID_Sniper_NoScope_Athena_VR_Ore_T03.WID_Sniper_NoScope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 37850,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 37879,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 37908,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 37936,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 37963,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.NoScope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.07": {
+      "LootPackageID": {
+        "Position": 38103,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 38136,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 38165,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 38206,
+        "Value": []
+      },
+      "Count": {
+        "Position": 38235,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 38264,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 38317,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 38346,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 38379,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 38408,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Weather_Athena_VR.WID_Sniper_Weather_Athena_VR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 38445,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 38474,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 38503,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 38531,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 38558,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Weather.Athena.VR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.08": {
+      "LootPackageID": {
+        "Position": 38690,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 38723,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 38752,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 38793,
+        "Value": []
+      },
+      "Count": {
+        "Position": 38822,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 38851,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 38904,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 38933,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 38966,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 38995,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 39032,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 39061,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 39090,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 39118,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 39145,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.09": {
+      "LootPackageID": {
+        "Position": 39294,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 39327,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 39356,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 39397,
+        "Value": []
+      },
+      "Count": {
+        "Position": 39426,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 39455,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 39508,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 39537,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 39570,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 39599,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Thermal_Athena_VR_Ore_T03.WID_Sniper_BoltAction_Scope_Thermal_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 39636,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 39665,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 39694,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 39722,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 39749,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.BoltAction.Scope.Thermal.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.10": {
+      "LootPackageID": {
+        "Position": 39906,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 39939,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 39968,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 40009,
+        "Value": []
+      },
+      "Count": {
+        "Position": 40038,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 40067,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 40120,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 40149,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 40182,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 40211,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 40248,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 40277,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 40306,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 40334,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 40361,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.BoltAction.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.11": {
+      "LootPackageID": {
+        "Position": 40510,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 40543,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 40572,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 40613,
+        "Value": []
+      },
+      "Count": {
+        "Position": 40642,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 40671,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 40724,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 40753,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 40786,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 40815,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 40852,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 40881,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 40910,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 40938,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 40965,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Heavy.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.12": {
+      "LootPackageID": {
+        "Position": 41103,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 41136,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 41165,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 41206,
+        "Value": []
+      },
+      "Count": {
+        "Position": 41235,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 41264,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 41317,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 41346,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 41379,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 41408,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/LTM/WID_Sniper_NoScope_Athena_SR_Ore_T03.WID_Sniper_NoScope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 41445,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 41474,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 41503,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 41531,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 41558,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.NoScope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.13": {
+      "LootPackageID": {
+        "Position": 41698,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 41731,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 41760,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 41801,
+        "Value": []
+      },
+      "Count": {
+        "Position": 41830,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 41859,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 41912,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 41941,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 41974,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 42003,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Weather_Athena_SR.WID_Sniper_Weather_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 42040,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 42069,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 42098,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 42126,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 42153,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Weather.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.14": {
+      "LootPackageID": {
+        "Position": 42285,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 42318,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 42347,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 42388,
+        "Value": []
+      },
+      "Count": {
+        "Position": 42417,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 42446,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 42499,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 42528,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 42561,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 42590,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 42627,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 42656,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 42685,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 42713,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 42740,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Chest.15": {
+      "LootPackageID": {
+        "Position": 42889,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 42922,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 42951,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 42992,
+        "Value": []
+      },
+      "Count": {
+        "Position": 43021,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 43050,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 43103,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 43132,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 43165,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 43194,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 43231,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 43260,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 43289,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 43317,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 43344,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Chest.C0;Item:WID.Sniper.BoltAction.Scope.Thermal.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.Special.Chest.01": {
+      "LootPackageID": {
+        "Position": 43501,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.Special.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 43534,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 43563,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 43604,
+        "Value": []
+      },
+      "Count": {
+        "Position": 43633,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 43662,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 43715,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 43744,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 43777,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 43806,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Crossbow_Athena_R_Ore_T03.WID_Sniper_Crossbow_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 43843,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 43872,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 43901,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 43929,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 43956,
+        "Value": ";List:WorldList.OneShot.Weapon.Special.Chest.C0;Item:WID.Sniper.Crossbow.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.Special.Chest.02": {
+      "LootPackageID": {
+        "Position": 44091,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.Special.Chest"
+        }
+      },
+      "Weight": {
+        "Position": 44124,
+        "Value": 50.0
+      },
+      "NamedWeightMult": {
+        "Position": 44153,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 44194,
+        "Value": []
+      },
+      "Count": {
+        "Position": 44223,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 44252,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 44305,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 44334,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 44367,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 44396,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Crossbow_Athena_VR_Ore_T03.WID_Sniper_Crossbow_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 44433,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 44462,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 44491,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 44519,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 44546,
+        "Value": ";List:WorldList.OneShot.Weapon.Special.Chest.C0;Item:WID.Sniper.Crossbow.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.MediumBullets.Rare.01": {
+      "LootPackageID": {
+        "Position": 44682,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.MediumBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 44715,
+        "Value": 100.0
+      },
+      "NamedWeightMult": {
+        "Position": 44744,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 44785,
+        "Value": []
+      },
+      "Count": {
+        "Position": 44814,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 44843,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 44896,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 44925,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 44958,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 44987,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Auto_Suppressed_Scope_Athena_SR.WID_Sniper_Auto_Suppressed_Scope_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 45024,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 45053,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 45082,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 45110,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 45137,
+        "Value": ";List:WorldList.OneShot.Weapon.MediumBullets.Rare.C0;Item:WID.Sniper.Auto.Suppressed.Scope.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.01": {
+      "LootPackageID": {
+        "Position": 45283,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 45316,
+        "Value": 16.0
+      },
+      "NamedWeightMult": {
+        "Position": 45345,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 45386,
+        "Value": []
+      },
+      "Count": {
+        "Position": 45415,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 45444,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 45497,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 45526,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 45559,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 45588,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 45625,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 45654,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 45683,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 45711,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 45738,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.BoltAction.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.02": {
+      "LootPackageID": {
+        "Position": 45886,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 45919,
+        "Value": 17.0
+      },
+      "NamedWeightMult": {
+        "Position": 45948,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 45989,
+        "Value": []
+      },
+      "Count": {
+        "Position": 46018,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 46047,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 46100,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 46129,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 46162,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 46191,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Heavy_Athena_SR_Ore_T03.WID_Sniper_Heavy_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 46228,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 46257,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 46286,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 46314,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 46341,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.Heavy.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.03": {
+      "LootPackageID": {
+        "Position": 46478,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 46511,
+        "Value": 16.0
+      },
+      "NamedWeightMult": {
+        "Position": 46540,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 46581,
+        "Value": []
+      },
+      "Count": {
+        "Position": 46610,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 46639,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 46692,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 46721,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 46754,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 46783,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/LTM/WID_Sniper_NoScope_Athena_SR_Ore_T03.WID_Sniper_NoScope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 46820,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 46849,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 46878,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 46906,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 46933,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.NoScope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.04": {
+      "LootPackageID": {
+        "Position": 47072,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 47105,
+        "Value": 17.0
+      },
+      "NamedWeightMult": {
+        "Position": 47134,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 47175,
+        "Value": []
+      },
+      "Count": {
+        "Position": 47204,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 47233,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 47286,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 47315,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 47348,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 47377,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Weather_Athena_SR.WID_Sniper_Weather_Athena_SR"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 47414,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 47443,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 47472,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 47500,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 47527,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.Weather.Athena.SR"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.05": {
+      "LootPackageID": {
+        "Position": 47658,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 47691,
+        "Value": 17.0
+      },
+      "NamedWeightMult": {
+        "Position": 47720,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 47761,
+        "Value": []
+      },
+      "Count": {
+        "Position": 47790,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 47819,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 47872,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 47901,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 47934,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 47963,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 48000,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 48029,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 48058,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 48086,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 48113,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.OneShot.Weapon.HeavyBullets.Rare.06": {
+      "LootPackageID": {
+        "Position": 48261,
+        "Value": {
+          "String": "WorldList.OneShot.Weapon.HeavyBullets.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 48294,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 48323,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 48364,
+        "Value": []
+      },
+      "Count": {
+        "Position": 48393,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 48422,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 48475,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 48504,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 48537,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 48566,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03.WID_Sniper_BoltAction_Scope_Thermal_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 48603,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 48632,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 48661,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 48689,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 48716,
+        "Value": ";List:WorldList.OneShot.Weapon.HeavyBullets.Rare.C0;Item:WID.Sniper.BoltAction.Scope.Thermal.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldPKG.AthenaSCM.01": {
+      "LootPackageID": {
+        "Position": 48872,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 48905,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 48934,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 48975,
+        "Value": []
+      },
+      "Count": {
+        "Position": 49004,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 49033,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 49086,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 49115,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 49148,
+        "Value": "WorldList.AthenaSCM.Weapon"
+      },
+      "ItemDefinition": {
+        "Position": 49204,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 49241,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 49270,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 49299,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 49327,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 49354,
+        "Value": ";Def:WorldPKG.AthenaSCM.C0;Call:WorldList.AthenaSCM.Pistol"
+      }
+    },
+    "WorldPKG.AthenaSCM.02": {
+      "LootPackageID": {
+        "Position": 49458,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 49491,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 49520,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 49561,
+        "Value": []
+      },
+      "Count": {
+        "Position": 49590,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 49619,
+        "Value": 1
+      },
+      "GameplayTags": {
+        "Position": 49672,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 49701,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 49734,
+        "Value": "WorldList.AthenaSCM.Ammo"
+      },
+      "ItemDefinition": {
+        "Position": 49788,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 49825,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 49854,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 49883,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 49911,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 49938,
+        "Value": ";Def:WorldPKG.AthenaSCM.C1;Call:WorldList.AthenaLoot.Ammo.Light"
+      }
+    },
+    "WorldPKG.AthenaSCM.03": {
+      "LootPackageID": {
+        "Position": 50047,
+        "Value": {
+          "String": "WorldPKG.AthenaSCM"
+        }
+      },
+      "Weight": {
+        "Position": 50080,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 50109,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 50150,
+        "Value": []
+      },
+      "Count": {
+        "Position": 50179,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 50208,
+        "Value": 2
+      },
+      "GameplayTags": {
+        "Position": 50261,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 50290,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 50323,
+        "Value": "WorldList.AthenaSCM.Wood"
+      },
+      "ItemDefinition": {
+        "Position": 50377,
+        "Value": {
+          "AssetPathName": {
+            "String": "None"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 50414,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 50443,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 50472,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 50500,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 50527,
+        "Value": ";Def:WorldPKG.AthenaSCM.C2;Call:WorldList.AthenaSCM.Wood"
+      }
+    },
+    "WorldList.AthenaSCM.Weapon.01": {
+      "LootPackageID": {
+        "Position": 50629,
+        "Value": {
+          "String": "WorldList.AthenaSCM.Weapon"
+        }
+      },
+      "Weight": {
+        "Position": 50662,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 50691,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 50732,
+        "Value": []
+      },
+      "Count": {
+        "Position": 50761,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 50790,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 50843,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 50872,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 50905,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 50934,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_UC_Ore_T03.WID_Sniper_NoScope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 50971,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 51000,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 51029,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 51057,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 51084,
+        "Value": ";List:WorldList.AthenaSCM.Pistol.C0;Item:WID.Sniper.NoScope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaSCM.Ammo.01": {
+      "LootPackageID": {
+        "Position": 51207,
+        "Value": {
+          "String": "WorldList.AthenaSCM.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 51240,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 51269,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 51310,
+        "Value": []
+      },
+      "Count": {
+        "Position": 51339,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 51368,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 51421,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 51450,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 51483,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 51512,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 51549,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 51578,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 51607,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 51635,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 51662,
+        "Value": ";List:WorldList.AthenaLoot.Ammo.Light.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.AthenaSCM.Wood.01": {
+      "LootPackageID": {
+        "Position": 51770,
+        "Value": {
+          "String": "WorldList.AthenaSCM.Wood"
+        }
+      },
+      "Weight": {
+        "Position": 51803,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 51832,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 51873,
+        "Value": []
+      },
+      "Count": {
+        "Position": 51902,
+        "Value": 100
+      },
+      "LootPackageCategory": {
+        "Position": 51931,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 51984,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 52013,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 52046,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 52075,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Items/ResourcePickups/WoodItemData.WoodItemData"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 52112,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 52141,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 52170,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 52198,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 52225,
+        "Value": ";List:WorldList.AthenaSCM.Wood.C0;Item:Resource.Wood"
+      }
+    }
+  }
+]

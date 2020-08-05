@@ -1,0 +1,23 @@
+[
+  {
+    "ExportType": "CompositeCurveTable",
+    "ExportValue": {
+      "ParentTables": [
+        {
+          "ObjectName": "AthenaGameData",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Balance/DataTables/AthenaGameData",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "AthenaGameData_Phoebe_Override",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Playlists/Phoebe/AthenaGameData_Phoebe_Override",
+            "OuterIndex": 0
+          }
+        }
+      ]
+    }
+  }
+]

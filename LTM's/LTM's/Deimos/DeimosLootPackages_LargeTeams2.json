@@ -1,0 +1,229 @@
+[
+  {
+    "WorldList.AthenaTraps.01": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaTraps"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 3.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 383,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Traps/TID_ContextTrap_Athena.TID_ContextTrap_Athena"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 420,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 449,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 478,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 506,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 533,
+        "Value": ";List:WorldList.AthenaTraps.C0;Item:TID.ContextTrap.Athena"
+      }
+    },
+    "WorldList.AthenaTraps.02": {
+      "LootPackageID": {
+        "Position": 637,
+        "Value": {
+          "String": "WorldList.AthenaTraps"
+        }
+      },
+      "Weight": {
+        "Position": 670,
+        "Value": 1.5
+      },
+      "NamedWeightMult": {
+        "Position": 699,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 740,
+        "Value": []
+      },
+      "Count": {
+        "Position": 769,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 798,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 851,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 880,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 913,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 942,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Traps/TID_Floor_Player_Campfire_Athena.TID_Floor_Player_Campfire_Athena"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 979,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1008,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1037,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1065,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1092,
+        "Value": ";List:WorldList.AthenaTraps.C0;Item:TID.Trap.Floor.Player.Campfire"
+      }
+    },
+    "WorldList.AthenaTraps.06": {
+      "LootPackageID": {
+        "Position": 1204,
+        "Value": {
+          "String": "WorldList.AthenaTraps"
+        }
+      },
+      "Weight": {
+        "Position": 1237,
+        "Value": 1.5
+      },
+      "NamedWeightMult": {
+        "Position": 1266,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1307,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1336,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1365,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1418,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1447,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1480,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1509,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Traps/TID_Floor_Player_Launch_Pad_Athena.TID_Floor_Player_Launch_Pad_Athena"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1546,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1575,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1604,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1632,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1659,
+        "Value": ";List:WorldList.AthenaTraps.C0;Item:TID.Trap.Floor.Player.Launch.Pad"
+      }
+    }
+  }
+]

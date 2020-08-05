@@ -1,0 +1,454 @@
+[
+  {
+    "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Gadget.01": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Gadget"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 383,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/GliderItem/Athena_Glider_Item.Athena_Glider_Item"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 420,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 449,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 478,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 506,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 533,
+        "Value": ";List:WorldList.AthenaLoot.VendingMachine.Weapons.Rare.Gadget.C0;Item:Gadget.Glider"
+      }
+    },
+    "WorldList.AthenaLoot.Gadget.11": {
+      "LootPackageID": {
+        "Position": 662,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Gadget"
+        }
+      },
+      "Weight": {
+        "Position": 695,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 724,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 765,
+        "Value": []
+      },
+      "Count": {
+        "Position": 794,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 823,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 876,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 905,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 938,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 967,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/GliderItem/Athena_Glider_Item.Athena_Glider_Item"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1004,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1033,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1062,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1090,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1117,
+        "Value": ";List:WorldList.AthenaLoot.Gadget.C0;Item:Gadget.Glider"
+      }
+    },
+    "WorldList.AthenaHighConsumables.25": {
+      "LootPackageID": {
+        "Position": 1218,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 1251,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1280,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1321,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1350,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1379,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1432,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1461,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1494,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1523,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/GliderItem/Athena_Glider_Item.Athena_Glider_Item"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1560,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1589,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1618,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1646,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1673,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Gadget.Glider"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.18": {
+      "LootPackageID": {
+        "Position": 1778,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 1811,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1840,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1881,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1910,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1939,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1992,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2021,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2054,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2083,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/GliderItem/Athena_Glider_Item.Athena_Glider_Item"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2120,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2149,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2178,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2206,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2233,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Gadget.Glider"
+      }
+    },
+    "WorldList.AthenaHighConsumables.47": {
+      "LootPackageID": {
+        "Position": 2344,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 2377,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2406,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2447,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2476,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2505,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2558,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2587,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2620,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2649,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/BoostJumpPack/AGID_BoostJumpPack_Retuned.AGID_BoostJumpPack_Retuned"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2686,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2715,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2744,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2772,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2799,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.JetpackV2"
+      }
+    },
+    "WorldList.AthenaConsumables.37": {
+      "LootPackageID": {
+        "Position": 2911,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 2944,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2973,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3014,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3043,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3072,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3125,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3154,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3187,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3216,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Gameplay/BackPacks/BoostJumpPack/AGID_BoostJumpPack_Retuned.AGID_BoostJumpPack_Retuned"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3253,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3282,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3311,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3339,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3366,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.JetpackV2"
+      }
+    }
+  }
+]

@@ -1,0 +1,904 @@
+[
+  {
+    "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.03": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 383,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Traps/TID_ContextTrap_Athena.TID_ContextTrap_Athena"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 420,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 449,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 478,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 506,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 533,
+        "Value": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Uncommon.C0;Item:TID.ContextTrap.Athena"
+      }
+    },
+    "WorldList.AthenaTraps.01": {
+      "LootPackageID": {
+        "Position": 672,
+        "Value": {
+          "String": "WorldList.AthenaTraps"
+        }
+      },
+      "Weight": {
+        "Position": 705,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 734,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 775,
+        "Value": []
+      },
+      "Count": {
+        "Position": 804,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 833,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 886,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 915,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 948,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 977,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Traps/TID_ContextTrap_Athena.TID_ContextTrap_Athena"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1014,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1043,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1072,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1100,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1127,
+        "Value": ";List:WorldList.AthenaTraps.C0;Item:TID.ContextTrap.Athena"
+      }
+    },
+    "WorldList.AthenaLoot.VendingMachine.Consumables.Rare.08": {
+      "LootPackageID": {
+        "Position": 1231,
+        "Value": {
+          "String": "WorldList.AthenaLoot.VendingMachine.Consumables.Rare"
+        }
+      },
+      "Weight": {
+        "Position": 1264,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1293,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1334,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1363,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 1392,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1445,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1474,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1507,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1536,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/GasGrenade/Athena_GasGrenade.Athena_GasGrenade"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1573,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1602,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1631,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1659,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1686,
+        "Value": ";List:WorldList.AthenaLoot.VendingMachine.Consumables.Rare.C0;Item:Consumable.AthenaGasGrenade"
+      }
+    },
+    "WorldList.AthenaHighConsumables.11": {
+      "LootPackageID": {
+        "Position": 1826,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 1859,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1888,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1929,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1958,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 1987,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2040,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2069,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2102,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2131,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/GasGrenade/Athena_GasGrenade.Athena_GasGrenade"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2168,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2197,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2226,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2254,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2281,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.AthenaGasGrenade"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.19": {
+      "LootPackageID": {
+        "Position": 2400,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 2433,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2462,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2503,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2532,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 2561,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2614,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2643,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2676,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2705,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/GasGrenade/Athena_GasGrenade.Athena_GasGrenade"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2742,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2771,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2800,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2828,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2855,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.AthenaGasGrenade"
+      }
+    },
+    "WorldList.AthenaConsumables.11": {
+      "LootPackageID": {
+        "Position": 2980,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 3013,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3042,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3083,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3112,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 3141,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3194,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3223,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3256,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3285,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/GasGrenade/Athena_GasGrenade.Athena_GasGrenade"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3322,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3351,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3380,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3408,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3435,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.AthenaGasGrenade"
+      }
+    },
+    "WorldList.AthenaLoot.Ammo.Shells.01": {
+      "LootPackageID": {
+        "Position": 3550,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Ammo.Shells"
+        }
+      },
+      "Weight": {
+        "Position": 3583,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 3612,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3653,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3682,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 3711,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3764,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3793,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3826,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3855,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3892,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3921,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3950,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3978,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4005,
+        "Value": ";List:WorldList.AthenaLoot.Ammo.Shells.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.AthenaLoot.Ammo.Rockets.01": {
+      "LootPackageID": {
+        "Position": 4114,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Ammo.Rockets"
+        }
+      },
+      "Weight": {
+        "Position": 4147,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 4176,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4217,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4246,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 4275,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4328,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4357,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4390,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4419,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4456,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4485,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4514,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4542,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4569,
+        "Value": ";List:WorldList.AthenaLoot.Ammo.Rockets.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.AthenaLoot.Ammo.01": {
+      "LootPackageID": {
+        "Position": 4679,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 4712,
+        "Value": 0.8
+      },
+      "NamedWeightMult": {
+        "Position": 4741,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4782,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4811,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 4840,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4893,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4922,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4955,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4984,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5021,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5050,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5079,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5107,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5134,
+        "Value": ";List:WorldList.AthenaLoot.Ammo.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.AthenaLoot.Ammo.07": {
+      "LootPackageID": {
+        "Position": 5236,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Ammo"
+        }
+      },
+      "Weight": {
+        "Position": 5269,
+        "Value": 0.1
+      },
+      "NamedWeightMult": {
+        "Position": 5298,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5339,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5368,
+        "Value": 6
+      },
+      "LootPackageCategory": {
+        "Position": 5397,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5450,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5479,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5512,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 5541,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5578,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5607,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5636,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5664,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5691,
+        "Value": ";List:WorldList.AthenaLoot.Ammo.C0;Item:Ammo.AthenaHeavy"
+      }
+    },
+    "WorldList.AthenaAmmoLarge.01": {
+      "LootPackageID": {
+        "Position": 5793,
+        "Value": {
+          "String": "WorldList.AthenaAmmoLarge"
+        }
+      },
+      "Weight": {
+        "Position": 5826,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 5855,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5896,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5925,
+        "Value": 4
+      },
+      "LootPackageCategory": {
+        "Position": 5954,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6007,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6036,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6069,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6098,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6135,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6164,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6193,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6221,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6248,
+        "Value": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaShells"
+      }
+    },
+    "WorldList.AthenaAmmoLarge.07": {
+      "LootPackageID": {
+        "Position": 6351,
+        "Value": {
+          "String": "WorldList.AthenaAmmoLarge"
+        }
+      },
+      "Weight": {
+        "Position": 6384,
+        "Value": 1.0
+      },
+      "NamedWeightMult": {
+        "Position": 6413,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6454,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6483,
+        "Value": 2
+      },
+      "LootPackageCategory": {
+        "Position": 6512,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6565,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6594,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6627,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6656,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6693,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6722,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6751,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6779,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6806,
+        "Value": ";List:WorldList.AthenaAmmoLarge.C0;Item:Ammo.AthenaRockets"
+      }
+    }
+  }
+]

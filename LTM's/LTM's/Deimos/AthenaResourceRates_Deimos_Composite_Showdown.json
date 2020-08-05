@@ -1,0 +1,49 @@
+[
+  {
+    "ParentTables": {
+      "Position": 33,
+      "Value": [
+        {
+          "Position": 37,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaResourceRates"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Balance/DataTables/AthenaResourceRates"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "Position": 41,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "AthenaResourceRates"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Playlists/Showdown/AthenaResourceRates"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

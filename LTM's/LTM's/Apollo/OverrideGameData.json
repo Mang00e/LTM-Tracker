@@ -1,0 +1,400 @@
+[
+  {
+    "Default.Analytics.Percent.Phoebe.Teleport": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 201,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 238,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 279,
+        "Value": 28
+      }
+    },
+    "Default.Analytics.Percent.Phoebe.Inventory": {
+      "InterpMode": {
+        "Position": 336,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 377,
+        "Value": [
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 438,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 446,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 479,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 516,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 557,
+        "Value": 28
+      }
+    },
+    "Default.Analytics.Percent.Phoebe.MatchStats": {
+      "InterpMode": {
+        "Position": 614,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 655,
+        "Value": [
+          {
+            "Position": 708,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 716,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 724,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 757,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 794,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 835,
+        "Value": 28
+      }
+    },
+    "Default.Analytics.Percent.Phoebe.WonMatch": {
+      "InterpMode": {
+        "Position": 892,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 933,
+        "Value": [
+          {
+            "Position": 986,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 994,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1002,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1035,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1072,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 1113,
+        "Value": 28
+      }
+    },
+    "Default.Analytics.Percent.Phoebe.Down": {
+      "InterpMode": {
+        "Position": 1170,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 1211,
+        "Value": [
+          {
+            "Position": 1264,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 1272,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1280,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1313,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1350,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 1391,
+        "Value": 28
+      }
+    },
+    "Default.Analytics.Percent.Phoebe.Revive": {
+      "InterpMode": {
+        "Position": 1448,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 1489,
+        "Value": [
+          {
+            "Position": 1542,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 1550,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1558,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1591,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1628,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 1669,
+        "Value": 28
+      }
+    },
+    "Paradise.WallHealth.Wood": {
+      "InterpMode": {
+        "Position": 1726,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 1767,
+        "Value": [
+          {
+            "Position": 1820,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 150.0
+            }
+          },
+          {
+            "Position": 1828,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1836,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1869,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1906,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 1947,
+        "Value": 28
+      }
+    },
+    "Paradise.WallHealth.Stone": {
+      "InterpMode": {
+        "Position": 2004,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 2045,
+        "Value": [
+          {
+            "Position": 2098,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 750.0
+            }
+          },
+          {
+            "Position": 2106,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2114,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2147,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2184,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 2225,
+        "Value": 28
+      }
+    },
+    "Paradise.WallHealth.Metal": {
+      "InterpMode": {
+        "Position": 2282,
+        "Value": 29
+      },
+      "Keys": {
+        "Position": 2323,
+        "Value": [
+          {
+            "Position": 2376,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 2500.0
+            }
+          },
+          {
+            "Position": 2384,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2392,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2425,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2462,
+        "Value": 28
+      },
+      "PostInfinityExtrap": {
+        "Position": 2503,
+        "Value": 28
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "CompositeDataTable",
+    "ExportValue": {
+      "ParentTables": [
+        {
+          "ObjectName": "AthenaLootTierData_Client",
+          "OuterIndex": {
+            "ObjectName": "/Game/Items/Datatables/AthenaLootTierData_Client",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "AthenaLootTierData_DeimosOverride",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Playlists/Deimos/AthenaLootTierData_DeimosOverride",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "RowStruct": {
+        "ObjectName": "FortLootTierData",
+        "OuterIndex": {
+          "ObjectName": "/Script/FortniteGame",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

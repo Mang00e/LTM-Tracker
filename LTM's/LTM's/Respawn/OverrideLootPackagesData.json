@@ -1,0 +1,4204 @@
+[
+  {
+    "WorldList.AthenaLoot.Weapon.Shotgun.01": {
+      "LootPackageID": {
+        "Position": 78,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 111,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 140,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 181,
+        "Value": []
+      },
+      "Count": {
+        "Position": 210,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 239,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 292,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 321,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 354,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 383,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.WID_Shotgun_Standard_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 420,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 449,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 478,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 506,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 533,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.Standard.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.03": {
+      "LootPackageID": {
+        "Position": 666,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 699,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 728,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 769,
+        "Value": []
+      },
+      "Count": {
+        "Position": 798,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 827,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 880,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 909,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 942,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 971,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_Common.WID_Shotgun_Standard_Athena_Common"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1008,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1037,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1066,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1094,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1121,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.Standard.Athena.Common"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.07": {
+      "LootPackageID": {
+        "Position": 1251,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 1284,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1313,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1354,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1383,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 1412,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 1465,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 1494,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 1527,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 1556,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 1593,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 1622,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1651,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 1679,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1706,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.08": {
+      "LootPackageID": {
+        "Position": 1840,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 1873,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 1902,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 1943,
+        "Value": []
+      },
+      "Count": {
+        "Position": 1972,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2001,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2054,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2083,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2116,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2145,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2182,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2211,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2240,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2268,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2295,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.SemiAuto.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighShotgun.01": {
+      "LootPackageID": {
+        "Position": 2428,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighShotgun"
+        }
+      },
+      "Weight": {
+        "Position": 2461,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 2490,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 2531,
+        "Value": []
+      },
+      "Count": {
+        "Position": 2560,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 2589,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 2642,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 2671,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 2704,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 2733,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.WID_Shotgun_Standard_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 2770,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 2799,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2828,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 2856,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2883,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.Standard.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighShotgun.02": {
+      "LootPackageID": {
+        "Position": 3020,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighShotgun"
+        }
+      },
+      "Weight": {
+        "Position": 3053,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3082,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3123,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3152,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3181,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3234,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3263,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3296,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3325,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3362,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3391,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3420,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 3448,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3475,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.Standard.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Handgun.01": {
+      "LootPackageID": {
+        "Position": 3613,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Handgun"
+        }
+      },
+      "Weight": {
+        "Position": 3646,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 3675,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 3716,
+        "Value": []
+      },
+      "Count": {
+        "Position": 3745,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 3774,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 3827,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 3856,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 3889,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 3918,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 3955,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 3984,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4013,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4041,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4068,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Handgun.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Handgun.02": {
+      "LootPackageID": {
+        "Position": 4200,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Handgun"
+        }
+      },
+      "Weight": {
+        "Position": 4233,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 4262,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4303,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4332,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4361,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 4414,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 4443,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 4476,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 4505,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 4542,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 4571,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4600,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 4628,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4655,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Handgun.C0;Item:WID.Pistol.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighHandgun.02": {
+      "LootPackageID": {
+        "Position": 4788,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighHandgun"
+        }
+      },
+      "Weight": {
+        "Position": 4821,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 4850,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 4891,
+        "Value": []
+      },
+      "Count": {
+        "Position": 4920,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 4949,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5002,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5031,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5064,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 5093,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5130,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5159,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5188,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5216,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5243,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighHandgun.C0;Item:WID.Pistol.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.SMG.10": {
+      "LootPackageID": {
+        "Position": 5380,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 5413,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 5442,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 5483,
+        "Value": []
+      },
+      "Count": {
+        "Position": 5512,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 5541,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 5594,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 5623,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 5656,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 5685,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 5722,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 5751,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5780,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 5808,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5835,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.SMG.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.SMG.11": {
+      "LootPackageID": {
+        "Position": 5967,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.SMG"
+        }
+      },
+      "Weight": {
+        "Position": 6000,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 6029,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6070,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6099,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 6128,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6181,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6210,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6243,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6272,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6309,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6338,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6367,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6395,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6422,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.SMG.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSMG.02": {
+      "LootPackageID": {
+        "Position": 6555,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSMG"
+        }
+      },
+      "Weight": {
+        "Position": 6588,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 6617,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 6658,
+        "Value": []
+      },
+      "Count": {
+        "Position": 6687,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 6716,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 6769,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 6798,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 6831,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 6860,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 6897,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 6926,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 6955,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 6983,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7010,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSMG.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.01": {
+      "LootPackageID": {
+        "Position": 7147,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 7180,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 7209,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7250,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7279,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7308,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7361,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7390,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 7423,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 7452,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 7489,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 7518,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 7547,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 7575,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 7602,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.02": {
+      "LootPackageID": {
+        "Position": 7735,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 7768,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 7797,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 7838,
+        "Value": []
+      },
+      "Count": {
+        "Position": 7867,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 7896,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 7949,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 7978,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8011,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 8040,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_UC_Ore_T03.WID_Assault_Auto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8077,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8106,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8135,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8163,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8190,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.Auto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.06": {
+      "LootPackageID": {
+        "Position": 8324,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 8357,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 8386,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 8427,
+        "Value": []
+      },
+      "Count": {
+        "Position": 8456,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 8485,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 8538,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 8567,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 8600,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 8629,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 8666,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 8695,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8724,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 8752,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8779,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.AssaultAuto.07": {
+      "LootPackageID": {
+        "Position": 8916,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 8949,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 8978,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9019,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9048,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9077,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9130,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9159,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9192,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 9221,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_UC_Ore_T03.WID_Assault_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9258,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9287,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9316,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9344,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9371,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.AssaultAuto.C0;Item:WID.Assault.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighAssaultAuto.02": {
+      "LootPackageID": {
+        "Position": 9509,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighAssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 9542,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 9571,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 9612,
+        "Value": []
+      },
+      "Count": {
+        "Position": 9641,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 9670,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 9723,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 9752,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 9785,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 9814,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_UC_Ore_T03.WID_Assault_Auto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 9851,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 9880,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9909,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 9937,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9964,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighAssaultAuto.C0;Item:WID.Assault.Auto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighAssaultAuto.07": {
+      "LootPackageID": {
+        "Position": 10102,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighAssaultAuto"
+        }
+      },
+      "Weight": {
+        "Position": 10135,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 10164,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10205,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10234,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10263,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 10316,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10345,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10378,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 10407,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_UC_Ore_T03.WID_Assault_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 10444,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 10473,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10502,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 10530,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10557,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighAssaultAuto.C0;Item:WID.Assault.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Sniper.02": {
+      "LootPackageID": {
+        "Position": 10699,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Sniper"
+        }
+      },
+      "Weight": {
+        "Position": 10732,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 10761,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 10802,
+        "Value": []
+      },
+      "Count": {
+        "Position": 10831,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 10860,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 10913,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 10942,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 10975,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 11004,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11041,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11070,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11099,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11127,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11154,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.BoltAction.Scope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSniper.02": {
+      "LootPackageID": {
+        "Position": 11294,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSniper"
+        }
+      },
+      "Weight": {
+        "Position": 11327,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 11356,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 11397,
+        "Value": []
+      },
+      "Count": {
+        "Position": 11426,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 11455,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 11508,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 11537,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 11570,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 11599,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 11636,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 11665,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11694,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 11722,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11749,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.BoltAction.Scope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighRocket.02": {
+      "LootPackageID": {
+        "Position": 11893,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighRocket"
+        }
+      },
+      "Weight": {
+        "Position": 11926,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 11955,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 11996,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12025,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 12054,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12107,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12136,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12169,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 12198,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Launcher_Rocket_Athena_UC_Ore_T03.WID_Launcher_Rocket_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12235,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12264,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12293,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12321,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12348,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighRocket.C0;Item:WID.Launcher.Rocket.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.InterrogateLoot.01": {
+      "LootPackageID": {
+        "Position": 12484,
+        "Value": {
+          "String": "WorldList.InterrogateLoot"
+        }
+      },
+      "Weight": {
+        "Position": 12517,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 12546,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 12587,
+        "Value": []
+      },
+      "Count": {
+        "Position": 12616,
+        "Value": 5
+      },
+      "LootPackageCategory": {
+        "Position": 12645,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 12698,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 12727,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 12760,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 12789,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 12826,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 12855,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12884,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 12912,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12939,
+        "Value": ";List:WorldList.InterrogateLoot.C0;Item:Consumable.AthenaBandage"
+      }
+    },
+    "WorldList.AthenaHighConsumables.04": {
+      "LootPackageID": {
+        "Position": 13049,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 13082,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 13111,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13152,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13181,
+        "Value": 5
+      },
+      "LootPackageCategory": {
+        "Position": 13210,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 13263,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13292,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13325,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 13354,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13391,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13420,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13449,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 13477,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13504,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.AthenaBandage"
+      }
+    },
+    "WorldList.AthenaConsumables.04": {
+      "LootPackageID": {
+        "Position": 13620,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 13653,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 13682,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 13723,
+        "Value": []
+      },
+      "Count": {
+        "Position": 13752,
+        "Value": 5
+      },
+      "LootPackageCategory": {
+        "Position": 13781,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 13834,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 13863,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 13896,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 13925,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 13962,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 13991,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14020,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14048,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14075,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.AthenaBandage"
+      }
+    },
+    "WorldList.FlopperDefault.Light.01": {
+      "LootPackageID": {
+        "Position": 14187,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Light"
+        }
+      },
+      "Weight": {
+        "Position": 14220,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 14249,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14290,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14319,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14348,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14401,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 14430,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 14463,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 14492,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 14529,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 14558,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14587,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 14615,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14642,
+        "Value": ";List:WorldList.FlopperDefault.Light.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FlopperDefault.Shell.01": {
+      "LootPackageID": {
+        "Position": 14769,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Shell"
+        }
+      },
+      "Weight": {
+        "Position": 14802,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 14831,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 14872,
+        "Value": []
+      },
+      "Count": {
+        "Position": 14901,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 14930,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 14983,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15012,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15045,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15074,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15111,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15140,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15169,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15197,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15224,
+        "Value": ";List:WorldList.FlopperDefault.Shell.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FlopperDefault.Shell.02": {
+      "LootPackageID": {
+        "Position": 15353,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Shell"
+        }
+      },
+      "Weight": {
+        "Position": 15386,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 15415,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 15456,
+        "Value": []
+      },
+      "Count": {
+        "Position": 15485,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 15514,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 15567,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 15596,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 15629,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 15658,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_Common.WID_Shotgun_Standard_Athena_Common"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 15695,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 15724,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15753,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 15781,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15808,
+        "Value": ";List:WorldList.FlopperDefault.Shell.C0;Item:WID.Shotgun.Standard.Athena.Common"
+      }
+    },
+    "WorldList.FlopperDefault.Shell.04": {
+      "LootPackageID": {
+        "Position": 15933,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Shell"
+        }
+      },
+      "Weight": {
+        "Position": 15966,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 15995,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16036,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16065,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16094,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16147,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16176,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16209,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 16238,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16275,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16304,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16333,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16361,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16388,
+        "Value": ";List:WorldList.FlopperDefault.Shell.C0;Item:WID.Shotgun.Standard.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FlopperDefault.Medium.01": {
+      "LootPackageID": {
+        "Position": 16517,
+        "Value": {
+          "String": "WorldList.FlopperDefault.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 16550,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 16579,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 16620,
+        "Value": []
+      },
+      "Count": {
+        "Position": 16649,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 16678,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 16731,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 16760,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 16793,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 16822,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 16859,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 16888,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16917,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 16945,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16972,
+        "Value": ";List:WorldList.FlopperDefault.Medium.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FlopperHigh.Shell.01": {
+      "LootPackageID": {
+        "Position": 17097,
+        "Value": {
+          "String": "WorldList.FlopperHigh.Shell"
+        }
+      },
+      "Weight": {
+        "Position": 17130,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 17159,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17200,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17229,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 17258,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17311,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17340,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17373,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17402,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 17439,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 17468,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17497,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 17525,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17552,
+        "Value": ";List:WorldList.FlopperHigh.Shell.C0;Item:WID.Shotgun.Standard.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaMedBox.Health.01": {
+      "LootPackageID": {
+        "Position": 17678,
+        "Value": {
+          "String": "WorldList.AthenaMedBox.Health"
+        }
+      },
+      "Weight": {
+        "Position": 17711,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 17740,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 17781,
+        "Value": []
+      },
+      "Count": {
+        "Position": 17810,
+        "Value": 5
+      },
+      "LootPackageCategory": {
+        "Position": 17839,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 17892,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 17921,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 17954,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 17983,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18020,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18049,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18078,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18106,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18133,
+        "Value": ";List:WorldList.AthenaMedBox.Health.C0;Item:Consumable.AthenaBandage"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Light.01": {
+      "LootPackageID": {
+        "Position": 18247,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Light"
+        }
+      },
+      "Weight": {
+        "Position": 18280,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 18309,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18350,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18379,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18408,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 18461,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 18490,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 18523,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 18552,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_C_Ore_T02.WID_Pistol_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 18589,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 18618,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18647,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 18675,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18702,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Light.C0;Item:WID.Pistol.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Light.02": {
+      "LootPackageID": {
+        "Position": 18834,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Light"
+        }
+      },
+      "Weight": {
+        "Position": 18867,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 18896,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 18937,
+        "Value": []
+      },
+      "Count": {
+        "Position": 18966,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 18995,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19048,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19077,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19110,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19139,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_SemiAuto_Athena_UC_Ore_T03.WID_Pistol_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19176,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19205,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19234,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19262,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19289,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Light.C0;Item:WID.Pistol.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Light.03": {
+      "LootPackageID": {
+        "Position": 19422,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Light"
+        }
+      },
+      "Weight": {
+        "Position": 19455,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 19484,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 19525,
+        "Value": []
+      },
+      "Count": {
+        "Position": 19554,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 19583,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 19636,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 19665,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 19698,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 19727,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03.WID_Pistol_AutoHeavyPDW_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 19764,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 19793,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19822,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 19850,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19877,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Light.C0;Item:WID.Pistol.AutoHeavyPDW.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Shells.01": {
+      "LootPackageID": {
+        "Position": 20013,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Shells"
+        }
+      },
+      "Weight": {
+        "Position": 20046,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 20075,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20116,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20145,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20174,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20227,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20256,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20289,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20318,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_C_Ore_T03.WID_Shotgun_Standard_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20355,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20384,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20413,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 20441,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20468,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Shells.C0;Item:WID.Shotgun.Standard.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Shells.02": {
+      "LootPackageID": {
+        "Position": 20602,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Shells"
+        }
+      },
+      "Weight": {
+        "Position": 20635,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 20664,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 20705,
+        "Value": []
+      },
+      "Count": {
+        "Position": 20734,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 20763,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 20816,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 20845,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 20878,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 20907,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Standard_Athena_UC_Ore_T03.WID_Shotgun_Standard_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 20944,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 20973,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21002,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21030,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21057,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Shells.C0;Item:WID.Shotgun.Standard.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Shells.03": {
+      "LootPackageID": {
+        "Position": 21192,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Shells"
+        }
+      },
+      "Weight": {
+        "Position": 21225,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 21254,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21295,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21324,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21353,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21406,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 21435,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 21468,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 21497,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_UC_Ore_T03.WID_Shotgun_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 21534,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 21563,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21592,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 21620,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21647,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Shells.C0;Item:WID.Shotgun.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Medium.01": {
+      "LootPackageID": {
+        "Position": 21782,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 21815,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 21844,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 21885,
+        "Value": []
+      },
+      "Count": {
+        "Position": 21914,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 21943,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 21996,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22025,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22058,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22087,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_C_Ore_T02.WID_Assault_Auto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22124,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22153,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22182,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22210,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22237,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Medium.C0;Item:WID.Assault.Auto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Medium.02": {
+      "LootPackageID": {
+        "Position": 22367,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 22400,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 22429,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 22470,
+        "Value": []
+      },
+      "Count": {
+        "Position": 22499,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 22528,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 22581,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 22610,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 22643,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 22672,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_Auto_Athena_UC_Ore_T03.WID_Assault_Auto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 22709,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 22738,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22767,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 22795,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22822,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Medium.C0;Item:WID.Assault.Auto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Medium.03": {
+      "LootPackageID": {
+        "Position": 22953,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 22986,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 23015,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23056,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23085,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23114,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23167,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23196,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23229,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23258,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_C_Ore_T02.WID_Assault_SemiAuto_Athena_C_Ore_T02"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23295,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23324,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23353,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23381,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23408,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Medium.C0;Item:WID.Assault.SemiAuto.Athena.C.Ore.T02"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Medium.04": {
+      "LootPackageID": {
+        "Position": 23542,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Medium"
+        }
+      },
+      "Weight": {
+        "Position": 23575,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 23604,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 23645,
+        "Value": []
+      },
+      "Count": {
+        "Position": 23674,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 23703,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 23756,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 23785,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 23818,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 23847,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_SemiAuto_Athena_UC_Ore_T03.WID_Assault_SemiAuto_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 23884,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 23913,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 23942,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 23970,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23997,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Medium.C0;Item:WID.Assault.SemiAuto.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Weapons.Heavy.01": {
+      "LootPackageID": {
+        "Position": 24132,
+        "Value": {
+          "String": "WorldList.FrogStalker.Weapons.Heavy"
+        }
+      },
+      "Weight": {
+        "Position": 24165,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 24194,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24235,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24264,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 24293,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24346,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24375,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 24408,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 24437,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03.WID_Sniper_BoltAction_Scope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 24474,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 24503,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 24532,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 24560,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 24587,
+        "Value": ";List:WorldList.FrogStalker.Weapons.Heavy.C0;Item:WID.Sniper.BoltAction.Scope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.FrogStalker.Consumables.01": {
+      "LootPackageID": {
+        "Position": 24728,
+        "Value": {
+          "String": "WorldList.FrogStalker.Consumables"
+        }
+      },
+      "Weight": {
+        "Position": 24761,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 24790,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 24831,
+        "Value": []
+      },
+      "Count": {
+        "Position": 24860,
+        "Value": 5
+      },
+      "LootPackageCategory": {
+        "Position": 24889,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 24942,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 24971,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25004,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25033,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/Bandage/Athena_Bandage.Athena_Bandage"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25070,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25099,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25128,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25156,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25183,
+        "Value": ";List:WorldList.FrogStalker.Consumables.C0;Item:Consumable.AthenaBandage"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighShotgun.08": {
+      "LootPackageID": {
+        "Position": 25301,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighShotgun"
+        }
+      },
+      "Weight": {
+        "Position": 25334,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 25363,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25404,
+        "Value": []
+      },
+      "Count": {
+        "Position": 25433,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 25462,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 25515,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 25544,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 25577,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 25606,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_SemiAuto_Athena_R_Ore_T03.WID_Shotgun_SemiAuto_Athena_R_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 25643,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 25672,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 25701,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 25729,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 25756,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.SemiAuto.Athena.R.Ore.T03"
+      }
+    },
+    "WorldList.AthenaConsumables.54": {
+      "LootPackageID": {
+        "Position": 25893,
+        "Value": {
+          "String": "WorldList.AthenaConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 25926,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 25955,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 25996,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26025,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 26054,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26107,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26136,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26169,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26198,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26235,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26264,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26293,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26321,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26348,
+        "Value": ";List:WorldList.AthenaConsumables.C0;Item:Consumable.DecoyGrenade"
+      }
+    },
+    "WorldList.AthenaHighConsumables.64": {
+      "LootPackageID": {
+        "Position": 26459,
+        "Value": {
+          "String": "WorldList.AthenaHighConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 26492,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 26521,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 26562,
+        "Value": []
+      },
+      "Count": {
+        "Position": 26591,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 26620,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 26673,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 26702,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 26735,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 26764,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 26801,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 26830,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26859,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 26887,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26914,
+        "Value": ";List:WorldList.AthenaHighConsumables.C0;Item:Consumable.DecoyGrenade"
+      }
+    },
+    "WorldList.AthenaSupplyDropConsumables.53": {
+      "LootPackageID": {
+        "Position": 27029,
+        "Value": {
+          "String": "WorldList.AthenaSupplyDropConsumables"
+        }
+      },
+      "Weight": {
+        "Position": 27062,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 27091,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27132,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27161,
+        "Value": 3
+      },
+      "LootPackageCategory": {
+        "Position": 27190,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27243,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27272,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27305,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27334,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Consumables/DangerGrape/WID_Athena_DangerGrape.WID_Athena_DangerGrape"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27371,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27400,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27429,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 27457,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27484,
+        "Value": ";List:WorldList.AthenaSupplyDropConsumables.C0;Item:Consumable.DecoyGrenade"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Sniper.12": {
+      "LootPackageID": {
+        "Position": 27605,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Sniper"
+        }
+      },
+      "Weight": {
+        "Position": 27638,
+        "Value": 0.047
+      },
+      "NamedWeightMult": {
+        "Position": 27667,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 27708,
+        "Value": []
+      },
+      "Count": {
+        "Position": 27737,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 27766,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 27819,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 27848,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 27881,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 27910,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 27947,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 27976,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28005,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28033,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28060,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Sniper.13": {
+      "LootPackageID": {
+        "Position": 28200,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Sniper"
+        }
+      },
+      "Weight": {
+        "Position": 28233,
+        "Value": 0.023
+      },
+      "NamedWeightMult": {
+        "Position": 28262,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 28303,
+        "Value": []
+      },
+      "Count": {
+        "Position": 28332,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 28361,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 28414,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 28443,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 28476,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 28505,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03.WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 28542,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 28571,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 28600,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 28628,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28655,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.Suppressed.Scope.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSMG.06": {
+      "LootPackageID": {
+        "Position": 28795,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSMG"
+        }
+      },
+      "Weight": {
+        "Position": 28828,
+        "Value": 0.047
+      },
+      "NamedWeightMult": {
+        "Position": 28857,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 28898,
+        "Value": []
+      },
+      "Count": {
+        "Position": 28927,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 28956,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29009,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29038,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29071,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29100,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_LMG_Athena_VR_Ore_T03.WID_Assault_LMG_Athena_VR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29137,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29166,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29195,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 29223,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 29250,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSMG.C0;Item:WID.Assault.LMG.Athena.VR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSMG.07": {
+      "LootPackageID": {
+        "Position": 29379,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSMG"
+        }
+      },
+      "Weight": {
+        "Position": 29412,
+        "Value": 0.023
+      },
+      "NamedWeightMult": {
+        "Position": 29441,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 29482,
+        "Value": []
+      },
+      "Count": {
+        "Position": 29511,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 29540,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 29593,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 29622,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 29655,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 29684,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Assault_LMG_Athena_SR_Ore_T03.WID_Assault_LMG_Athena_SR_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 29721,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 29750,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 29779,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 29807,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 29834,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSMG.C0;Item:WID.Assault.LMG.Athena.SR.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.24": {
+      "LootPackageID": {
+        "Position": 29963,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 29996,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 30025,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30066,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30095,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 30124,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30177,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30206,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 30239,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 30268,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Charge_Athena_C_Ore_T03.WID_Shotgun_Charge_Athena_C_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 30305,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 30334,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 30363,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30391,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 30418,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.Charge.Athena.C.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Shotgun.25": {
+      "LootPackageID": {
+        "Position": 30549,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Shotgun"
+        }
+      },
+      "Weight": {
+        "Position": 30582,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 30611,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 30652,
+        "Value": []
+      },
+      "Count": {
+        "Position": 30681,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 30710,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 30763,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 30792,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 30825,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 30854,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Charge_Athena_UC_Ore_T03.WID_Shotgun_Charge_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 30891,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 30920,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 30949,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 30977,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 31004,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Shotgun.C0;Item:WID.Shotgun.Charge.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.Sniper.08": {
+      "LootPackageID": {
+        "Position": 31136,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.Sniper"
+        }
+      },
+      "Weight": {
+        "Position": 31169,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 31198,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 31239,
+        "Value": []
+      },
+      "Count": {
+        "Position": 31268,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 31297,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 31350,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 31379,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31412,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 31441,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_UC_Ore_T03.WID_Sniper_NoScope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 31478,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 31507,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 31536,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 31564,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 31591,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.Sniper.C0;Item:WID.Sniper.NoScope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighSniper.08": {
+      "LootPackageID": {
+        "Position": 31722,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighSniper"
+        }
+      },
+      "Weight": {
+        "Position": 31755,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 31784,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 31825,
+        "Value": []
+      },
+      "Count": {
+        "Position": 31854,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 31883,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 31936,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 31965,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 31998,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 32027,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Sniper_NoScope_Athena_UC_Ore_T03.WID_Sniper_NoScope_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 32064,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 32093,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 32122,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32150,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32177,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighSniper.C0;Item:WID.Sniper.NoScope.Athena.UC.Ore.T03"
+      }
+    },
+    "WorldList.AthenaLoot.Weapon.HighShotgun.22": {
+      "LootPackageID": {
+        "Position": 32312,
+        "Value": {
+          "String": "WorldList.AthenaLoot.Weapon.HighShotgun"
+        }
+      },
+      "Weight": {
+        "Position": 32345,
+        "Value": 0.0
+      },
+      "NamedWeightMult": {
+        "Position": 32374,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "PotentialNamedWeights": {
+        "Position": 32415,
+        "Value": []
+      },
+      "Count": {
+        "Position": 32444,
+        "Value": 1
+      },
+      "LootPackageCategory": {
+        "Position": 32473,
+        "Value": 0
+      },
+      "GameplayTags": {
+        "Position": 32526,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredTag": {
+        "Position": 32555,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "LootPackageCall": {
+        "Position": 32588,
+        "Value": null
+      },
+      "ItemDefinition": {
+        "Position": 32617,
+        "Value": {
+          "AssetPathName": {
+            "String": "/Game/Athena/Items/Weapons/WID_Shotgun_Charge_Athena_UC_Ore_T03.WID_Shotgun_Charge_Athena_UC_Ore_T03"
+          },
+          "SubPathString": null
+        }
+      },
+      "PersistentLevel": {
+        "Position": 32654,
+        "Value": null
+      },
+      "MinWorldLevel": {
+        "Position": 32683,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 32712,
+        "Value": -1
+      },
+      "bAllowBonusDrops": {
+        "Position": 32740,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 32767,
+        "Value": ";List:WorldList.AthenaLoot.Weapon.HighShotgun.C0;Item:WID.Shotgun.Charge.Athena.UC.Ore.T03"
+      }
+    }
+  }
+]

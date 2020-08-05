@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "CompositeDataTable",
+    "ExportValue": {
+      "ParentTables": [
+        {
+          "ObjectName": "AthenaLootPackages_Client",
+          "OuterIndex": {
+            "ObjectName": "/Game/Items/Datatables/AthenaLootPackages_Client",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "AthenaLootPackages_DeimosOverride",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Playlists/Deimos/AthenaLootPackages_DeimosOverride",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "DeimosLootPackages_LargeTeams2",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Playlists/Deimos/DeimosLootPackages_LargeTeams2",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "RowStruct": {
+        "ObjectName": "FortLootPackageData",
+        "OuterIndex": {
+          "ObjectName": "/Script/FortniteGame",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

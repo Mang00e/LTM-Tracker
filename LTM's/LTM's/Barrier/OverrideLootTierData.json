@@ -1,0 +1,5906 @@
+[
+  {
+    "Loot_AthenaFloorLoot": {
+      "TierGroup": {
+        "Position": 25891,
+        "Value": {
+          "String": "Loot_AthenaFloorLoot"
+        }
+      },
+      "Weight": {
+        "Position": 25924,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 25961,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 25994,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 26023,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26052,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 26081,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 26110,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 26139,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 26168,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 26197,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.Rocket"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 26230,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 26263,
+        "Value": 2.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 26300,
+        "Value": [
+          {
+            "Position": 26304,
+            "Value": 1
+          },
+          {
+            "Position": 26308,
+            "Value": 1
+          },
+          {
+            "Position": 26312,
+            "Value": 0
+          },
+          {
+            "Position": 26316,
+            "Value": 0
+          },
+          {
+            "Position": 26320,
+            "Value": 0
+          },
+          {
+            "Position": 26324,
+            "Value": 0
+          },
+          {
+            "Position": 26328,
+            "Value": 0
+          },
+          {
+            "Position": 26332,
+            "Value": 0
+          },
+          {
+            "Position": 26336,
+            "Value": 0
+          },
+          {
+            "Position": 26340,
+            "Value": 0
+          },
+          {
+            "Position": 26344,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 26381,
+        "Value": [
+          {
+            "Position": 26385,
+            "Value": 1
+          },
+          {
+            "Position": 26389,
+            "Value": 1
+          },
+          {
+            "Position": 26393,
+            "Value": 0
+          },
+          {
+            "Position": 26397,
+            "Value": 0
+          },
+          {
+            "Position": 26401,
+            "Value": 0
+          },
+          {
+            "Position": 26405,
+            "Value": 0
+          },
+          {
+            "Position": 26409,
+            "Value": 0
+          },
+          {
+            "Position": 26413,
+            "Value": 0
+          },
+          {
+            "Position": 26417,
+            "Value": 0
+          },
+          {
+            "Position": 26421,
+            "Value": 0
+          },
+          {
+            "Position": 26425,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 26462,
+        "Value": [
+          {
+            "Position": 26466,
+            "Value": -1
+          },
+          {
+            "Position": 26470,
+            "Value": -1
+          },
+          {
+            "Position": 26474,
+            "Value": -1
+          },
+          {
+            "Position": 26478,
+            "Value": -1
+          },
+          {
+            "Position": 26482,
+            "Value": -1
+          },
+          {
+            "Position": 26486,
+            "Value": -1
+          },
+          {
+            "Position": 26490,
+            "Value": -1
+          },
+          {
+            "Position": 26494,
+            "Value": -1
+          },
+          {
+            "Position": 26498,
+            "Value": -1
+          },
+          {
+            "Position": 26502,
+            "Value": -1
+          },
+          {
+            "Position": 26506,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 26559,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 26612,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 26640,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 26667,
+        "Value": "TG:Loot_AthenaFloorLoot;LPKG:WorldPKG.AthenaLoot.Weapon.Rocket"
+      }
+    },
+    "Loot_AthenaTreasure_01": {
+      "TierGroup": {
+        "Position": 955,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 988,
+        "Value": 0.1
+      },
+      "QuotaLevel": {
+        "Position": 1025,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 1058,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 1087,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 1116,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 1145,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 1174,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 1203,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 1232,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 1261,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.HighShotgun"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 1294,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 1327,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 1364,
+        "Value": [
+          {
+            "Position": 1368,
+            "Value": 1
+          },
+          {
+            "Position": 1372,
+            "Value": 1
+          },
+          {
+            "Position": 1376,
+            "Value": 1
+          },
+          {
+            "Position": 1380,
+            "Value": 1
+          },
+          {
+            "Position": 1384,
+            "Value": 0
+          },
+          {
+            "Position": 1388,
+            "Value": 0
+          },
+          {
+            "Position": 1392,
+            "Value": 0
+          },
+          {
+            "Position": 1396,
+            "Value": 0
+          },
+          {
+            "Position": 1400,
+            "Value": 0
+          },
+          {
+            "Position": 1404,
+            "Value": 0
+          },
+          {
+            "Position": 1408,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 1445,
+        "Value": [
+          {
+            "Position": 1449,
+            "Value": 1
+          },
+          {
+            "Position": 1453,
+            "Value": 4
+          },
+          {
+            "Position": 1457,
+            "Value": 2
+          },
+          {
+            "Position": 1461,
+            "Value": 1
+          },
+          {
+            "Position": 1465,
+            "Value": 0
+          },
+          {
+            "Position": 1469,
+            "Value": 0
+          },
+          {
+            "Position": 1473,
+            "Value": 0
+          },
+          {
+            "Position": 1477,
+            "Value": 0
+          },
+          {
+            "Position": 1481,
+            "Value": 0
+          },
+          {
+            "Position": 1485,
+            "Value": 0
+          },
+          {
+            "Position": 1489,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 1526,
+        "Value": [
+          {
+            "Position": 1530,
+            "Value": -1
+          },
+          {
+            "Position": 1534,
+            "Value": -1
+          },
+          {
+            "Position": 1538,
+            "Value": -1
+          },
+          {
+            "Position": 1542,
+            "Value": -1
+          },
+          {
+            "Position": 1546,
+            "Value": -1
+          },
+          {
+            "Position": 1550,
+            "Value": -1
+          },
+          {
+            "Position": 1554,
+            "Value": -1
+          },
+          {
+            "Position": 1558,
+            "Value": -1
+          },
+          {
+            "Position": 1562,
+            "Value": -1
+          },
+          {
+            "Position": 1566,
+            "Value": -1
+          },
+          {
+            "Position": 1570,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 1623,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 1676,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 1704,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 1731,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HighShotgun"
+      }
+    },
+    "Loot_AthenaTreasure_02": {
+      "TierGroup": {
+        "Position": 1843,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 1876,
+        "Value": 0.45
+      },
+      "QuotaLevel": {
+        "Position": 1913,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 1946,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 1975,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2004,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 2033,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 2062,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 2091,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 2120,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 2149,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.SMG"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 2182,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 2215,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 2252,
+        "Value": [
+          {
+            "Position": 2256,
+            "Value": 1
+          },
+          {
+            "Position": 2260,
+            "Value": 1
+          },
+          {
+            "Position": 2264,
+            "Value": 1
+          },
+          {
+            "Position": 2268,
+            "Value": 1
+          },
+          {
+            "Position": 2272,
+            "Value": 0
+          },
+          {
+            "Position": 2276,
+            "Value": 0
+          },
+          {
+            "Position": 2280,
+            "Value": 0
+          },
+          {
+            "Position": 2284,
+            "Value": 0
+          },
+          {
+            "Position": 2288,
+            "Value": 0
+          },
+          {
+            "Position": 2292,
+            "Value": 0
+          },
+          {
+            "Position": 2296,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 2333,
+        "Value": [
+          {
+            "Position": 2337,
+            "Value": 1
+          },
+          {
+            "Position": 2341,
+            "Value": 4
+          },
+          {
+            "Position": 2345,
+            "Value": 2
+          },
+          {
+            "Position": 2349,
+            "Value": 1
+          },
+          {
+            "Position": 2353,
+            "Value": 0
+          },
+          {
+            "Position": 2357,
+            "Value": 0
+          },
+          {
+            "Position": 2361,
+            "Value": 0
+          },
+          {
+            "Position": 2365,
+            "Value": 0
+          },
+          {
+            "Position": 2369,
+            "Value": 0
+          },
+          {
+            "Position": 2373,
+            "Value": 0
+          },
+          {
+            "Position": 2377,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 2414,
+        "Value": [
+          {
+            "Position": 2418,
+            "Value": -1
+          },
+          {
+            "Position": 2422,
+            "Value": -1
+          },
+          {
+            "Position": 2426,
+            "Value": -1
+          },
+          {
+            "Position": 2430,
+            "Value": -1
+          },
+          {
+            "Position": 2434,
+            "Value": -1
+          },
+          {
+            "Position": 2438,
+            "Value": -1
+          },
+          {
+            "Position": 2442,
+            "Value": -1
+          },
+          {
+            "Position": 2446,
+            "Value": -1
+          },
+          {
+            "Position": 2450,
+            "Value": -1
+          },
+          {
+            "Position": 2454,
+            "Value": -1
+          },
+          {
+            "Position": 2458,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 2511,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 2564,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 2592,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 2619,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.SMG"
+      }
+    },
+    "Loot_AthenaTreasure_03": {
+      "TierGroup": {
+        "Position": 2723,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 2756,
+        "Value": 0.0575
+      },
+      "QuotaLevel": {
+        "Position": 2793,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 2826,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 2855,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 2884,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 2913,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 2942,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 2971,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 3000,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 3029,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.Minigun"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 3062,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 3095,
+        "Value": 9.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 3132,
+        "Value": [
+          {
+            "Position": 3136,
+            "Value": 1
+          },
+          {
+            "Position": 3140,
+            "Value": 1
+          },
+          {
+            "Position": 3144,
+            "Value": 1
+          },
+          {
+            "Position": 3148,
+            "Value": 1
+          },
+          {
+            "Position": 3152,
+            "Value": 0
+          },
+          {
+            "Position": 3156,
+            "Value": 0
+          },
+          {
+            "Position": 3160,
+            "Value": 0
+          },
+          {
+            "Position": 3164,
+            "Value": 0
+          },
+          {
+            "Position": 3168,
+            "Value": 0
+          },
+          {
+            "Position": 3172,
+            "Value": 0
+          },
+          {
+            "Position": 3176,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 3213,
+        "Value": [
+          {
+            "Position": 3217,
+            "Value": 1
+          },
+          {
+            "Position": 3221,
+            "Value": 5
+          },
+          {
+            "Position": 3225,
+            "Value": 2
+          },
+          {
+            "Position": 3229,
+            "Value": 1
+          },
+          {
+            "Position": 3233,
+            "Value": 0
+          },
+          {
+            "Position": 3237,
+            "Value": 0
+          },
+          {
+            "Position": 3241,
+            "Value": 0
+          },
+          {
+            "Position": 3245,
+            "Value": 0
+          },
+          {
+            "Position": 3249,
+            "Value": 0
+          },
+          {
+            "Position": 3253,
+            "Value": 0
+          },
+          {
+            "Position": 3257,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 3294,
+        "Value": [
+          {
+            "Position": 3298,
+            "Value": -1
+          },
+          {
+            "Position": 3302,
+            "Value": -1
+          },
+          {
+            "Position": 3306,
+            "Value": -1
+          },
+          {
+            "Position": 3310,
+            "Value": -1
+          },
+          {
+            "Position": 3314,
+            "Value": -1
+          },
+          {
+            "Position": 3318,
+            "Value": -1
+          },
+          {
+            "Position": 3322,
+            "Value": -1
+          },
+          {
+            "Position": 3326,
+            "Value": -1
+          },
+          {
+            "Position": 3330,
+            "Value": -1
+          },
+          {
+            "Position": 3334,
+            "Value": -1
+          },
+          {
+            "Position": 3338,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 3391,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 3444,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 3472,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 3499,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.Minigun"
+      }
+    },
+    "Loot_AthenaTreasure_05": {
+      "TierGroup": {
+        "Position": 3607,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 3640,
+        "Value": 0.935
+      },
+      "QuotaLevel": {
+        "Position": 3677,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 3710,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 3739,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 3768,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 3797,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 3826,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 3855,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 3884,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 3913,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.AssaultAuto"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 3946,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 3979,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 4016,
+        "Value": [
+          {
+            "Position": 4020,
+            "Value": 1
+          },
+          {
+            "Position": 4024,
+            "Value": 1
+          },
+          {
+            "Position": 4028,
+            "Value": 1
+          },
+          {
+            "Position": 4032,
+            "Value": 1
+          },
+          {
+            "Position": 4036,
+            "Value": 0
+          },
+          {
+            "Position": 4040,
+            "Value": 0
+          },
+          {
+            "Position": 4044,
+            "Value": 0
+          },
+          {
+            "Position": 4048,
+            "Value": 0
+          },
+          {
+            "Position": 4052,
+            "Value": 0
+          },
+          {
+            "Position": 4056,
+            "Value": 0
+          },
+          {
+            "Position": 4060,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 4097,
+        "Value": [
+          {
+            "Position": 4101,
+            "Value": 1
+          },
+          {
+            "Position": 4105,
+            "Value": 4
+          },
+          {
+            "Position": 4109,
+            "Value": 2
+          },
+          {
+            "Position": 4113,
+            "Value": 1
+          },
+          {
+            "Position": 4117,
+            "Value": 0
+          },
+          {
+            "Position": 4121,
+            "Value": 0
+          },
+          {
+            "Position": 4125,
+            "Value": 0
+          },
+          {
+            "Position": 4129,
+            "Value": 0
+          },
+          {
+            "Position": 4133,
+            "Value": 0
+          },
+          {
+            "Position": 4137,
+            "Value": 0
+          },
+          {
+            "Position": 4141,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 4178,
+        "Value": [
+          {
+            "Position": 4182,
+            "Value": -1
+          },
+          {
+            "Position": 4186,
+            "Value": -1
+          },
+          {
+            "Position": 4190,
+            "Value": -1
+          },
+          {
+            "Position": 4194,
+            "Value": -1
+          },
+          {
+            "Position": 4198,
+            "Value": -1
+          },
+          {
+            "Position": 4202,
+            "Value": -1
+          },
+          {
+            "Position": 4206,
+            "Value": -1
+          },
+          {
+            "Position": 4210,
+            "Value": -1
+          },
+          {
+            "Position": 4214,
+            "Value": -1
+          },
+          {
+            "Position": 4218,
+            "Value": -1
+          },
+          {
+            "Position": 4222,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 4275,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 4328,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 4356,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 4383,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.AssaultAuto"
+      }
+    },
+    "Loot_AthenaTreasure_06": {
+      "TierGroup": {
+        "Position": 4495,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 4528,
+        "Value": 0.2
+      },
+      "QuotaLevel": {
+        "Position": 4565,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 4598,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 4627,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 4656,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 4685,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 4714,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 4743,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 4772,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 4801,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.Sniper"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 4834,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 4867,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 4904,
+        "Value": [
+          {
+            "Position": 4908,
+            "Value": 1
+          },
+          {
+            "Position": 4912,
+            "Value": 1
+          },
+          {
+            "Position": 4916,
+            "Value": 1
+          },
+          {
+            "Position": 4920,
+            "Value": 1
+          },
+          {
+            "Position": 4924,
+            "Value": 0
+          },
+          {
+            "Position": 4928,
+            "Value": 0
+          },
+          {
+            "Position": 4932,
+            "Value": 0
+          },
+          {
+            "Position": 4936,
+            "Value": 0
+          },
+          {
+            "Position": 4940,
+            "Value": 0
+          },
+          {
+            "Position": 4944,
+            "Value": 0
+          },
+          {
+            "Position": 4948,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 4985,
+        "Value": [
+          {
+            "Position": 4989,
+            "Value": 1
+          },
+          {
+            "Position": 4993,
+            "Value": 4
+          },
+          {
+            "Position": 4997,
+            "Value": 2
+          },
+          {
+            "Position": 5001,
+            "Value": 1
+          },
+          {
+            "Position": 5005,
+            "Value": 0
+          },
+          {
+            "Position": 5009,
+            "Value": 0
+          },
+          {
+            "Position": 5013,
+            "Value": 0
+          },
+          {
+            "Position": 5017,
+            "Value": 0
+          },
+          {
+            "Position": 5021,
+            "Value": 0
+          },
+          {
+            "Position": 5025,
+            "Value": 0
+          },
+          {
+            "Position": 5029,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 5066,
+        "Value": [
+          {
+            "Position": 5070,
+            "Value": -1
+          },
+          {
+            "Position": 5074,
+            "Value": -1
+          },
+          {
+            "Position": 5078,
+            "Value": -1
+          },
+          {
+            "Position": 5082,
+            "Value": -1
+          },
+          {
+            "Position": 5086,
+            "Value": -1
+          },
+          {
+            "Position": 5090,
+            "Value": -1
+          },
+          {
+            "Position": 5094,
+            "Value": -1
+          },
+          {
+            "Position": 5098,
+            "Value": -1
+          },
+          {
+            "Position": 5102,
+            "Value": -1
+          },
+          {
+            "Position": 5106,
+            "Value": -1
+          },
+          {
+            "Position": 5110,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 5163,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 5216,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 5244,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 5271,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.Sniper"
+      }
+    },
+    "Loot_AthenaTreasure_08": {
+      "TierGroup": {
+        "Position": 5378,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 5411,
+        "Value": 0.08
+      },
+      "QuotaLevel": {
+        "Position": 5448,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 5481,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 5510,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 5539,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 5568,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 5597,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 5626,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 5655,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 5684,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.HandCannon"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 5717,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 5750,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 5787,
+        "Value": [
+          {
+            "Position": 5791,
+            "Value": 1
+          },
+          {
+            "Position": 5795,
+            "Value": 1
+          },
+          {
+            "Position": 5799,
+            "Value": 1
+          },
+          {
+            "Position": 5803,
+            "Value": 1
+          },
+          {
+            "Position": 5807,
+            "Value": 0
+          },
+          {
+            "Position": 5811,
+            "Value": 0
+          },
+          {
+            "Position": 5815,
+            "Value": 0
+          },
+          {
+            "Position": 5819,
+            "Value": 0
+          },
+          {
+            "Position": 5823,
+            "Value": 0
+          },
+          {
+            "Position": 5827,
+            "Value": 0
+          },
+          {
+            "Position": 5831,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 5868,
+        "Value": [
+          {
+            "Position": 5872,
+            "Value": 1
+          },
+          {
+            "Position": 5876,
+            "Value": 4
+          },
+          {
+            "Position": 5880,
+            "Value": 2
+          },
+          {
+            "Position": 5884,
+            "Value": 1
+          },
+          {
+            "Position": 5888,
+            "Value": 0
+          },
+          {
+            "Position": 5892,
+            "Value": 0
+          },
+          {
+            "Position": 5896,
+            "Value": 0
+          },
+          {
+            "Position": 5900,
+            "Value": 0
+          },
+          {
+            "Position": 5904,
+            "Value": 0
+          },
+          {
+            "Position": 5908,
+            "Value": 0
+          },
+          {
+            "Position": 5912,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 5949,
+        "Value": [
+          {
+            "Position": 5953,
+            "Value": -1
+          },
+          {
+            "Position": 5957,
+            "Value": -1
+          },
+          {
+            "Position": 5961,
+            "Value": -1
+          },
+          {
+            "Position": 5965,
+            "Value": -1
+          },
+          {
+            "Position": 5969,
+            "Value": -1
+          },
+          {
+            "Position": 5973,
+            "Value": -1
+          },
+          {
+            "Position": 5977,
+            "Value": -1
+          },
+          {
+            "Position": 5981,
+            "Value": -1
+          },
+          {
+            "Position": 5985,
+            "Value": -1
+          },
+          {
+            "Position": 5989,
+            "Value": -1
+          },
+          {
+            "Position": 5993,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 6046,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 6099,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 6127,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 6154,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.HandCannon"
+      }
+    },
+    "Loot_AthenaTreasure": {
+      "TierGroup": {
+        "Position": 8046,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 8079,
+        "Value": 0.1
+      },
+      "QuotaLevel": {
+        "Position": 8116,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 8149,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 8178,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 8207,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 8236,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 8265,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 8294,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 8323,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 8352,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.RevolverSingleAction"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 8385,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 8418,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 8455,
+        "Value": [
+          {
+            "Position": 8459,
+            "Value": 1
+          },
+          {
+            "Position": 8463,
+            "Value": 1
+          },
+          {
+            "Position": 8467,
+            "Value": 1
+          },
+          {
+            "Position": 8471,
+            "Value": 1
+          },
+          {
+            "Position": 8475,
+            "Value": 0
+          },
+          {
+            "Position": 8479,
+            "Value": 0
+          },
+          {
+            "Position": 8483,
+            "Value": 0
+          },
+          {
+            "Position": 8487,
+            "Value": 0
+          },
+          {
+            "Position": 8491,
+            "Value": 0
+          },
+          {
+            "Position": 8495,
+            "Value": 0
+          },
+          {
+            "Position": 8499,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 8536,
+        "Value": [
+          {
+            "Position": 8540,
+            "Value": 1
+          },
+          {
+            "Position": 8544,
+            "Value": 4
+          },
+          {
+            "Position": 8548,
+            "Value": 2
+          },
+          {
+            "Position": 8552,
+            "Value": 1
+          },
+          {
+            "Position": 8556,
+            "Value": 0
+          },
+          {
+            "Position": 8560,
+            "Value": 0
+          },
+          {
+            "Position": 8564,
+            "Value": 0
+          },
+          {
+            "Position": 8568,
+            "Value": 0
+          },
+          {
+            "Position": 8572,
+            "Value": 0
+          },
+          {
+            "Position": 8576,
+            "Value": 0
+          },
+          {
+            "Position": 8580,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 8617,
+        "Value": [
+          {
+            "Position": 8621,
+            "Value": -1
+          },
+          {
+            "Position": 8625,
+            "Value": -1
+          },
+          {
+            "Position": 8629,
+            "Value": -1
+          },
+          {
+            "Position": 8633,
+            "Value": -1
+          },
+          {
+            "Position": 8637,
+            "Value": -1
+          },
+          {
+            "Position": 8641,
+            "Value": -1
+          },
+          {
+            "Position": 8645,
+            "Value": -1
+          },
+          {
+            "Position": 8649,
+            "Value": -1
+          },
+          {
+            "Position": 8653,
+            "Value": -1
+          },
+          {
+            "Position": 8657,
+            "Value": -1
+          },
+          {
+            "Position": 8661,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 8714,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 8767,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 8795,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 8822,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.RevolverSingleAction"
+      }
+    },
+    "Loot_AthenaSupplyDrop_01": {
+      "TierGroup": {
+        "Position": 8943,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 8976,
+        "Value": 1.2
+      },
+      "QuotaLevel": {
+        "Position": 9013,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 9046,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 9075,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9104,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 9133,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 9162,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 9191,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 9220,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 9249,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.Assault"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 9282,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 9315,
+        "Value": 13.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 9352,
+        "Value": [
+          {
+            "Position": 9356,
+            "Value": 1
+          },
+          {
+            "Position": 9360,
+            "Value": 1
+          },
+          {
+            "Position": 9364,
+            "Value": 1
+          },
+          {
+            "Position": 9368,
+            "Value": 1
+          },
+          {
+            "Position": 9372,
+            "Value": 1
+          },
+          {
+            "Position": 9376,
+            "Value": 0
+          },
+          {
+            "Position": 9380,
+            "Value": 0
+          },
+          {
+            "Position": 9384,
+            "Value": 0
+          },
+          {
+            "Position": 9388,
+            "Value": 0
+          },
+          {
+            "Position": 9392,
+            "Value": 0
+          },
+          {
+            "Position": 9396,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 9433,
+        "Value": [
+          {
+            "Position": 9437,
+            "Value": 1
+          },
+          {
+            "Position": 9441,
+            "Value": 4
+          },
+          {
+            "Position": 9445,
+            "Value": 3
+          },
+          {
+            "Position": 9449,
+            "Value": 3
+          },
+          {
+            "Position": 9453,
+            "Value": 2
+          },
+          {
+            "Position": 9457,
+            "Value": 0
+          },
+          {
+            "Position": 9461,
+            "Value": 0
+          },
+          {
+            "Position": 9465,
+            "Value": 0
+          },
+          {
+            "Position": 9469,
+            "Value": 0
+          },
+          {
+            "Position": 9473,
+            "Value": 0
+          },
+          {
+            "Position": 9477,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 9514,
+        "Value": [
+          {
+            "Position": 9518,
+            "Value": -1
+          },
+          {
+            "Position": 9522,
+            "Value": -1
+          },
+          {
+            "Position": 9526,
+            "Value": -1
+          },
+          {
+            "Position": 9530,
+            "Value": -1
+          },
+          {
+            "Position": 9534,
+            "Value": -1
+          },
+          {
+            "Position": 9538,
+            "Value": -1
+          },
+          {
+            "Position": 9542,
+            "Value": -1
+          },
+          {
+            "Position": 9546,
+            "Value": -1
+          },
+          {
+            "Position": 9550,
+            "Value": -1
+          },
+          {
+            "Position": 9554,
+            "Value": -1
+          },
+          {
+            "Position": 9558,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 9611,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 9664,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 9692,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 9719,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Assault"
+      }
+    },
+    "Loot_AthenaSupplyDrop_03": {
+      "TierGroup": {
+        "Position": 9835,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 9868,
+        "Value": 0.7
+      },
+      "QuotaLevel": {
+        "Position": 9905,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 9938,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 9967,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 9996,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 10025,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 10054,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 10083,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 10112,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 10141,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.Sniper"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 10174,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 10207,
+        "Value": 13.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 10244,
+        "Value": [
+          {
+            "Position": 10248,
+            "Value": 1
+          },
+          {
+            "Position": 10252,
+            "Value": 1
+          },
+          {
+            "Position": 10256,
+            "Value": 1
+          },
+          {
+            "Position": 10260,
+            "Value": 1
+          },
+          {
+            "Position": 10264,
+            "Value": 1
+          },
+          {
+            "Position": 10268,
+            "Value": 0
+          },
+          {
+            "Position": 10272,
+            "Value": 0
+          },
+          {
+            "Position": 10276,
+            "Value": 0
+          },
+          {
+            "Position": 10280,
+            "Value": 0
+          },
+          {
+            "Position": 10284,
+            "Value": 0
+          },
+          {
+            "Position": 10288,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 10325,
+        "Value": [
+          {
+            "Position": 10329,
+            "Value": 1
+          },
+          {
+            "Position": 10333,
+            "Value": 4
+          },
+          {
+            "Position": 10337,
+            "Value": 3
+          },
+          {
+            "Position": 10341,
+            "Value": 3
+          },
+          {
+            "Position": 10345,
+            "Value": 2
+          },
+          {
+            "Position": 10349,
+            "Value": 0
+          },
+          {
+            "Position": 10353,
+            "Value": 0
+          },
+          {
+            "Position": 10357,
+            "Value": 0
+          },
+          {
+            "Position": 10361,
+            "Value": 0
+          },
+          {
+            "Position": 10365,
+            "Value": 0
+          },
+          {
+            "Position": 10369,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 10406,
+        "Value": [
+          {
+            "Position": 10410,
+            "Value": -1
+          },
+          {
+            "Position": 10414,
+            "Value": -1
+          },
+          {
+            "Position": 10418,
+            "Value": -1
+          },
+          {
+            "Position": 10422,
+            "Value": -1
+          },
+          {
+            "Position": 10426,
+            "Value": -1
+          },
+          {
+            "Position": 10430,
+            "Value": -1
+          },
+          {
+            "Position": 10434,
+            "Value": -1
+          },
+          {
+            "Position": 10438,
+            "Value": -1
+          },
+          {
+            "Position": 10442,
+            "Value": -1
+          },
+          {
+            "Position": 10446,
+            "Value": -1
+          },
+          {
+            "Position": 10450,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 10503,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 10556,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 10584,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 10611,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Sniper"
+      }
+    },
+    "Loot_AthenaSupplyDrop_04": {
+      "TierGroup": {
+        "Position": 10726,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 10759,
+        "Value": 0.5
+      },
+      "QuotaLevel": {
+        "Position": 10796,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 10829,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 10858,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 10887,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 10916,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 10945,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 10974,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 11003,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 11032,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.Minigun"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 11065,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 11098,
+        "Value": 23.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 11135,
+        "Value": [
+          {
+            "Position": 11139,
+            "Value": 1
+          },
+          {
+            "Position": 11143,
+            "Value": 1
+          },
+          {
+            "Position": 11147,
+            "Value": 1
+          },
+          {
+            "Position": 11151,
+            "Value": 1
+          },
+          {
+            "Position": 11155,
+            "Value": 1
+          },
+          {
+            "Position": 11159,
+            "Value": 0
+          },
+          {
+            "Position": 11163,
+            "Value": 0
+          },
+          {
+            "Position": 11167,
+            "Value": 0
+          },
+          {
+            "Position": 11171,
+            "Value": 0
+          },
+          {
+            "Position": 11175,
+            "Value": 0
+          },
+          {
+            "Position": 11179,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 11216,
+        "Value": [
+          {
+            "Position": 11220,
+            "Value": 1
+          },
+          {
+            "Position": 11224,
+            "Value": 14
+          },
+          {
+            "Position": 11228,
+            "Value": 3
+          },
+          {
+            "Position": 11232,
+            "Value": 3
+          },
+          {
+            "Position": 11236,
+            "Value": 2
+          },
+          {
+            "Position": 11240,
+            "Value": 0
+          },
+          {
+            "Position": 11244,
+            "Value": 0
+          },
+          {
+            "Position": 11248,
+            "Value": 0
+          },
+          {
+            "Position": 11252,
+            "Value": 0
+          },
+          {
+            "Position": 11256,
+            "Value": 0
+          },
+          {
+            "Position": 11260,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 11297,
+        "Value": [
+          {
+            "Position": 11301,
+            "Value": -1
+          },
+          {
+            "Position": 11305,
+            "Value": -1
+          },
+          {
+            "Position": 11309,
+            "Value": -1
+          },
+          {
+            "Position": 11313,
+            "Value": -1
+          },
+          {
+            "Position": 11317,
+            "Value": -1
+          },
+          {
+            "Position": 11321,
+            "Value": -1
+          },
+          {
+            "Position": 11325,
+            "Value": -1
+          },
+          {
+            "Position": 11329,
+            "Value": -1
+          },
+          {
+            "Position": 11333,
+            "Value": -1
+          },
+          {
+            "Position": 11337,
+            "Value": -1
+          },
+          {
+            "Position": 11341,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 11394,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 11447,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 11475,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 11502,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Minigun"
+      }
+    },
+    "Loot_AthenaSupplyDrop_05": {
+      "TierGroup": {
+        "Position": 11618,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 11651,
+        "Value": 0.5
+      },
+      "QuotaLevel": {
+        "Position": 11688,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 11721,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 11750,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 11779,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 11808,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 11837,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 11866,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 11895,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 11924,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.Shotgun"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 11957,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 11990,
+        "Value": 13.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 12027,
+        "Value": [
+          {
+            "Position": 12031,
+            "Value": 1
+          },
+          {
+            "Position": 12035,
+            "Value": 1
+          },
+          {
+            "Position": 12039,
+            "Value": 1
+          },
+          {
+            "Position": 12043,
+            "Value": 1
+          },
+          {
+            "Position": 12047,
+            "Value": 1
+          },
+          {
+            "Position": 12051,
+            "Value": 0
+          },
+          {
+            "Position": 12055,
+            "Value": 0
+          },
+          {
+            "Position": 12059,
+            "Value": 0
+          },
+          {
+            "Position": 12063,
+            "Value": 0
+          },
+          {
+            "Position": 12067,
+            "Value": 0
+          },
+          {
+            "Position": 12071,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 12108,
+        "Value": [
+          {
+            "Position": 12112,
+            "Value": 1
+          },
+          {
+            "Position": 12116,
+            "Value": 4
+          },
+          {
+            "Position": 12120,
+            "Value": 3
+          },
+          {
+            "Position": 12124,
+            "Value": 3
+          },
+          {
+            "Position": 12128,
+            "Value": 2
+          },
+          {
+            "Position": 12132,
+            "Value": 0
+          },
+          {
+            "Position": 12136,
+            "Value": 0
+          },
+          {
+            "Position": 12140,
+            "Value": 0
+          },
+          {
+            "Position": 12144,
+            "Value": 0
+          },
+          {
+            "Position": 12148,
+            "Value": 0
+          },
+          {
+            "Position": 12152,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 12189,
+        "Value": [
+          {
+            "Position": 12193,
+            "Value": -1
+          },
+          {
+            "Position": 12197,
+            "Value": -1
+          },
+          {
+            "Position": 12201,
+            "Value": -1
+          },
+          {
+            "Position": 12205,
+            "Value": -1
+          },
+          {
+            "Position": 12209,
+            "Value": -1
+          },
+          {
+            "Position": 12213,
+            "Value": -1
+          },
+          {
+            "Position": 12217,
+            "Value": -1
+          },
+          {
+            "Position": 12221,
+            "Value": -1
+          },
+          {
+            "Position": 12225,
+            "Value": -1
+          },
+          {
+            "Position": 12229,
+            "Value": -1
+          },
+          {
+            "Position": 12233,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 12286,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 12339,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 12367,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 12394,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Shotgun"
+      }
+    },
+    "Loot_AthenaSupplyDrop_09": {
+      "TierGroup": {
+        "Position": 12510,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 12543,
+        "Value": 0.7
+      },
+      "QuotaLevel": {
+        "Position": 12580,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 12613,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 12642,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 12671,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 12700,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 12729,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 12758,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 12787,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 12816,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.SMG"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 12849,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 12882,
+        "Value": 13.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 12919,
+        "Value": [
+          {
+            "Position": 12923,
+            "Value": 1
+          },
+          {
+            "Position": 12927,
+            "Value": 1
+          },
+          {
+            "Position": 12931,
+            "Value": 1
+          },
+          {
+            "Position": 12935,
+            "Value": 1
+          },
+          {
+            "Position": 12939,
+            "Value": 1
+          },
+          {
+            "Position": 12943,
+            "Value": 0
+          },
+          {
+            "Position": 12947,
+            "Value": 0
+          },
+          {
+            "Position": 12951,
+            "Value": 0
+          },
+          {
+            "Position": 12955,
+            "Value": 0
+          },
+          {
+            "Position": 12959,
+            "Value": 0
+          },
+          {
+            "Position": 12963,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 13000,
+        "Value": [
+          {
+            "Position": 13004,
+            "Value": 1
+          },
+          {
+            "Position": 13008,
+            "Value": 4
+          },
+          {
+            "Position": 13012,
+            "Value": 3
+          },
+          {
+            "Position": 13016,
+            "Value": 3
+          },
+          {
+            "Position": 13020,
+            "Value": 2
+          },
+          {
+            "Position": 13024,
+            "Value": 0
+          },
+          {
+            "Position": 13028,
+            "Value": 0
+          },
+          {
+            "Position": 13032,
+            "Value": 0
+          },
+          {
+            "Position": 13036,
+            "Value": 0
+          },
+          {
+            "Position": 13040,
+            "Value": 0
+          },
+          {
+            "Position": 13044,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 13081,
+        "Value": [
+          {
+            "Position": 13085,
+            "Value": -1
+          },
+          {
+            "Position": 13089,
+            "Value": -1
+          },
+          {
+            "Position": 13093,
+            "Value": -1
+          },
+          {
+            "Position": 13097,
+            "Value": -1
+          },
+          {
+            "Position": 13101,
+            "Value": -1
+          },
+          {
+            "Position": 13105,
+            "Value": -1
+          },
+          {
+            "Position": 13109,
+            "Value": -1
+          },
+          {
+            "Position": 13113,
+            "Value": -1
+          },
+          {
+            "Position": 13117,
+            "Value": -1
+          },
+          {
+            "Position": 13121,
+            "Value": -1
+          },
+          {
+            "Position": 13125,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 13178,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 13231,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 13259,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 13286,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.SMG"
+      }
+    },
+    "Loot_AthenaBlingDrop_01": {
+      "TierGroup": {
+        "Position": 13398,
+        "Value": {
+          "String": "Loot_AthenaBlingDrop"
+        }
+      },
+      "Weight": {
+        "Position": 13431,
+        "Value": 1.0
+      },
+      "QuotaLevel": {
+        "Position": 13468,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 13501,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 13530,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 13559,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 13588,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 13617,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 13646,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 13675,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 13704,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Bling"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 13737,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 13770,
+        "Value": 26.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 13807,
+        "Value": [
+          {
+            "Position": 13811,
+            "Value": 0
+          },
+          {
+            "Position": 13815,
+            "Value": 1
+          },
+          {
+            "Position": 13819,
+            "Value": 1
+          },
+          {
+            "Position": 13823,
+            "Value": 1
+          },
+          {
+            "Position": 13827,
+            "Value": 1
+          },
+          {
+            "Position": 13831,
+            "Value": 1
+          },
+          {
+            "Position": 13835,
+            "Value": 1
+          },
+          {
+            "Position": 13839,
+            "Value": 1
+          },
+          {
+            "Position": 13843,
+            "Value": 1
+          },
+          {
+            "Position": 13847,
+            "Value": 1
+          },
+          {
+            "Position": 13851,
+            "Value": 1
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 13888,
+        "Value": [
+          {
+            "Position": 13892,
+            "Value": 0
+          },
+          {
+            "Position": 13896,
+            "Value": 1
+          },
+          {
+            "Position": 13900,
+            "Value": 1
+          },
+          {
+            "Position": 13904,
+            "Value": 1
+          },
+          {
+            "Position": 13908,
+            "Value": 1
+          },
+          {
+            "Position": 13912,
+            "Value": 6
+          },
+          {
+            "Position": 13916,
+            "Value": 2
+          },
+          {
+            "Position": 13920,
+            "Value": 4
+          },
+          {
+            "Position": 13924,
+            "Value": 6
+          },
+          {
+            "Position": 13928,
+            "Value": 2
+          },
+          {
+            "Position": 13932,
+            "Value": 2
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 13969,
+        "Value": [
+          {
+            "Position": 13973,
+            "Value": -1
+          },
+          {
+            "Position": 13977,
+            "Value": -1
+          },
+          {
+            "Position": 13981,
+            "Value": -1
+          },
+          {
+            "Position": 13985,
+            "Value": -1
+          },
+          {
+            "Position": 13989,
+            "Value": -1
+          },
+          {
+            "Position": 13993,
+            "Value": -1
+          },
+          {
+            "Position": 13997,
+            "Value": -1
+          },
+          {
+            "Position": 14001,
+            "Value": -1
+          },
+          {
+            "Position": 14005,
+            "Value": -1
+          },
+          {
+            "Position": 14009,
+            "Value": -1
+          },
+          {
+            "Position": 14013,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 14066,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 14119,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 14147,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 14174,
+        "Value": "TG:Loot_AthenaBlingDrop;LPKG:WorldPKG.AthenaLoot.Bling"
+      }
+    },
+    "Loot_AthenaAmmoLarge_01": {
+      "TierGroup": {
+        "Position": 14274,
+        "Value": {
+          "String": "Loot_AthenaAmmoLarge"
+        }
+      },
+      "Weight": {
+        "Position": 14307,
+        "Value": 1.0
+      },
+      "QuotaLevel": {
+        "Position": 14344,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 14377,
+        "Value": 1
+      },
+      "MinWorldLevel": {
+        "Position": 14406,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 14435,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 14464,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 14493,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 14522,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 14551,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 14580,
+        "Value": {
+          "String": "WorldList.AthenaAmmoLarge"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 14613,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 14646,
+        "Value": 4.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 14683,
+        "Value": [
+          {
+            "Position": 14687,
+            "Value": 1
+          },
+          {
+            "Position": 14691,
+            "Value": 0
+          },
+          {
+            "Position": 14695,
+            "Value": 0
+          },
+          {
+            "Position": 14699,
+            "Value": 0
+          },
+          {
+            "Position": 14703,
+            "Value": 0
+          },
+          {
+            "Position": 14707,
+            "Value": 0
+          },
+          {
+            "Position": 14711,
+            "Value": 0
+          },
+          {
+            "Position": 14715,
+            "Value": 0
+          },
+          {
+            "Position": 14719,
+            "Value": 0
+          },
+          {
+            "Position": 14723,
+            "Value": 0
+          },
+          {
+            "Position": 14727,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 14764,
+        "Value": [
+          {
+            "Position": 14768,
+            "Value": 4
+          },
+          {
+            "Position": 14772,
+            "Value": 0
+          },
+          {
+            "Position": 14776,
+            "Value": 0
+          },
+          {
+            "Position": 14780,
+            "Value": 0
+          },
+          {
+            "Position": 14784,
+            "Value": 0
+          },
+          {
+            "Position": 14788,
+            "Value": 0
+          },
+          {
+            "Position": 14792,
+            "Value": 0
+          },
+          {
+            "Position": 14796,
+            "Value": 0
+          },
+          {
+            "Position": 14800,
+            "Value": 0
+          },
+          {
+            "Position": 14804,
+            "Value": 0
+          },
+          {
+            "Position": 14808,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 14845,
+        "Value": [
+          {
+            "Position": 14849,
+            "Value": -1
+          },
+          {
+            "Position": 14853,
+            "Value": -1
+          },
+          {
+            "Position": 14857,
+            "Value": -1
+          },
+          {
+            "Position": 14861,
+            "Value": -1
+          },
+          {
+            "Position": 14865,
+            "Value": -1
+          },
+          {
+            "Position": 14869,
+            "Value": -1
+          },
+          {
+            "Position": 14873,
+            "Value": -1
+          },
+          {
+            "Position": 14877,
+            "Value": -1
+          },
+          {
+            "Position": 14881,
+            "Value": -1
+          },
+          {
+            "Position": 14885,
+            "Value": -1
+          },
+          {
+            "Position": 14889,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 14942,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 14995,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 15023,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15050,
+        "Value": "TG:Loot_AthenaAmmoLarge.T01;LPKG:WorldList.AthenaAmmoLarge"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_02": {
+      "TierGroup": {
+        "Position": 15154,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 15187,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 15224,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 15257,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 15286,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 15315,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 15344,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 15373,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 15402,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 15431,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 15460,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 15493,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 15526,
+        "Value": 1.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 15563,
+        "Value": [
+          {
+            "Position": 15567,
+            "Value": 1
+          },
+          {
+            "Position": 15571,
+            "Value": 0
+          },
+          {
+            "Position": 15575,
+            "Value": 0
+          },
+          {
+            "Position": 15579,
+            "Value": 0
+          },
+          {
+            "Position": 15583,
+            "Value": 0
+          },
+          {
+            "Position": 15587,
+            "Value": 0
+          },
+          {
+            "Position": 15591,
+            "Value": 0
+          },
+          {
+            "Position": 15595,
+            "Value": 0
+          },
+          {
+            "Position": 15599,
+            "Value": 0
+          },
+          {
+            "Position": 15603,
+            "Value": 0
+          },
+          {
+            "Position": 15607,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 15644,
+        "Value": [
+          {
+            "Position": 15648,
+            "Value": 1
+          },
+          {
+            "Position": 15652,
+            "Value": 0
+          },
+          {
+            "Position": 15656,
+            "Value": 0
+          },
+          {
+            "Position": 15660,
+            "Value": 0
+          },
+          {
+            "Position": 15664,
+            "Value": 0
+          },
+          {
+            "Position": 15668,
+            "Value": 0
+          },
+          {
+            "Position": 15672,
+            "Value": 0
+          },
+          {
+            "Position": 15676,
+            "Value": 0
+          },
+          {
+            "Position": 15680,
+            "Value": 0
+          },
+          {
+            "Position": 15684,
+            "Value": 0
+          },
+          {
+            "Position": 15688,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 15725,
+        "Value": [
+          {
+            "Position": 15729,
+            "Value": -1
+          },
+          {
+            "Position": 15733,
+            "Value": -1
+          },
+          {
+            "Position": 15737,
+            "Value": -1
+          },
+          {
+            "Position": 15741,
+            "Value": -1
+          },
+          {
+            "Position": 15745,
+            "Value": -1
+          },
+          {
+            "Position": 15749,
+            "Value": -1
+          },
+          {
+            "Position": 15753,
+            "Value": -1
+          },
+          {
+            "Position": 15757,
+            "Value": -1
+          },
+          {
+            "Position": 15761,
+            "Value": -1
+          },
+          {
+            "Position": 15765,
+            "Value": -1
+          },
+          {
+            "Position": 15769,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 15822,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 15875,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 15903,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 15930,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_03": {
+      "TierGroup": {
+        "Position": 16045,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 16078,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 16115,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 16148,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 16177,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 16206,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 16235,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 16264,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 16293,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 16322,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 16351,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 16384,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 16417,
+        "Value": 2.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 16454,
+        "Value": [
+          {
+            "Position": 16458,
+            "Value": 1
+          },
+          {
+            "Position": 16462,
+            "Value": 0
+          },
+          {
+            "Position": 16466,
+            "Value": 0
+          },
+          {
+            "Position": 16470,
+            "Value": 0
+          },
+          {
+            "Position": 16474,
+            "Value": 0
+          },
+          {
+            "Position": 16478,
+            "Value": 0
+          },
+          {
+            "Position": 16482,
+            "Value": 0
+          },
+          {
+            "Position": 16486,
+            "Value": 0
+          },
+          {
+            "Position": 16490,
+            "Value": 0
+          },
+          {
+            "Position": 16494,
+            "Value": 0
+          },
+          {
+            "Position": 16498,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 16535,
+        "Value": [
+          {
+            "Position": 16539,
+            "Value": 2
+          },
+          {
+            "Position": 16543,
+            "Value": 0
+          },
+          {
+            "Position": 16547,
+            "Value": 0
+          },
+          {
+            "Position": 16551,
+            "Value": 0
+          },
+          {
+            "Position": 16555,
+            "Value": 0
+          },
+          {
+            "Position": 16559,
+            "Value": 0
+          },
+          {
+            "Position": 16563,
+            "Value": 0
+          },
+          {
+            "Position": 16567,
+            "Value": 0
+          },
+          {
+            "Position": 16571,
+            "Value": 0
+          },
+          {
+            "Position": 16575,
+            "Value": 0
+          },
+          {
+            "Position": 16579,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 16616,
+        "Value": [
+          {
+            "Position": 16620,
+            "Value": -1
+          },
+          {
+            "Position": 16624,
+            "Value": -1
+          },
+          {
+            "Position": 16628,
+            "Value": -1
+          },
+          {
+            "Position": 16632,
+            "Value": -1
+          },
+          {
+            "Position": 16636,
+            "Value": -1
+          },
+          {
+            "Position": 16640,
+            "Value": -1
+          },
+          {
+            "Position": 16644,
+            "Value": -1
+          },
+          {
+            "Position": 16648,
+            "Value": -1
+          },
+          {
+            "Position": 16652,
+            "Value": -1
+          },
+          {
+            "Position": 16656,
+            "Value": -1
+          },
+          {
+            "Position": 16660,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 16713,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 16766,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 16794,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 16821,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_04": {
+      "TierGroup": {
+        "Position": 16936,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 16969,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 17006,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 17039,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 17068,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17097,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 17126,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 17155,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 17184,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 17213,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 17242,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 17275,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 17308,
+        "Value": 3.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 17345,
+        "Value": [
+          {
+            "Position": 17349,
+            "Value": 1
+          },
+          {
+            "Position": 17353,
+            "Value": 0
+          },
+          {
+            "Position": 17357,
+            "Value": 0
+          },
+          {
+            "Position": 17361,
+            "Value": 0
+          },
+          {
+            "Position": 17365,
+            "Value": 0
+          },
+          {
+            "Position": 17369,
+            "Value": 0
+          },
+          {
+            "Position": 17373,
+            "Value": 0
+          },
+          {
+            "Position": 17377,
+            "Value": 0
+          },
+          {
+            "Position": 17381,
+            "Value": 0
+          },
+          {
+            "Position": 17385,
+            "Value": 0
+          },
+          {
+            "Position": 17389,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 17426,
+        "Value": [
+          {
+            "Position": 17430,
+            "Value": 3
+          },
+          {
+            "Position": 17434,
+            "Value": 0
+          },
+          {
+            "Position": 17438,
+            "Value": 0
+          },
+          {
+            "Position": 17442,
+            "Value": 0
+          },
+          {
+            "Position": 17446,
+            "Value": 0
+          },
+          {
+            "Position": 17450,
+            "Value": 0
+          },
+          {
+            "Position": 17454,
+            "Value": 0
+          },
+          {
+            "Position": 17458,
+            "Value": 0
+          },
+          {
+            "Position": 17462,
+            "Value": 0
+          },
+          {
+            "Position": 17466,
+            "Value": 0
+          },
+          {
+            "Position": 17470,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 17507,
+        "Value": [
+          {
+            "Position": 17511,
+            "Value": -1
+          },
+          {
+            "Position": 17515,
+            "Value": -1
+          },
+          {
+            "Position": 17519,
+            "Value": -1
+          },
+          {
+            "Position": 17523,
+            "Value": -1
+          },
+          {
+            "Position": 17527,
+            "Value": -1
+          },
+          {
+            "Position": 17531,
+            "Value": -1
+          },
+          {
+            "Position": 17535,
+            "Value": -1
+          },
+          {
+            "Position": 17539,
+            "Value": -1
+          },
+          {
+            "Position": 17543,
+            "Value": -1
+          },
+          {
+            "Position": 17547,
+            "Value": -1
+          },
+          {
+            "Position": 17551,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 17604,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 17657,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 17685,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 17712,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_05": {
+      "TierGroup": {
+        "Position": 17827,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 17860,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 17897,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 17930,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 17959,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 17988,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 18017,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 18046,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 18075,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 18104,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 18133,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 18166,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 18199,
+        "Value": 4.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 18236,
+        "Value": [
+          {
+            "Position": 18240,
+            "Value": 1
+          },
+          {
+            "Position": 18244,
+            "Value": 0
+          },
+          {
+            "Position": 18248,
+            "Value": 0
+          },
+          {
+            "Position": 18252,
+            "Value": 0
+          },
+          {
+            "Position": 18256,
+            "Value": 0
+          },
+          {
+            "Position": 18260,
+            "Value": 0
+          },
+          {
+            "Position": 18264,
+            "Value": 0
+          },
+          {
+            "Position": 18268,
+            "Value": 0
+          },
+          {
+            "Position": 18272,
+            "Value": 0
+          },
+          {
+            "Position": 18276,
+            "Value": 0
+          },
+          {
+            "Position": 18280,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 18317,
+        "Value": [
+          {
+            "Position": 18321,
+            "Value": 4
+          },
+          {
+            "Position": 18325,
+            "Value": 0
+          },
+          {
+            "Position": 18329,
+            "Value": 0
+          },
+          {
+            "Position": 18333,
+            "Value": 0
+          },
+          {
+            "Position": 18337,
+            "Value": 0
+          },
+          {
+            "Position": 18341,
+            "Value": 0
+          },
+          {
+            "Position": 18345,
+            "Value": 0
+          },
+          {
+            "Position": 18349,
+            "Value": 0
+          },
+          {
+            "Position": 18353,
+            "Value": 0
+          },
+          {
+            "Position": 18357,
+            "Value": 0
+          },
+          {
+            "Position": 18361,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 18398,
+        "Value": [
+          {
+            "Position": 18402,
+            "Value": -1
+          },
+          {
+            "Position": 18406,
+            "Value": -1
+          },
+          {
+            "Position": 18410,
+            "Value": -1
+          },
+          {
+            "Position": 18414,
+            "Value": -1
+          },
+          {
+            "Position": 18418,
+            "Value": -1
+          },
+          {
+            "Position": 18422,
+            "Value": -1
+          },
+          {
+            "Position": 18426,
+            "Value": -1
+          },
+          {
+            "Position": 18430,
+            "Value": -1
+          },
+          {
+            "Position": 18434,
+            "Value": -1
+          },
+          {
+            "Position": 18438,
+            "Value": -1
+          },
+          {
+            "Position": 18442,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 18495,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 18548,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 18576,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 18603,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_06": {
+      "TierGroup": {
+        "Position": 18718,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 18751,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 18788,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 18821,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 18850,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 18879,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 18908,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 18937,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 18966,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 18995,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 19024,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 19057,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 19090,
+        "Value": 5.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 19127,
+        "Value": [
+          {
+            "Position": 19131,
+            "Value": 1
+          },
+          {
+            "Position": 19135,
+            "Value": 0
+          },
+          {
+            "Position": 19139,
+            "Value": 0
+          },
+          {
+            "Position": 19143,
+            "Value": 0
+          },
+          {
+            "Position": 19147,
+            "Value": 0
+          },
+          {
+            "Position": 19151,
+            "Value": 0
+          },
+          {
+            "Position": 19155,
+            "Value": 0
+          },
+          {
+            "Position": 19159,
+            "Value": 0
+          },
+          {
+            "Position": 19163,
+            "Value": 0
+          },
+          {
+            "Position": 19167,
+            "Value": 0
+          },
+          {
+            "Position": 19171,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 19208,
+        "Value": [
+          {
+            "Position": 19212,
+            "Value": 5
+          },
+          {
+            "Position": 19216,
+            "Value": 0
+          },
+          {
+            "Position": 19220,
+            "Value": 0
+          },
+          {
+            "Position": 19224,
+            "Value": 0
+          },
+          {
+            "Position": 19228,
+            "Value": 0
+          },
+          {
+            "Position": 19232,
+            "Value": 0
+          },
+          {
+            "Position": 19236,
+            "Value": 0
+          },
+          {
+            "Position": 19240,
+            "Value": 0
+          },
+          {
+            "Position": 19244,
+            "Value": 0
+          },
+          {
+            "Position": 19248,
+            "Value": 0
+          },
+          {
+            "Position": 19252,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 19289,
+        "Value": [
+          {
+            "Position": 19293,
+            "Value": -1
+          },
+          {
+            "Position": 19297,
+            "Value": -1
+          },
+          {
+            "Position": 19301,
+            "Value": -1
+          },
+          {
+            "Position": 19305,
+            "Value": -1
+          },
+          {
+            "Position": 19309,
+            "Value": -1
+          },
+          {
+            "Position": 19313,
+            "Value": -1
+          },
+          {
+            "Position": 19317,
+            "Value": -1
+          },
+          {
+            "Position": 19321,
+            "Value": -1
+          },
+          {
+            "Position": 19325,
+            "Value": -1
+          },
+          {
+            "Position": 19329,
+            "Value": -1
+          },
+          {
+            "Position": 19333,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 19386,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 19439,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 19467,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 19494,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_07": {
+      "TierGroup": {
+        "Position": 19609,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 19642,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 19679,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 19712,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 19741,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 19770,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 19799,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 19828,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 19857,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 19886,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 19915,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 19948,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 19981,
+        "Value": 6.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 20018,
+        "Value": [
+          {
+            "Position": 20022,
+            "Value": 1
+          },
+          {
+            "Position": 20026,
+            "Value": 0
+          },
+          {
+            "Position": 20030,
+            "Value": 0
+          },
+          {
+            "Position": 20034,
+            "Value": 0
+          },
+          {
+            "Position": 20038,
+            "Value": 0
+          },
+          {
+            "Position": 20042,
+            "Value": 0
+          },
+          {
+            "Position": 20046,
+            "Value": 0
+          },
+          {
+            "Position": 20050,
+            "Value": 0
+          },
+          {
+            "Position": 20054,
+            "Value": 0
+          },
+          {
+            "Position": 20058,
+            "Value": 0
+          },
+          {
+            "Position": 20062,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 20099,
+        "Value": [
+          {
+            "Position": 20103,
+            "Value": 6
+          },
+          {
+            "Position": 20107,
+            "Value": 0
+          },
+          {
+            "Position": 20111,
+            "Value": 0
+          },
+          {
+            "Position": 20115,
+            "Value": 0
+          },
+          {
+            "Position": 20119,
+            "Value": 0
+          },
+          {
+            "Position": 20123,
+            "Value": 0
+          },
+          {
+            "Position": 20127,
+            "Value": 0
+          },
+          {
+            "Position": 20131,
+            "Value": 0
+          },
+          {
+            "Position": 20135,
+            "Value": 0
+          },
+          {
+            "Position": 20139,
+            "Value": 0
+          },
+          {
+            "Position": 20143,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 20180,
+        "Value": [
+          {
+            "Position": 20184,
+            "Value": -1
+          },
+          {
+            "Position": 20188,
+            "Value": -1
+          },
+          {
+            "Position": 20192,
+            "Value": -1
+          },
+          {
+            "Position": 20196,
+            "Value": -1
+          },
+          {
+            "Position": 20200,
+            "Value": -1
+          },
+          {
+            "Position": 20204,
+            "Value": -1
+          },
+          {
+            "Position": 20208,
+            "Value": -1
+          },
+          {
+            "Position": 20212,
+            "Value": -1
+          },
+          {
+            "Position": 20216,
+            "Value": -1
+          },
+          {
+            "Position": 20220,
+            "Value": -1
+          },
+          {
+            "Position": 20224,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 20277,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 20330,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 20358,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 20385,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_08": {
+      "TierGroup": {
+        "Position": 20500,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 20533,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 20570,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 20603,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 20632,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 20661,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 20690,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 20719,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 20748,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 20777,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 20806,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 20839,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 20872,
+        "Value": 7.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 20909,
+        "Value": [
+          {
+            "Position": 20913,
+            "Value": 1
+          },
+          {
+            "Position": 20917,
+            "Value": 0
+          },
+          {
+            "Position": 20921,
+            "Value": 0
+          },
+          {
+            "Position": 20925,
+            "Value": 0
+          },
+          {
+            "Position": 20929,
+            "Value": 0
+          },
+          {
+            "Position": 20933,
+            "Value": 0
+          },
+          {
+            "Position": 20937,
+            "Value": 0
+          },
+          {
+            "Position": 20941,
+            "Value": 0
+          },
+          {
+            "Position": 20945,
+            "Value": 0
+          },
+          {
+            "Position": 20949,
+            "Value": 0
+          },
+          {
+            "Position": 20953,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 20990,
+        "Value": [
+          {
+            "Position": 20994,
+            "Value": 7
+          },
+          {
+            "Position": 20998,
+            "Value": 0
+          },
+          {
+            "Position": 21002,
+            "Value": 0
+          },
+          {
+            "Position": 21006,
+            "Value": 0
+          },
+          {
+            "Position": 21010,
+            "Value": 0
+          },
+          {
+            "Position": 21014,
+            "Value": 0
+          },
+          {
+            "Position": 21018,
+            "Value": 0
+          },
+          {
+            "Position": 21022,
+            "Value": 0
+          },
+          {
+            "Position": 21026,
+            "Value": 0
+          },
+          {
+            "Position": 21030,
+            "Value": 0
+          },
+          {
+            "Position": 21034,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 21071,
+        "Value": [
+          {
+            "Position": 21075,
+            "Value": -1
+          },
+          {
+            "Position": 21079,
+            "Value": -1
+          },
+          {
+            "Position": 21083,
+            "Value": -1
+          },
+          {
+            "Position": 21087,
+            "Value": -1
+          },
+          {
+            "Position": 21091,
+            "Value": -1
+          },
+          {
+            "Position": 21095,
+            "Value": -1
+          },
+          {
+            "Position": 21099,
+            "Value": -1
+          },
+          {
+            "Position": 21103,
+            "Value": -1
+          },
+          {
+            "Position": 21107,
+            "Value": -1
+          },
+          {
+            "Position": 21111,
+            "Value": -1
+          },
+          {
+            "Position": 21115,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 21168,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 21221,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 21249,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 21276,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_ForagedItem_SpookyMist_09": {
+      "TierGroup": {
+        "Position": 21391,
+        "Value": {
+          "String": "Loot_ForagedItem_SpookyMist"
+        }
+      },
+      "Weight": {
+        "Position": 21424,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 21461,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 21494,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 21523,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 21552,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 21581,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 21610,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 21639,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 21668,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 21697,
+        "Value": {
+          "String": "WorldList.ForagedItems.SpookyMist"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 21730,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 21763,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 21800,
+        "Value": [
+          {
+            "Position": 21804,
+            "Value": 1
+          },
+          {
+            "Position": 21808,
+            "Value": 0
+          },
+          {
+            "Position": 21812,
+            "Value": 0
+          },
+          {
+            "Position": 21816,
+            "Value": 0
+          },
+          {
+            "Position": 21820,
+            "Value": 0
+          },
+          {
+            "Position": 21824,
+            "Value": 0
+          },
+          {
+            "Position": 21828,
+            "Value": 0
+          },
+          {
+            "Position": 21832,
+            "Value": 0
+          },
+          {
+            "Position": 21836,
+            "Value": 0
+          },
+          {
+            "Position": 21840,
+            "Value": 0
+          },
+          {
+            "Position": 21844,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 21881,
+        "Value": [
+          {
+            "Position": 21885,
+            "Value": 8
+          },
+          {
+            "Position": 21889,
+            "Value": 0
+          },
+          {
+            "Position": 21893,
+            "Value": 0
+          },
+          {
+            "Position": 21897,
+            "Value": 0
+          },
+          {
+            "Position": 21901,
+            "Value": 0
+          },
+          {
+            "Position": 21905,
+            "Value": 0
+          },
+          {
+            "Position": 21909,
+            "Value": 0
+          },
+          {
+            "Position": 21913,
+            "Value": 0
+          },
+          {
+            "Position": 21917,
+            "Value": 0
+          },
+          {
+            "Position": 21921,
+            "Value": 0
+          },
+          {
+            "Position": 21925,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 21962,
+        "Value": [
+          {
+            "Position": 21966,
+            "Value": -1
+          },
+          {
+            "Position": 21970,
+            "Value": -1
+          },
+          {
+            "Position": 21974,
+            "Value": -1
+          },
+          {
+            "Position": 21978,
+            "Value": -1
+          },
+          {
+            "Position": 21982,
+            "Value": -1
+          },
+          {
+            "Position": 21986,
+            "Value": -1
+          },
+          {
+            "Position": 21990,
+            "Value": -1
+          },
+          {
+            "Position": 21994,
+            "Value": -1
+          },
+          {
+            "Position": 21998,
+            "Value": -1
+          },
+          {
+            "Position": 22002,
+            "Value": -1
+          },
+          {
+            "Position": 22006,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 22059,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 22112,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 22140,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 22167,
+        "Value": "TG:Loot_ForagedItem_SpookyMist;LPKG:WorldList.ForagedItems.SpookyMist"
+      }
+    },
+    "Loot_AthenaTreasure_09": {
+      "TierGroup": {
+        "Position": 22282,
+        "Value": {
+          "String": "Loot_AthenaTreasure"
+        }
+      },
+      "Weight": {
+        "Position": 22315,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 22352,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 22385,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 22414,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 22443,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 22472,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 22501,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 22530,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 22559,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 22588,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.Weapon.Rocket"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 22621,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 22654,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 22691,
+        "Value": [
+          {
+            "Position": 22695,
+            "Value": 1
+          },
+          {
+            "Position": 22699,
+            "Value": 1
+          },
+          {
+            "Position": 22703,
+            "Value": 1
+          },
+          {
+            "Position": 22707,
+            "Value": 1
+          },
+          {
+            "Position": 22711,
+            "Value": 0
+          },
+          {
+            "Position": 22715,
+            "Value": 0
+          },
+          {
+            "Position": 22719,
+            "Value": 0
+          },
+          {
+            "Position": 22723,
+            "Value": 0
+          },
+          {
+            "Position": 22727,
+            "Value": 0
+          },
+          {
+            "Position": 22731,
+            "Value": 0
+          },
+          {
+            "Position": 22735,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 22772,
+        "Value": [
+          {
+            "Position": 22776,
+            "Value": 1
+          },
+          {
+            "Position": 22780,
+            "Value": 4
+          },
+          {
+            "Position": 22784,
+            "Value": 2
+          },
+          {
+            "Position": 22788,
+            "Value": 1
+          },
+          {
+            "Position": 22792,
+            "Value": 0
+          },
+          {
+            "Position": 22796,
+            "Value": 0
+          },
+          {
+            "Position": 22800,
+            "Value": 0
+          },
+          {
+            "Position": 22804,
+            "Value": 0
+          },
+          {
+            "Position": 22808,
+            "Value": 0
+          },
+          {
+            "Position": 22812,
+            "Value": 0
+          },
+          {
+            "Position": 22816,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 22853,
+        "Value": [
+          {
+            "Position": 22857,
+            "Value": -1
+          },
+          {
+            "Position": 22861,
+            "Value": -1
+          },
+          {
+            "Position": 22865,
+            "Value": -1
+          },
+          {
+            "Position": 22869,
+            "Value": -1
+          },
+          {
+            "Position": 22873,
+            "Value": -1
+          },
+          {
+            "Position": 22877,
+            "Value": -1
+          },
+          {
+            "Position": 22881,
+            "Value": -1
+          },
+          {
+            "Position": 22885,
+            "Value": -1
+          },
+          {
+            "Position": 22889,
+            "Value": -1
+          },
+          {
+            "Position": 22893,
+            "Value": -1
+          },
+          {
+            "Position": 22897,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 22950,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 23003,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 23031,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 23058,
+        "Value": "TG:Loot_AthenaTreasure;LPKG:WorldPKG.AthenaLoot.Weapon.Rocket"
+      }
+    },
+    "Loot_AthenaVending": {
+      "TierGroup": {
+        "Position": 26775,
+        "Value": {
+          "String": "Loot_AthenaVending"
+        }
+      },
+      "Weight": {
+        "Position": 26808,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 26845,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 26878,
+        "Value": 2
+      },
+      "MinWorldLevel": {
+        "Position": 26907,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 26936,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 26965,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 26994,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 27023,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 27052,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 27081,
+        "Value": {
+          "String": "WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Rocket"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 27114,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 27147,
+        "Value": 2.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 27184,
+        "Value": [
+          {
+            "Position": 27188,
+            "Value": 1
+          },
+          {
+            "Position": 27192,
+            "Value": 1
+          },
+          {
+            "Position": 27196,
+            "Value": 0
+          },
+          {
+            "Position": 27200,
+            "Value": 0
+          },
+          {
+            "Position": 27204,
+            "Value": 0
+          },
+          {
+            "Position": 27208,
+            "Value": 0
+          },
+          {
+            "Position": 27212,
+            "Value": 0
+          },
+          {
+            "Position": 27216,
+            "Value": 0
+          },
+          {
+            "Position": 27220,
+            "Value": 0
+          },
+          {
+            "Position": 27224,
+            "Value": 0
+          },
+          {
+            "Position": 27228,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 27265,
+        "Value": [
+          {
+            "Position": 27269,
+            "Value": 1
+          },
+          {
+            "Position": 27273,
+            "Value": 1
+          },
+          {
+            "Position": 27277,
+            "Value": 0
+          },
+          {
+            "Position": 27281,
+            "Value": 0
+          },
+          {
+            "Position": 27285,
+            "Value": 0
+          },
+          {
+            "Position": 27289,
+            "Value": 0
+          },
+          {
+            "Position": 27293,
+            "Value": 0
+          },
+          {
+            "Position": 27297,
+            "Value": 0
+          },
+          {
+            "Position": 27301,
+            "Value": 0
+          },
+          {
+            "Position": 27305,
+            "Value": 0
+          },
+          {
+            "Position": 27309,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 27346,
+        "Value": [
+          {
+            "Position": 27350,
+            "Value": -1
+          },
+          {
+            "Position": 27354,
+            "Value": -1
+          },
+          {
+            "Position": 27358,
+            "Value": -1
+          },
+          {
+            "Position": 27362,
+            "Value": -1
+          },
+          {
+            "Position": 27366,
+            "Value": -1
+          },
+          {
+            "Position": 27370,
+            "Value": -1
+          },
+          {
+            "Position": 27374,
+            "Value": -1
+          },
+          {
+            "Position": 27378,
+            "Value": -1
+          },
+          {
+            "Position": 27382,
+            "Value": -1
+          },
+          {
+            "Position": 27386,
+            "Value": -1
+          },
+          {
+            "Position": 27390,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 27443,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 27496,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 27524,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 27551,
+        "Value": "TG:Loot_AthenaVending.T02;LPKG:WorldPKG.AthenaLoot.VendingMachine.Weapons.Rare.Rocket"
+      }
+    },
+    "Loot_AthenaSupplyDrop_02": {
+      "TierGroup": {
+        "Position": 27682,
+        "Value": {
+          "String": "Loot_AthenaSupplyDrop"
+        }
+      },
+      "Weight": {
+        "Position": 27715,
+        "Value": 0.0
+      },
+      "QuotaLevel": {
+        "Position": 27752,
+        "Value": 13
+      },
+      "LootTier": {
+        "Position": 27785,
+        "Value": 0
+      },
+      "MinWorldLevel": {
+        "Position": 27814,
+        "Value": -1
+      },
+      "MaxWorldLevel": {
+        "Position": 27843,
+        "Value": -1
+      },
+      "StreakBreakerCurrency": {
+        "Position": 27872,
+        "Value": null
+      },
+      "StreakBreakerPointsMin": {
+        "Position": 27901,
+        "Value": 0
+      },
+      "StreakBreakerPointsMax": {
+        "Position": 27930,
+        "Value": 0
+      },
+      "StreakBreakerPointsSpend": {
+        "Position": 27959,
+        "Value": 0
+      },
+      "LootPackage": {
+        "Position": 27988,
+        "Value": {
+          "String": "WorldPKG.AthenaSupplyDrop.Weapon.Rocket"
+        }
+      },
+      "LootPreviewPackage": {
+        "Position": 28021,
+        "Value": {
+          "String": "None"
+        }
+      },
+      "NumLootPackageDrops": {
+        "Position": 28054,
+        "Value": 8.0
+      },
+      "LootPackageCategoryWeightArray": {
+        "Position": 28091,
+        "Value": [
+          {
+            "Position": 28095,
+            "Value": 1
+          },
+          {
+            "Position": 28099,
+            "Value": 1
+          },
+          {
+            "Position": 28103,
+            "Value": 1
+          },
+          {
+            "Position": 28107,
+            "Value": 1
+          },
+          {
+            "Position": 28111,
+            "Value": 1
+          },
+          {
+            "Position": 28115,
+            "Value": 0
+          },
+          {
+            "Position": 28119,
+            "Value": 0
+          },
+          {
+            "Position": 28123,
+            "Value": 0
+          },
+          {
+            "Position": 28127,
+            "Value": 0
+          },
+          {
+            "Position": 28131,
+            "Value": 0
+          },
+          {
+            "Position": 28135,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMinArray": {
+        "Position": 28172,
+        "Value": [
+          {
+            "Position": 28176,
+            "Value": 1
+          },
+          {
+            "Position": 28180,
+            "Value": 2
+          },
+          {
+            "Position": 28184,
+            "Value": 2
+          },
+          {
+            "Position": 28188,
+            "Value": 2
+          },
+          {
+            "Position": 28192,
+            "Value": 1
+          },
+          {
+            "Position": 28196,
+            "Value": 0
+          },
+          {
+            "Position": 28200,
+            "Value": 0
+          },
+          {
+            "Position": 28204,
+            "Value": 0
+          },
+          {
+            "Position": 28208,
+            "Value": 0
+          },
+          {
+            "Position": 28212,
+            "Value": 0
+          },
+          {
+            "Position": 28216,
+            "Value": 0
+          }
+        ]
+      },
+      "LootPackageCategoryMaxArray": {
+        "Position": 28253,
+        "Value": [
+          {
+            "Position": 28257,
+            "Value": -1
+          },
+          {
+            "Position": 28261,
+            "Value": -1
+          },
+          {
+            "Position": 28265,
+            "Value": -1
+          },
+          {
+            "Position": 28269,
+            "Value": -1
+          },
+          {
+            "Position": 28273,
+            "Value": -1
+          },
+          {
+            "Position": 28277,
+            "Value": -1
+          },
+          {
+            "Position": 28281,
+            "Value": -1
+          },
+          {
+            "Position": 28285,
+            "Value": -1
+          },
+          {
+            "Position": 28289,
+            "Value": -1
+          },
+          {
+            "Position": 28293,
+            "Value": -1
+          },
+          {
+            "Position": 28297,
+            "Value": -1
+          }
+        ]
+      },
+      "GameplayTags": {
+        "Position": 28350,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "RequiredGameplayTags": {
+        "Position": 28403,
+        "Value": {
+          "GameplayTags": []
+        }
+      },
+      "bAllowBonusLootDrops": {
+        "Position": 28431,
+        "Value": true
+      },
+      "Annotation": {
+        "Position": 28458,
+        "Value": "TG:Loot_AthenaSupplyDrop;LPKG:WorldPKG.AthenaSupplyDrop.Weapon.Rocket"
+      }
+    }
+  }
+]

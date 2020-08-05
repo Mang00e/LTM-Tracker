@@ -1,0 +1,718 @@
+[
+  {
+    "SupplyDropID": {
+      "Position": 25,
+      "Value": {
+        "String": "SupplyDrop_Deimos"
+      }
+    },
+    "SupplyDropClass": {
+      "Position": 58,
+      "Value": {
+        "Resource": {
+          "ObjectName": {
+            "String": "AthenaSupplyDrop_DeimosSpawner_C"
+          },
+          "OuterIndex": {
+            "Resource": {
+              "ObjectName": {
+                "String": "/Game/Athena/Deimos/Spawners/RiftSpawners/AthenaSupplyDrop_DeimosSpawner"
+              },
+              "OuterIndex": {
+                "Resource": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "SpawnType": {
+      "Position": 95,
+      "Value": {
+        "String": "ESupplyDropSpawnType::ItemDeliveryManagement"
+      }
+    },
+    "SpecialActorTag": {
+      "Position": 152,
+      "Value": {
+        "TagName": {
+          "Position": 177,
+          "Value": {
+            "String": "SpecialActor.Deimos.SupplyDrop"
+          }
+        }
+      }
+    },
+    "SpecialActorMinimapIconBrush": {
+      "Position": 242,
+      "Value": {
+        "ImageSize": {
+          "Position": 291,
+          "Value": {
+            "X": 8.0,
+            "Y": 8.0
+          }
+        },
+        "ResourceObject": {
+          "Position": 324,
+          "Value": {
+            "Resource": {
+              "ObjectName": {
+                "String": "Deimos_Rift_Minimap"
+              },
+              "OuterIndex": {
+                "Resource": {
+                  "ObjectName": {
+                    "String": "/Game/Athena/Deimos/Deimos_Rift_Minimap"
+                  },
+                  "OuterIndex": {
+                    "Resource": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "SpecialActorMinimapIconScale": {
+      "Position": 385,
+      "Value": {
+        "X": 1.0,
+        "Y": 1.0
+      }
+    },
+    "GamePhaseData": {
+      "Position": 426,
+      "Value": [
+        {
+          "Position": 479,
+          "Value": {
+            "GamePhase": {
+              "Position": 512,
+              "Value": {
+                "String": "EAthenaGamePhase::SafeZones"
+              }
+            },
+            "SupplyDropMinPlacementHeight": {
+              "Position": 569,
+              "Value": {
+                "Value": {
+                  "Position": 594,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 647,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 672,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 701,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MinPlacementHeight"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropMaxPlacementHeight": {
+              "Position": 774,
+              "Value": {
+                "Value": {
+                  "Position": 799,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 852,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 877,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 906,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MaxPlacementHeight"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropTimeInterval": {
+              "Position": 979,
+              "Value": {
+                "Value": {
+                  "Position": 1004,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1057,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1082,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1111,
+                      "Value": {
+                        "String": "Default.MeteorDrop.TimeInterval"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropTimeDeviation": {
+              "Position": 1184,
+              "Value": {
+                "Value": {
+                  "Position": 1209,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1262,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1287,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1316,
+                      "Value": {
+                        "String": "Default.MeteorDrop.TimeDeviation"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropSpawnMinWaitTime": {
+              "Position": 1389,
+              "Value": {
+                "Value": {
+                  "Position": 1414,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1467,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1492,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1521,
+                      "Value": {
+                        "String": "Default.MeteorDrop.SpawnMinWaitTime"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropSpawnMaxWaitTime": {
+              "Position": 1594,
+              "Value": {
+                "Value": {
+                  "Position": 1619,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1672,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1697,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1726,
+                      "Value": {
+                        "String": "Default.MeteorDrop.SpawnMaxWaitTime"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropMinSpawnHeight": {
+              "Position": 1799,
+              "Value": {
+                "Value": {
+                  "Position": 1824,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 1877,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 1902,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 1931,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MinSpawnHeight"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropMaxSpawnHeight": {
+              "Position": 2004,
+              "Value": {
+                "Value": {
+                  "Position": 2029,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2082,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2107,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2136,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MaxSpawnHeight"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropMinSpeed": {
+              "Position": 2209,
+              "Value": {
+                "Value": {
+                  "Position": 2234,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2287,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2312,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2341,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MinSpeed"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SupplyDropMaxSpeed": {
+              "Position": 2414,
+              "Value": {
+                "Value": {
+                  "Position": 2439,
+                  "Value": 1.0
+                },
+                "Curve": {
+                  "Position": 2492,
+                  "Value": {
+                    "CurveTable": {
+                      "Position": 2517,
+                      "Value": {
+                        "Resource": {
+                          "ObjectName": {
+                            "String": "AthenaGameData"
+                          },
+                          "OuterIndex": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": null
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "RowName": {
+                      "Position": 2546,
+                      "Value": {
+                        "String": "Default.MeteorDrop.MaxSpeed"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "SubPhaseData": {
+              "Position": 2619,
+              "Value": {
+                "SupplyDropMinCount": {
+                  "Position": 2668,
+                  "Value": {
+                    "Value": {
+                      "Position": 2693,
+                      "Value": 1.0
+                    },
+                    "Curve": {
+                      "Position": 2746,
+                      "Value": {
+                        "CurveTable": {
+                          "Position": 2771,
+                          "Value": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": {
+                                  "ObjectName": {
+                                    "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                                  },
+                                  "OuterIndex": {
+                                    "Resource": null
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "RowName": {
+                          "Position": 2800,
+                          "Value": {
+                            "String": "Default.SafeZone.SupplyDropMinCount"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "SupplyDropMaxCount": {
+                  "Position": 2873,
+                  "Value": {
+                    "Value": {
+                      "Position": 2898,
+                      "Value": 1.0
+                    },
+                    "Curve": {
+                      "Position": 2951,
+                      "Value": {
+                        "CurveTable": {
+                          "Position": 2976,
+                          "Value": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": {
+                                  "ObjectName": {
+                                    "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                                  },
+                                  "OuterIndex": {
+                                    "Resource": null
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "RowName": {
+                          "Position": 3005,
+                          "Value": {
+                            "String": "Default.SafeZone.SupplyDropMaxCount"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "SupplyDropCap": {
+                  "Position": 3078,
+                  "Value": {
+                    "Value": {
+                      "Position": 3103,
+                      "Value": 1.0
+                    },
+                    "Curve": {
+                      "Position": 3156,
+                      "Value": {
+                        "CurveTable": {
+                          "Position": 3181,
+                          "Value": {
+                            "Resource": {
+                              "ObjectName": {
+                                "String": "AthenaGameData"
+                              },
+                              "OuterIndex": {
+                                "Resource": {
+                                  "ObjectName": {
+                                    "String": "/Game/Athena/Balance/DataTables/AthenaGameData"
+                                  },
+                                  "OuterIndex": {
+                                    "Resource": null
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "RowName": {
+                          "Position": 3210,
+                          "Value": {
+                            "String": "Default.SafeZone.SupplyDropCap"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "SupplyDropTrackingTags": {
+      "Position": 3299,
+      "Value": {
+        "GameplayTags": [
+          {
+            "String": "SpecialActor.Deimos.SupplyDrop"
+          }
+        ]
+      }
+    },
+    "NumDeliveryItemsToSpawn": {
+      "Position": 3360,
+      "Value": {
+        "Value": {
+          "Position": 3385,
+          "Value": 10.0
+        }
+      }
+    },
+    "MinInitialDeliveryDelayTime": {
+      "Position": 3446,
+      "Value": {
+        "Value": {
+          "Position": 3471,
+          "Value": 0.1
+        }
+      }
+    },
+    "MaxInitialDeliveryDelayTime": {
+      "Position": 3532,
+      "Value": {
+        "Value": {
+          "Position": 3557,
+          "Value": 0.2
+        }
+      }
+    },
+    "MinTimeBetweenDrops": {
+      "Position": 3618,
+      "Value": {
+        "Value": {
+          "Position": 3643,
+          "Value": 0.1
+        }
+      }
+    },
+    "MaxTimeBetweenDrops": {
+      "Position": 3704,
+      "Value": {
+        "Value": {
+          "Position": 3729,
+          "Value": 0.2
+        }
+      }
+    },
+    "MinRespawnTime": {
+      "Position": 3790,
+      "Value": {
+        "Value": {
+          "Position": 3815,
+          "Value": 5.0
+        }
+      }
+    },
+    "MaxRespawnTime": {
+      "Position": 3876,
+      "Value": {
+        "Value": {
+          "Position": 3901,
+          "Value": 10.0
+        }
+      }
+    },
+    "MinTraceHeight": {
+      "Position": 3962,
+      "Value": {
+        "Value": {
+          "Position": 3987,
+          "Value": -115.0
+        }
+      }
+    },
+    "MaxTraceHeight": {
+      "Position": 4048,
+      "Value": {
+        "Value": {
+          "Position": 4073,
+          "Value": 115.0
+        }
+      }
+    }
+  }
+]

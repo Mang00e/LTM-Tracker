@@ -1,0 +1,3203 @@
+[
+  {
+    "Default.SafeZone.Count": {
+      "InterpMode": {
+        "Position": 58,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 99,
+        "Value": [
+          {
+            "Position": 152,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 4.0
+            }
+          },
+          {
+            "Position": 160,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 168,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 201,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 238,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 279,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.StartingRadius": {
+      "InterpMode": {
+        "Position": 336,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 377,
+        "Value": [
+          {
+            "Position": 430,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 450000.0
+            }
+          },
+          {
+            "Position": 438,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 446,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 479,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 516,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 557,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.Radius": {
+      "InterpMode": {
+        "Position": 614,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 655,
+        "Value": [
+          {
+            "Position": 708,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 400000.0
+            }
+          },
+          {
+            "Position": 716,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 200000.0
+            }
+          },
+          {
+            "Position": 724,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 150000.0
+            }
+          },
+          {
+            "Position": 732,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 740,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 773,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 810,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 851,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.RejectOuterDistance": {
+      "InterpMode": {
+        "Position": 908,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 949,
+        "Value": [
+          {
+            "Position": 1002,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 9999999.0
+            }
+          },
+          {
+            "Position": 1010,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 9999999.0
+            }
+          },
+          {
+            "Position": 1018,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1026,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1059,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1096,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 1137,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.WaitTime": {
+      "InterpMode": {
+        "Position": 1194,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 1235,
+        "Value": [
+          {
+            "Position": 1288,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1296,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 14100.0
+            }
+          },
+          {
+            "Position": 1304,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1312,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1345,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1382,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 1423,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.ShrinkTime": {
+      "InterpMode": {
+        "Position": 1480,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 1521,
+        "Value": [
+          {
+            "Position": 1574,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1582,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 30.0
+            }
+          },
+          {
+            "Position": 1590,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 270.0
+            }
+          },
+          {
+            "Position": 1598,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1606,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1639,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1676,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 1717,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.SupplyDropMinCount": {
+      "InterpMode": {
+        "Position": 1774,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 1815,
+        "Value": [
+          {
+            "Position": 1868,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1876,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 1884,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 1892,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 1925,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 1962,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 2003,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.SupplyDropMaxCount": {
+      "InterpMode": {
+        "Position": 2060,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 2101,
+        "Value": [
+          {
+            "Position": 2154,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2162,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 2170,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2178,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2211,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2248,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 2289,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.Damage": {
+      "InterpMode": {
+        "Position": 2346,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 2387,
+        "Value": [
+          {
+            "Position": 2440,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 2448,
+            "Value": {
+              "KeyTime": 2.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 2456,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 0.02
+            }
+          },
+          {
+            "Position": 2464,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2472,
+            "Value": {
+              "KeyTime": 6.0,
+              "KeyValue": 0.02
+            }
+          },
+          {
+            "Position": 2480,
+            "Value": {
+              "KeyTime": 7.0,
+              "KeyValue": 0.05
+            }
+          },
+          {
+            "Position": 2488,
+            "Value": {
+              "KeyTime": 8.0,
+              "KeyValue": 0.07
+            }
+          },
+          {
+            "Position": 2496,
+            "Value": {
+              "KeyTime": 9.0,
+              "KeyValue": 0.1
+            }
+          },
+          {
+            "Position": 2504,
+            "Value": {
+              "KeyTime": 11.0,
+              "KeyValue": 0.2
+            }
+          },
+          {
+            "Position": 2512,
+            "Value": {
+              "KeyTime": 12.0,
+              "KeyValue": 0.25
+            }
+          },
+          {
+            "Position": 2520,
+            "Value": {
+              "KeyTime": 14.0,
+              "KeyValue": 0.75
+            }
+          },
+          {
+            "Position": 2528,
+            "Value": {
+              "KeyTime": 15.0,
+              "KeyValue": 2.0
+            }
+          },
+          {
+            "Position": 2536,
+            "Value": {
+              "KeyTime": 16.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2544,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2577,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2614,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 2655,
+        "Value": 89
+      }
+    },
+    "Default.SafeZone.StartDelay": {
+      "InterpMode": {
+        "Position": 2712,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 2753,
+        "Value": [
+          {
+            "Position": 2806,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 2814,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 2847,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 2884,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 2925,
+        "Value": 89
+      }
+    },
+    "Default.SupplyDrop.TimeInterval": {
+      "InterpMode": {
+        "Position": 2982,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 3023,
+        "Value": [
+          {
+            "Position": 3076,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 3084,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3092,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3125,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3162,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 3203,
+        "Value": 89
+      }
+    },
+    "Default.SupplyDrop.TimeDeviation": {
+      "InterpMode": {
+        "Position": 3260,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 3301,
+        "Value": [
+          {
+            "Position": 3354,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3362,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3395,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3432,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 3473,
+        "Value": 89
+      }
+    },
+    "Default.TreasureChest.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 3530,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 3571,
+        "Value": [
+          {
+            "Position": 3624,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 3632,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3640,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3673,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3710,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 3751,
+        "Value": 89
+      }
+    },
+    "Default.TreasureChest.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 3808,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 3849,
+        "Value": [
+          {
+            "Position": 3902,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 3910,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 3918,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 3951,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 3988,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 4029,
+        "Value": 89
+      }
+    },
+    "Default.ApolloChest.SpawnPercent": {
+      "InterpMode": {
+        "Position": 4086,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 4127,
+        "Value": [
+          {
+            "Position": 4180,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 4188,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4196,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4229,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4266,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 4307,
+        "Value": 89
+      }
+    },
+    "Default.ApolloChest.Enabled": {
+      "InterpMode": {
+        "Position": 4364,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 4405,
+        "Value": [
+          {
+            "Position": 4458,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 4466,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4474,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4507,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4544,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 4585,
+        "Value": 89
+      }
+    },
+    "Default.ApolloAmmo.SpawnPercent": {
+      "InterpMode": {
+        "Position": 4642,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 4683,
+        "Value": [
+          {
+            "Position": 4736,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 40.0
+            }
+          },
+          {
+            "Position": 4744,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 4752,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 4785,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 4822,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 4863,
+        "Value": 89
+      }
+    },
+    "Default.ApolloAmmo.Enabled": {
+      "InterpMode": {
+        "Position": 4920,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 4961,
+        "Value": [
+          {
+            "Position": 5014,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 5022,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5030,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5063,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5100,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 5141,
+        "Value": 89
+      }
+    },
+    "Default.ShoppingCart.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 5198,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 5239,
+        "Value": [
+          {
+            "Position": 5292,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5300,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5333,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5370,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 5411,
+        "Value": 89
+      }
+    },
+    "Default.ShoppingCart.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 5468,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 5509,
+        "Value": [
+          {
+            "Position": 5562,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5570,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5603,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5640,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 5681,
+        "Value": 89
+      }
+    },
+    "Default.GolfCart.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 5738,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 5779,
+        "Value": [
+          {
+            "Position": 5832,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 5840,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 5873,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 5910,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 5951,
+        "Value": 89
+      }
+    },
+    "Default.GolfCart.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 6008,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 6049,
+        "Value": [
+          {
+            "Position": 6102,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6110,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6143,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6180,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 6221,
+        "Value": 89
+      }
+    },
+    "Default.QuadBike.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 6278,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 6319,
+        "Value": [
+          {
+            "Position": 6372,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6380,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6413,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6450,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 6491,
+        "Value": 89
+      }
+    },
+    "Default.QuadBike.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 6548,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 6589,
+        "Value": [
+          {
+            "Position": 6642,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6650,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6683,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6720,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 6761,
+        "Value": 89
+      }
+    },
+    "Default.BiPlane.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 6818,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 6859,
+        "Value": [
+          {
+            "Position": 6912,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 6920,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 6953,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 6990,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 7031,
+        "Value": 89
+      }
+    },
+    "Default.BiPlane.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 7088,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 7129,
+        "Value": [
+          {
+            "Position": 7182,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7190,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7223,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7260,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 7301,
+        "Value": 89
+      }
+    },
+    "Default.HoverBoard.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 7358,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 7399,
+        "Value": [
+          {
+            "Position": 7452,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7460,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7493,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7530,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 7571,
+        "Value": 89
+      }
+    },
+    "Default.HoverBoard.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 7628,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 7669,
+        "Value": [
+          {
+            "Position": 7722,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 7730,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 7763,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 7800,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 7841,
+        "Value": 89
+      }
+    },
+    "Default.HamsterBall.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 7898,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 7939,
+        "Value": [
+          {
+            "Position": 7992,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8000,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8033,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8070,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 8111,
+        "Value": 89
+      }
+    },
+    "Default.HamsterBall.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 8168,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 8209,
+        "Value": [
+          {
+            "Position": 8262,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8270,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8303,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8340,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 8381,
+        "Value": 89
+      }
+    },
+    "Default.Cannon.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 8438,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 8479,
+        "Value": [
+          {
+            "Position": 8532,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8540,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8573,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8610,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 8651,
+        "Value": 89
+      }
+    },
+    "Default.Cannon.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 8708,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 8749,
+        "Value": [
+          {
+            "Position": 8802,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 8810,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 8843,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 8880,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 8921,
+        "Value": 89
+      }
+    },
+    "Default.Boat.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 8978,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 9019,
+        "Value": [
+          {
+            "Position": 9072,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 9080,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9088,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9121,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9158,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 9199,
+        "Value": 89
+      }
+    },
+    "Default.Boat.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 9256,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 9297,
+        "Value": [
+          {
+            "Position": 9350,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 9358,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9366,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9399,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9436,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 9477,
+        "Value": 89
+      }
+    },
+    "Default.Choppa.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 9534,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 9575,
+        "Value": [
+          {
+            "Position": 9628,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 9636,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9644,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9677,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9714,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 9755,
+        "Value": 89
+      }
+    },
+    "Default.Choppa.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 9812,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 9853,
+        "Value": [
+          {
+            "Position": 9906,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 9914,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 9922,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 9955,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 9992,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 10033,
+        "Value": 89
+      }
+    },
+    "Default.Llamas.QuantityMin": {
+      "InterpMode": {
+        "Position": 10090,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 10131,
+        "Value": [
+          {
+            "Position": 10184,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 10192,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10200,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10233,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10270,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 10311,
+        "Value": 89
+      }
+    },
+    "Default.Llamas.QuantityMax": {
+      "InterpMode": {
+        "Position": 10368,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 10409,
+        "Value": [
+          {
+            "Position": 10462,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 10470,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10478,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10511,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10548,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 10589,
+        "Value": 89
+      }
+    },
+    "Default.VendingMachine.RarityWeights": {
+      "InterpMode": {
+        "Position": 10646,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 10687,
+        "Value": [
+          {
+            "Position": 10740,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 10748,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 10756,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 10789,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 10826,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 10867,
+        "Value": 89
+      }
+    },
+    "Default.Parachute.DeployTraceForGroundDistance": {
+      "InterpMode": {
+        "Position": 10924,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 10965,
+        "Value": [
+          {
+            "Position": 11018,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5000.0
+            }
+          },
+          {
+            "Position": 11026,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11034,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11067,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11104,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 11145,
+        "Value": 89
+      }
+    },
+    "Playground.RespawnHeight": {
+      "InterpMode": {
+        "Position": 11202,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 11243,
+        "Value": [
+          {
+            "Position": 11296,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 15000.0
+            }
+          },
+          {
+            "Position": 11304,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11312,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11345,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11382,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 11423,
+        "Value": 89
+      }
+    },
+    "GroundGame.MaxStack.Ammo.Rocket": {
+      "InterpMode": {
+        "Position": 11480,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 11521,
+        "Value": [
+          {
+            "Position": 11574,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 60.0
+            }
+          },
+          {
+            "Position": 11582,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11590,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11623,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11660,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 11701,
+        "Value": 89
+      }
+    },
+    "Default.GliderRedeploy.CanRedeploy": {
+      "InterpMode": {
+        "Position": 11758,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 11799,
+        "Value": [
+          {
+            "Position": 11852,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 11860,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 11893,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 11930,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 11971,
+        "Value": 89
+      }
+    },
+    "Default.Phoebe.Enable": {
+      "InterpMode": {
+        "Position": 12028,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 12069,
+        "Value": [
+          {
+            "Position": 12122,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12130,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12163,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12200,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 12241,
+        "Value": 89
+      }
+    },
+    "Default.FlopperSpawn.MinSpawnPercent": {
+      "InterpMode": {
+        "Position": 12298,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 12339,
+        "Value": [
+          {
+            "Position": 12392,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 12400,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12408,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12441,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12478,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 12519,
+        "Value": 89
+      }
+    },
+    "Default.FlopperSpawn.MaxSpawnPercent": {
+      "InterpMode": {
+        "Position": 12576,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 12617,
+        "Value": [
+          {
+            "Position": 12670,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 100.0
+            }
+          },
+          {
+            "Position": 12678,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12686,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12719,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 12756,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 12797,
+        "Value": 89
+      }
+    },
+    "Default.FlopperSpawnPlacementActor.Enabled": {
+      "InterpMode": {
+        "Position": 12854,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 12895,
+        "Value": [
+          {
+            "Position": 12948,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 12956,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 12964,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 12997,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13034,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 13075,
+        "Value": 89
+      }
+    },
+    "Default.FlopperSpawn.MinUsable": {
+      "InterpMode": {
+        "Position": 13132,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 13173,
+        "Value": [
+          {
+            "Position": 13226,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 13234,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13242,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13275,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13312,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 13353,
+        "Value": 89
+      }
+    },
+    "Default.FlopperSpawn.MaxUsable": {
+      "InterpMode": {
+        "Position": 13410,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 13451,
+        "Value": [
+          {
+            "Position": 13504,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 6.0
+            }
+          },
+          {
+            "Position": 13512,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13520,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13553,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13590,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 13631,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Shell": {
+      "InterpMode": {
+        "Position": 13688,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 13729,
+        "Value": [
+          {
+            "Position": 13782,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 13790,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 13798,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 13806,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 13814,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 13847,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 13884,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 13925,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Light": {
+      "InterpMode": {
+        "Position": 13982,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 14023,
+        "Value": [
+          {
+            "Position": 14076,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 14084,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14092,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14100,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14108,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14141,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14178,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 14219,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Medium": {
+      "InterpMode": {
+        "Position": 14276,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 14317,
+        "Value": [
+          {
+            "Position": 14370,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 14378,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14386,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.8
+            }
+          },
+          {
+            "Position": 14394,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14402,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14435,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14472,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 14513,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Heavy": {
+      "InterpMode": {
+        "Position": 14570,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 14611,
+        "Value": [
+          {
+            "Position": 14664,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 14672,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14680,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14688,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14696,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 14729,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 14766,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 14807,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Rocket": {
+      "InterpMode": {
+        "Position": 14864,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 14905,
+        "Value": [
+          {
+            "Position": 14958,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 14966,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14974,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 14982,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 14990,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15023,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15060,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 15101,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.RareChest": {
+      "InterpMode": {
+        "Position": 15158,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 15199,
+        "Value": [
+          {
+            "Position": 15252,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 15260,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15268,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15276,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15284,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15317,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15354,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 15395,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.SupplyDrop": {
+      "InterpMode": {
+        "Position": 15452,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 15493,
+        "Value": [
+          {
+            "Position": 15546,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 15554,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15562,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 15570,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15578,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15611,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15648,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 15689,
+        "Value": 89
+      }
+    },
+    "Default.Ammo.Fishing": {
+      "InterpMode": {
+        "Position": 15746,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 15787,
+        "Value": [
+          {
+            "Position": 15840,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 15848,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 15856,
+            "Value": {
+              "KeyTime": 3.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 15864,
+            "Value": {
+              "KeyTime": 4.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 15872,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 15905,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 15942,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 15983,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Apple.Min": {
+      "InterpMode": {
+        "Position": 16040,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 16081,
+        "Value": [
+          {
+            "Position": 16134,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 16142,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16150,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16183,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16220,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 16261,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Apple.Max": {
+      "InterpMode": {
+        "Position": 16318,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 16359,
+        "Value": [
+          {
+            "Position": 16412,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 16420,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16428,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16461,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16498,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 16539,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.CoCoNut.Min": {
+      "InterpMode": {
+        "Position": 16596,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 16637,
+        "Value": [
+          {
+            "Position": 16690,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 16698,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16706,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 16739,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 16776,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 16817,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.CoCoNut.Max": {
+      "InterpMode": {
+        "Position": 16874,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 16915,
+        "Value": [
+          {
+            "Position": 16968,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 16976,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 16984,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17017,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17054,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 17095,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Mushroom.Min": {
+      "InterpMode": {
+        "Position": 17152,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 17193,
+        "Value": [
+          {
+            "Position": 17246,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 17254,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17262,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17295,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17332,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 17373,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Mushroom.Max": {
+      "InterpMode": {
+        "Position": 17430,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 17471,
+        "Value": [
+          {
+            "Position": 17524,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 17532,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17540,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17573,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17610,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 17651,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.SlurpShroom.Min": {
+      "InterpMode": {
+        "Position": 17708,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 17749,
+        "Value": [
+          {
+            "Position": 17802,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 17810,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 17818,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 17851,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 17888,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 17929,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.SlurpShroom.Max": {
+      "InterpMode": {
+        "Position": 17986,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 18027,
+        "Value": [
+          {
+            "Position": 18080,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 18088,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18096,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18129,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18166,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 18207,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Banana.Min": {
+      "InterpMode": {
+        "Position": 18264,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 18305,
+        "Value": [
+          {
+            "Position": 18358,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 3.0
+            }
+          },
+          {
+            "Position": 18366,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18374,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18407,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18444,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 18485,
+        "Value": 89
+      }
+    },
+    "Default.Foraged.Banana.Max": {
+      "InterpMode": {
+        "Position": 18542,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 18583,
+        "Value": [
+          {
+            "Position": 18636,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 5.0
+            }
+          },
+          {
+            "Position": 18644,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18652,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18685,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 18722,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 18763,
+        "Value": 89
+      }
+    },
+    "Default.Wumba.SpawnChance": {
+      "InterpMode": {
+        "Position": 18820,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 18861,
+        "Value": [
+          {
+            "Position": 18914,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 18922,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 18930,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 18963,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19000,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 19041,
+        "Value": 89
+      }
+    },
+    "Default.Siphon.Enabled": {
+      "InterpMode": {
+        "Position": 19098,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 19139,
+        "Value": [
+          {
+            "Position": 19192,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 19200,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19208,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19241,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19278,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 19319,
+        "Value": 89
+      }
+    },
+    "Default.Siphon.GrantMatsOnKillEnabled": {
+      "InterpMode": {
+        "Position": 19376,
+        "Value": 90
+      },
+      "Keys": {
+        "Position": 19417,
+        "Value": [
+          {
+            "Position": 19470,
+            "Value": {
+              "KeyTime": 0.0,
+              "KeyValue": 1.0
+            }
+          },
+          {
+            "Position": 19478,
+            "Value": {
+              "KeyTime": 1.0,
+              "KeyValue": 0.0
+            }
+          },
+          {
+            "Position": 19486,
+            "Value": {
+              "KeyTime": 20.0,
+              "KeyValue": 0.0
+            }
+          }
+        ]
+      },
+      "DefaultValue": {
+        "Position": 19519,
+        "Value": 3.4028235E+38
+      },
+      "PreInfinityExtrap": {
+        "Position": 19556,
+        "Value": 89
+      },
+      "PostInfinityExtrap": {
+        "Position": 19597,
+        "Value": 89
+      }
+    }
+  }
+]
